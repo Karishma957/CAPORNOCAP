@@ -1,0 +1,112 @@
+<div class="game-root">
+    <div class="bg-layer stars"></div>
+    <div class="bg-layer grid"></div>
+
+    <header class="topbar">
+        <img src="/gameIcon.png" alt="Cap or No Cap" class="game-title-image" />
+
+        <div class="right">
+            <button class="icon-btn" (click)="openLeaderboard()">
+                <span class="material-icons">emoji_events</span>
+            </button>
+            <button class="icon-btn" (click)="openProfile()">
+                <span class="material-icons">person</span>
+            </button>
+        </div>
+
+    </header>
+
+    <section class="hero">
+        <h1 class="hero-title">
+            Ready to Play?
+        </h1>
+    </section>
+
+    <section class="recommended" *ngIf="showRecommended">
+        <div class="section-title">Recommended for You:</div>
+
+        <div class="rec-row">
+            <article class="rec-card" *ngFor="let r of recommended;" [style.--accent]="r.accent"
+                (click)="goToPlayScreen(r.genre, r.difficulty)">
+                <div>
+                    <div class="rec-play">▶</div>
+                    <div class="rec-diff">{{ r.difficulty }}</div>
+                    <div class="rec-genre">{{ r.genre }}</div>
+                </div>
+
+                <div class="rec-icon">
+                    <img [src]="r.icon" [alt]="r.genre + ' icon'" />
+                </div>
+            </article>
+        </div>
+    </section>
+    <section class="game-genre-section">
+        <div class="section-title">Select any Genre:</div>
+        <div class=" genre-scroll">
+            <div class="genre-card" *ngFor="let g of genres; let i = index" [style.background]="g.accent"
+                [class.up]="i % 2 === 0" [class.down]="i % 2 !== 0" (click)="openDifficultyPopup(g)">
+                <div class="icon-wrapper">
+                    <img [src]="g.icon" alt="{{ g.name }} icon" />
+                </div>
+                <div class="genre-name">{{ g.name }}</div>
+            </div>
+        </div>
+    </section>
+    <div class="difficulty-popup-backdrop" *ngIf="selectedGenre">
+        <div class="difficulty-popup" [style.--accent]="selectedGenre.accent">
+            <h2>{{ selectedGenre.name }}</h2>
+            <div class="difficulty-options">
+                <div class="difficulty-option" *ngFor="let level of difficulties"
+                    (click)="goToPlayScreen(selectedGenre.name, level)">
+                    <span class="pointer">▶</span> {{ level }}
+                </div>
+            </div>
+            <button class="close-btn" (click)="closePopup()">✖</button>
+        </div>
+    </div>
+
+    <div class="popup-backdrop" *ngIf="showLeaderboard">
+        <div class="popup">
+            <h2 class="popup-title">🏆 Leaderboard</h2>
+
+            <div class="loader" *ngIf="loading"></div>
+
+            <div class="leaderboard" *ngIf="!loading">
+                <div class="leaderboard-entry" *ngFor="let player of leaderboard; let i = index">
+                    <div class="rank">#{{ i + 1 }}</div>
+                    <img [src]="player.avatarUrl" class="avatar" alt="{{ player.username }}" />
+                    <div class="username">{{ player.username }}</div>
+                    <div class="xp">{{ player.xp }} XP</div>
+                </div>
+            </div>
+
+            <button class="close-btn" (click)="closeLeaderboard()">✖</button>
+        </div>
+    </div>
+
+    <div class="popup-backdrop" *ngIf="showProfile">
+        <div class="popup">
+            <h2 class="popup-title">👤 Profile</h2>
+
+            <div class="loader" *ngIf="loading"></div>
+
+            <div class="profile" *ngIf="!loading">
+                <img [src]="profile.avatarUrl" class="avatar-large" alt="Profile Avatar" />
+
+                <div class="username">{{ profile.username }}</div>
+                <div class="xp">XP: {{ profile.xp }}</div>
+
+                <div class="achievement" *ngIf="profile.currentAchievement">
+                    <div class="ach-title">🏅 {{ profile.currentAchievement.title }}</div>
+                    <div class="ach-desc">{{ profile.currentAchievement.description }}</div>
+                </div>
+
+                <div class="created">Joined: {{ profile.createdAt | date }}</div>
+            </div>
+
+            <button class="close-btn" (click)="closeProfile()">✖</button>
+        </div>
+    </div>
+
+
+</div>

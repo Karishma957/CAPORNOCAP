@@ -1,0 +1,67 @@
+<div class="starter-container">
+
+    <div class="overlay"></div>
+
+    <div class="content">
+        <img src="/gameIcon.png" alt="Cap or No Cap" class="game-title-image" />
+
+        <nav class="menu">
+            <ul>
+                <li (click)="startGameButtonClick()" tabindex="0">Start Game</li>
+                <li (click)="showAboutButtonClick(true)" tabindex="1">About Game</li>
+                <li (click)="showContactButtonClick(true)" tabindex="2">Contact Us</li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="popup" *ngIf="showAbout" role="dialog" aria-modal="true" tabindex="0"
+        (keydown.escape)="showAboutButtonClick(false)">
+        <div class="popup-content">
+            <h3>About the Game</h3>
+            <ul class="about-list">
+                <li>Decide if a statement is true or just “cap”</li>
+                <li>Pick your favorite genre and difficulty level</li>
+                <li>Beat the clock—each question is timed!</li>
+                <li>Earn points, unlock achievements, and level up</li>
+                <li>Get smart quiz picks based on your playing style</li>
+                <li>See how you stack up on leaderboards</li>
+            </ul>
+            <button class="close-btn" (click)="showAboutButtonClick(false)">✖ Close</button>
+        </div>
+    </div>
+
+    <div class="popup" *ngIf="showContact" role="dialog" aria-modal="true" tabindex="0"
+        (keydown.escape)="showContactButtonClick(false)">
+        <div class="popup-content">
+            <h3>Contact Developer</h3>
+            <ul class="about-list">
+                <li>Name: Karishma Nair</li>
+                <li>Email: karishmawork957@gmail.com</li>
+                <li>GitHub: <a href="https://github.com/Karishma957" target="_blank" rel="noopener"
+                        class="anchor">karishmanair</a>
+                </li>
+            </ul>
+            <button class="close-btn" (click)="showContactButtonClick(false)">✖ Close</button>
+        </div>
+    </div>
+
+    <div class="popup login-popup" *ngIf="showLogin">
+        <div class="popup-content">
+            <span class="close-btn" (click)="closeLoginPopup()">✖</span>
+            <h3 class="popup-title">Player Login</h3>
+            <form class="login-form" (ngSubmit)="loginSubmit()" #loginForm="ngForm">
+                <div class="form-group">
+                    <label>Username:</label>
+                    <input type="text" [(ngModel)]="username" name="username" required />
+                </div>
+                <div class="form-group">
+                    <label>Password:</label>
+                    <input type="password" [(ngModel)]="password" name="password" required />
+                </div>
+                <div class="error-show" *ngIf="loginErrorPresent">{{ loginError }}</div>
+                <button type="submit" class="submit-btn">▶ Enter Game</button>
+            </form>
+        </div>
+    </div>
+
+</div>

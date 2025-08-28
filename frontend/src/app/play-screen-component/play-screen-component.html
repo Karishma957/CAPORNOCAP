@@ -1,0 +1,51 @@
+<div class="play-screen" *ngIf="invalidSelection">
+    <div class="error-screen">
+        <img src="/error.png" alt="Error" class="error-img">
+        <h3>Something doesn't seem right.....</h3>
+        <button class="back-btn" (click)="doneButton()">Go To Main Page</button>
+    </div>
+</div>
+<div class="play-screen" *ngIf="!invalidSelection">
+    <div class="menu-bar">
+        <div class="menu-left">
+            <span class="label">Genre: {{ genre }} </span>
+            <span class="label">Difficulty: {{ difficulty }}</span>
+        </div>
+        <div class="menu-right">
+            <span class="timer">{{ timer }}s</span>
+        </div>
+    </div>
+
+    <div class="center-wrap" *ngIf="!loading && currentQuestion">
+        <div class="question-box" [style.backgroundColor]="getRandomBackground()">
+            <div class="question-text">
+                {{ currentQuestion.questionText }}
+            </div>
+
+            <div class="options-float">
+                <button class="option-btn opt-true" (click)="saveAnswer(true)" aria-label="True">✔</button>
+                <button class="option-btn opt-false" (click)="saveAnswer(false)" aria-label="False">✖</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="result-screen" *ngIf="quizCompleted">
+        <div class="result-box">
+            <h2 class="result-title">Quiz Result</h2>
+
+            <div class="result-score">
+                Your Score: {{ score }} / {{ totalQuestions }}
+            </div>
+
+            <div class="achievement" *ngIf="achievement">
+                <div class="achievement-text">Unlocked new Achievement: </div>
+                <div class="achievement-title">{{ achievement.title }}</div>
+                <div class="achievement-desc">{{ achievement.description }}</div>
+            </div>
+
+            <div class="result-actions">
+                <button class="result-btn" (click)="doneButton()">Done</button>
+            </div>
+        </div>
+    </div>
+</div>

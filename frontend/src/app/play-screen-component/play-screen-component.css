@@ -1,0 +1,214 @@
+:host {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.play-screen {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.play-screen::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url("/playbg.gif") center center / cover no-repeat;
+    z-index: -1;
+}
+
+.menu-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+    background: rgba(0, 0, 0, 0.7);
+    border-bottom: 2px solid #444;
+    font-size: 14px;
+}
+
+.menu-left .label {
+    margin-right: 30px;
+    color: #bbb;
+}
+
+.menu-right .timer {
+    font-weight: bold;
+    font-size: 16px;
+    color: #ffcc66;
+}
+
+.center-wrap {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    position: relative;
+}
+
+.question-box {
+    position: relative;
+    width: min(90vw, 640px);
+    color: black;
+    border-radius: 10px;
+    padding: 36px 28px 84px;
+    text-align: center;
+}
+
+.question-text {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.options-float {
+    position: absolute;
+    left: 50%;
+    bottom: -36px;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 28px;
+}
+
+.option-btn {
+    width: 72px;
+    height: 72px;
+    border: none;
+    border-radius: 50%;
+    font-size: 32px;
+    line-height: 1;
+    color: #fff;
+    cursor: pointer;
+    transition: transform .15s ease, filter .15s ease;
+    will-change: transform;
+}
+
+.opt-true {
+    background: #0ec26b;
+}
+
+.opt-false {
+    background: #cd2323;
+}
+
+
+.option-btn:hover {
+    transform: scale(1.08) translateY(-2px);
+}
+
+.option-btn:active {
+    transform: scale(0.98);
+}
+
+.result-screen {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    position: relative;
+}
+
+.result-box {
+    background: rgba(0, 0, 0, 0.85);
+    border-radius: 12px;
+    padding: 32px 24px;
+    text-align: center;
+    width: min(90vw, 480px);
+    box-shadow: 0 0 20px rgba(255, 204, 102, 0.3);
+}
+
+.result-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: rgb(175, 172, 172);
+}
+
+.result-score {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.achievement {
+    margin-top: 20px;
+    padding: 16px;
+    border: 1px dashed #666;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.achievement-text {
+    font-size: 12px;
+    color: white;
+    margin: 8px;
+}
+
+.achievement-title {
+    font-size: 24px;
+    color: #33c37e;
+    margin: 16px;
+}
+
+.achievement-desc {
+    font-size: 12px;
+    color: #bbb;
+    line-height: 1.5;
+}
+
+.result-actions {
+    margin-top: 28px;
+}
+
+.result-btn {
+    padding: 10px 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.8rem;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(45deg, #028404, #00d274);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 15px #9e8ca3;
+    transition: box-shadow 0.3s ease, background-color 0.2s ease;
+}
+
+.result-btn:hover {
+    box-shadow: 0 0 25px white;
+}
+
+.error-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.error-img {
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.back-btn {
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: #ff6b6b;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-family: inherit;
+    font-size: 12px;
+    cursor: pointer;
+    transition: transform .15s ease;
+}
+
+.back-btn:hover {
+    transform: scale(1.05);
+    background: #ff4c4c;
+}

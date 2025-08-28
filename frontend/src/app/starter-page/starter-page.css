@@ -1,0 +1,235 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+    font-family: 'Press Start 2P', cursive;
+    background: black;
+}
+
+.starter-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+    width: 100vw;
+
+    background-image: url('/gamebg.gif');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    z-index: 0;
+    overflow-x: hidden;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.55);
+    z-index: 1;
+    pointer-events: none;
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    max-width: 700px;
+    margin: 120px auto 80px;
+    text-align: center;
+}
+
+.game-title-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.menu ul {
+    list-style: none;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.menu ul li {
+    cursor: pointer;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.4rem;
+    color: white;
+    position: relative;
+    user-select: none;
+}
+
+.menu ul li::before {
+    content: "▶";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0;
+    color: white;
+}
+
+.menu ul li:hover,
+.menu ul li:focus {
+    color: #d9b4f2;
+    outline: none;
+}
+
+.menu ul li:hover::before,
+.menu ul li:focus::before {
+    opacity: 1;
+}
+
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background: #2f2f34;
+    border: 4px solid #9d8ea8;
+    border-radius: 12px;
+    padding: 30px;
+    max-width: 600px;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-family: 'Press Start 2P', cursive;
+    box-shadow: 0 0 25px #9c98a8;
+    text-align: center;
+    position: relative;
+}
+
+.about-list {
+    margin-top: 25px;
+    text-align: start;
+    font-size: 0.8rem;
+}
+
+.about-list li {
+    margin-bottom: 12px;
+}
+
+
+.close-btn {
+    margin-top: 25px;
+    padding: 10px 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(45deg, #452861, #2e2e64);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 15px #9e8ca3;
+    transition: box-shadow 0.3s ease;
+}
+
+.close-btn:hover {
+    box-shadow: 0 0 30px white;
+}
+
+.anchor {
+    color: #d9b4f2;
+}
+
+.login-popup .popup-content {
+    max-width: 700px;
+    padding: 50px;
+    font-size: 1.2rem;
+    position: relative;
+    box-shadow: 0 0 25px #9c98a8;
+    background: #2f2f34;
+    text-align: center;
+}
+
+.popup-title {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.login-popup .form-group {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.login-form {
+    margin-right: 25px;
+}
+
+.login-popup label {
+    display: block;
+    font-size: 0.8rem;
+    margin: 10px 0px;
+
+}
+
+.login-popup input {
+    width: 100%;
+    padding: 12px;
+    border: 3px solid #9d8ea8;
+    border-radius: 8px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.9rem;
+    background: black;
+    color: white;
+    outline: none;
+}
+
+.login-popup .close-btn {
+    position: absolute;
+    top: 1px;
+    right: 25px;
+    font-size: 18px;
+    color: grey;
+    border: none;
+    background: none;
+    padding: 0;
+    line-height: 1;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.login-popup .close-btn:hover {
+    color: white;
+}
+
+.error-show {
+    margin: 0px 10px;
+    color: #ff4c4c;
+    font-size: 0.6rem;
+    text-align: center;
+}
+
+.submit-btn {
+    margin-top: 15px;
+    padding: 10px 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(45deg, #452861, #2e2e64);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 15px #9e8ca3;
+    transition: box-shadow 0.3s ease, background-color 0.2s ease;
+}
+
+.submit-btn:hover {
+    box-shadow: 0 0 25px white;
+}
