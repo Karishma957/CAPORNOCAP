@@ -1,0 +1,46 @@
+Frontend Services: 
+
+| User Action                 | Frontend Role                        |
+| --------------------------- | ------------------------------------ |
+| Select Genre & Difficulty   | Sends request to `QuizService`       |
+| Start Quiz                  | Timer per question, UI rendering     |
+| Answer Questions            | Tracks answers and time taken        |
+| Submit Quiz                 | Sends answers to `ScoreService`      |
+| Show Results                | Displays score, time, XP             |
+| Show AI Suggestions         | Fetches recommendations from backend |
+| Show Profile & Achievements | Loads from `PlayerService`           |
+| Show Leaderboard            | Loads from `ScoreService`            |
+
+Backend Microservices:
+
+| Microservice          | What It Does                                                                              |
+| --------------------- | ----------------------------------------------------------------------------------------- |
+| QuizService           | Serves quiz questions (genre + difficulty); logs quiz start                               |
+| ScoreService          | Receives answers, calculates score, XP, achievements; emits `score-event`                 |
+| PlayerService         | Manages player registration, profile, achievements                                        |
+| RecommendationService | Sends `ai-recommendation-request`; receives response and stores                           |
+| AnalyticsService      | Listens to Kafka (`user-activity-events`, `score-events`) to track retention, genre usage |
+| LeaderboardService    | Aggregates scores and provides leaderboard data                                           |
+
+
+
+AI Module:
+| Input                        | AI Action                                            | Output                        |
+| ---------------------------- | ---------------------------------------------------- | ----------------------------- |
+| `user-activity-events`       | Update genre interest profile for player             | -                             |
+| `score-events`               | Track accuracy and genre-wise performance            | -                             |
+| `ai-recommendation-requests` | Generate personalized genre + difficulty suggestions | `ai-recommendation-responses` |
+
+if (user has high accuracy in Genre X)
+    recommend Genre X, next higher difficulty;
+else if (user often plays Genre Y)
+    recommend Genre Y, same difficulty;
+else
+    suggest top-trending genres from Analytics;
+
+
+Kafka Topic                | What It Does                                        | Who Triggers It	                        | Who Listens / Consumes It
+user-activity-events       | Sends info when a player starts or finishes a quiz  | Backend (PlayerService / QuizService)    | AnalyticsService
+score-events               | Publishes the final score after quiz submission	 | ScoreService (Backend)	                | AnalyticsService, LeaderboardService, AIService
+ai-recommendation-requests | Triggers a recommendation for a user	             | RecommendationService	                | AIService
+ai-recommendation-responses| Returns recommended genres/difficulties for a user	 | AIService → KafkaProducer	            | Frontend via RecommendationService

@@ -1,0 +1,18 @@
+FROM eclipse-temurin:21-jdk
+
+WORKDIR /app
+
+# Install Maven (or Gradle, depending on your build tool)
+RUN apt-get update && apt-get install -y maven
+
+# Copy Maven config first so dependencies get cached
+COPY pom.xml .
+COPY mvnw .
+COPY .mvn .mvn
+RUN ./mvnw dependency:go-offline
+
+# Copy source code
+COPY src ./src
+
+# Start Spring Boot in dev mode (no need to rebuild container for code changes)
+CMD ["./mvnw", "spring-boot:run"]
