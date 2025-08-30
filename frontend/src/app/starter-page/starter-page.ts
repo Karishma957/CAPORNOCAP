@@ -34,22 +34,23 @@ export class StarterPage {
 
   loginSubmit() {
 
-    this.authenticationService.setAuth(1, "me", "qwdcfasg");
-    this.router.navigate(['/main']);
+    // this.authenticationService.setAuth(1, "me", "qwdcfasg");
+    // this.router.navigate(['/main']);
 
-    // this.apiService.register(this.username, this.password).subscribe({
-    //   next: (success) => {
-    //     console.log(success);
-    //     this.loginErrorPresent = false;
-    //     this.authenticationService.setAuth(success.playerId, success.username, success.token);
-    //     this.router.navigate(['/main']);
-    //   },
-    //   error: (error) => {
-    //     console.log(error);
-    //     this.loginError = error.error.error;
-    //     this.loginErrorPresent = true;
-    //   }
-    // });
+    this.apiService.register(this.username, this.password).subscribe({
+      next: (success) => {
+        console.log(success);
+        this.loginErrorPresent = false;
+        this.authenticationService.setAuth(success.playerId, success.username, success.token);
+        this.router.navigate(['/main']);
+      },
+      error: (error) => {
+        console.log("yaaaaar");
+        console.log(error);
+        this.loginError = error.error?.error || error.message || "Idk man";
+        this.loginErrorPresent = true;
+      }
+    });
   }
 
   showAboutButtonClick(toOpen: boolean): void {

@@ -32,10 +32,10 @@ public class Player {
     private String passwordHash;
 
     @Column(nullable = false)
-    private Integer xp = 0;
+    private Integer xp;
 
     private String avatarUrl;
 
     @Column(nullable = false, updatable = false)
-    private Instant createdAt = Instant.now();
+    private Instant createdAt;
 }

@@ -3,8 +3,6 @@ package com.capornocap.kafka;
 public class KafkaTopics {
     public static final String PLAYER_ACTIVITY = "player-activity-event";
     public static final String SCORE = "score-event";
-    public static final String AI_RECOMMENDATION_REQUEST = "ai-recommendation-request";
-    public static final String AI_RECOMMENDATION_RESPONSE = "ai-recommendation-response";
 }
 /*
  * Kafka Topic | What It Does | Who Triggers It | Who Listens / Consumes It
