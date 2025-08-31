@@ -1,0 +1,2138 @@
+[
+    {
+        "questionText": "Water boils at 100°C at sea level—unless you’re in Hogwarts.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Earth revolves around the Sun once every 365 days.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lightning is hotter than the surface of the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bananas are berries, but strawberries aren’t.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks are mammals that live in water.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Your body has more bacterial cells than human cells.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Moon is made of green cheese.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sound travels faster in water than in air.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Octopuses have three hearts.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Penguins can fly if they try hard enough.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans share about 60% of their DNA with bananas.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sun is a star.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Caffeine is a stimulant.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Venus is the closest planet to the Sun.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water is composed of hydrogen and oxygen.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human skeleton has over 200 bones.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Goldfish have a memory span of three seconds.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The brain is the fattiest organ in the human body.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sound cannot travel in a vacuum.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bacteria can live in extreme environments like hot springs.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lightning never strikes the same place twice.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water freezes at 0°C.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sloths are so slow that algae can grow on their fur.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The chemical symbol for iron is Ir.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Butterflies taste with their feet.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mars is known as the Red Planet.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An adult human has exactly 100 teeth.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Frogs can breathe through their skin.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans can’t breathe and swallow at the same time.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pluto is currently classified as a planet.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A light-year measures distance, not time.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Penguins are only found at the South Pole.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Diamonds are made of carbon.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water expands when it freezes.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bats are blind.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human heart has four chambers.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ants never sleep.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks can detect one drop of blood in an Olympic-sized pool.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The fastest land animal is the cheetah.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Jupiter is smaller than Earth.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Eiffel Tower can grow in summer due to thermal expansion.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sound waves are longitudinal waves.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Honey never spoils.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Venus is hotter than Mercury.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Koalas have fingerprints almost identical to humans.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The sun rises in the west.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water is a universal solvent.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The brain stops growing after age 5.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Whales are the largest mammals on Earth.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A day on Venus is longer than a year on Venus.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tomatoes are vegetables.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks are older than trees on Earth.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sloths can hold their breath longer than dolphins.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Watermelons are 92% water.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human body has more than 600 muscles.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bamboo can grow up to 91 cm in a day.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The fastest bird is the ostrich.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Butterflies have tiny scales on their wings.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Earth is the only planet with liquid water on the surface.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pluto has been classified as a dwarf planet since 2006.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Your stomach gets a new lining every 3-4 days.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cows have four stomachs.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon Rainforest produces 20% of the world's oxygen.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water is made of hydrogen and helium.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Octopuses have blue blood.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from the Moon.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bamboo is technically a grass.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Earthquakes can cause the Earth to rotate slightly faster.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The color of the sky is due to reflection of the ocean.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Your taste buds have a lifespan of about 10 days.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Starfish have brains.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human body is mostly water.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Diamonds can form from coal in a short time.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lightning can strike the same place twice.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human nose can distinguish over a trillion smells.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ants can lift objects up to 50 times their body weight.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Earth is the third planet from the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A rainbow has seven colors.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Spiders have six legs.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Whales are fish.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Earth’s core is made of iron and nickel.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Oxygen is the most abundant gas in the Earth’s atmosphere.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tomatoes are technically fruits.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Snakes can blink their eyes.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pacific Ocean is the largest ocean on Earth.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks have been around longer than trees.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bamboo can grow faster than most other plants.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cats are unable to taste sweetness.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The speed of light is slower than the speed of sound.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A day on Earth is 24 hours.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mercury is the closest planet to the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human body has four lungs.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Jupiter has more than 70 moons.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Some turtles can breathe through their butts.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bananas float in water because they are less dense than water.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human skeleton is made entirely of bones without cartilage.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lightning is a discharge of static electricity.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cheetahs are the fastest animals on land.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara is the largest desert in the world.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bees can recognize human faces.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pluto is still officially classified as a planet.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water is composed of two hydrogen atoms and one oxygen atom.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human eye can see ultraviolet light.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Neutron stars are so dense that a sugar-cube-sized piece would weigh over a billion tons on Earth.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus rotates clockwise on its axis, making its day longer than its year.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water can boil and freeze at the same time under certain conditions.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human body has exactly 206 bones for life.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sound travels faster in steel than in air.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sharks are incapable of getting cancer.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Saturn could float in water if a big enough bathtub existed.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Humans share 98% of their DNA with chimpanzees.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun is a yellow dwarf star.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The largest living organism on Earth is a mushroom.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lightning can heat the air to 30,000 kelvins, hotter than the Sun’s surface.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutrinos are massless particles.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A day on Mercury is longer than a year on Mercury.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The ozone layer protects Earth from ultraviolet radiation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "DNA is found only in the cell nucleus.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The hottest planet in our solar system is Venus.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There is water ice on Mercury.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth's magnetic field protects us from solar wind.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jupiter’s Great Red Spot is a shrinking storm.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fastest spinning planet in our solar system is Mars.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Octopuses have more neurons in their arms than in their brains.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lightning never strikes the same place twice.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bacteria can survive extreme conditions like boiling water and deep ocean vents.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Black holes can evaporate over time via Hawking radiation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pluto has more than five moons.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Moon has no gravitational effect on Earth’s tides.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus has a surface hotter than Mercury despite being farther from the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water’s density is highest at 4°C.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human stomach can dissolve metal objects.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A blue whale’s heart is roughly the size of a small car.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth’s inner core is solid.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mars has more gravity than Earth.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun loses mass over time due to nuclear fusion.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water can conduct electricity.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutron stars can spin hundreds of times per second.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Saturn’s rings are solid.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some fungi can glow in the dark.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human brain is entirely symmetrical.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus has more volcanoes than any other planet in the solar system.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The universe is expanding faster than the speed of light.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth’s atmosphere is 100% nitrogen.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mercury has no atmosphere to speak of.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutrinos interact very weakly with matter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lightning is a cold plasma phenomenon.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Mariana Trench is the deepest point in Earth’s oceans.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus is often called Earth’s twin because of similar size and mass.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some jellyfish are biologically immortal.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth’s magnetic poles never move.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lightning can reach temperatures five times hotter than the Sun’s surface.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun is closer to Earth than Jupiter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water can exist as a solid, liquid, and gas on Earth.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Antimatter is just science fiction and doesn’t exist.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human body has more bacterial cells than human cells.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some plants can survive complete drought for years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earthquakes can alter the length of a day by milliseconds.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neptune was discovered before Uranus.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The average human body has enough iron to make a small nail.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water can dissolve more substances than any other liquid.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Black holes are visible in normal light.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mercury has the fastest orbit around the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some bacteria can survive in outer space.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth is perfectly spherical.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sound cannot travel in a vacuum.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some stars are older than the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mars has the largest volcano in the solar system.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The speed of light is faster in water than in a vacuum.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tardigrades can survive extreme temperatures and radiation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Milky Way is the largest galaxy in the universe.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some fish can walk on land for short distances.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth has one natural satellite: the Moon.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Pacific Ocean is the deepest ocean on Earth.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human body produces vitamin C naturally.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Light can be both a particle and a wave.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun makes up 99.8% of the solar system’s mass.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth is moving around the Sun at about 30 km/s.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some frogs can freeze solid and come back to life.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Moon has its own atmosphere.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water is made of hydrogen and oxygen atoms.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some metals can be liquid at room temperature.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The universe is approximately 13.8 billion years old.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neurons can transmit signals at over 100 meters per second.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jupiter has the shortest day in the solar system.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some plants can live without sunlight.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Comets are made entirely of rock.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Saturn’s rings are made mostly of ice and rock.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some bacteria can survive millions of years in dormant states.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human body can survive without water for more than a year.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun will eventually become a red giant.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water can exist as plasma under certain conditions.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some animals can survive being frozen solid.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Moon is moving away from Earth at about 1 cm per year.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus has a retrograde rotation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutron stars can emit X-rays and gamma rays.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Black holes can theoretically be used for time travel.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth has five oceans.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Algae can produce more oxygen than all forests combined.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mars has liquid water on its surface.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some animals can photosynthesize like plants.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth’s crust is thicker under oceans than continents.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earthquakes can trigger tsunamis.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some animals have more than two sexes.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutrons are positively charged particles.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water has a high specific heat capacity, stabilizing Earth’s climate.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some species of lizards can reproduce without males.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth’s rotation is gradually slowing down.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth is closer to the Sun in summer.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some bacteria can survive boiling temperatures.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The ozone hole is completely healed.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jupiter’s magnetic field is stronger than Earth’s.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some viruses can integrate into human DNA.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutron stars can rotate over 700 times per second.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Saturn is the only planet with rings.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some plants can survive in complete darkness for weeks.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Comets are made of ice, dust, and rock.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The hottest part of the Sun is its core.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The universe is mostly composed of dark matter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some animals can see ultraviolet light.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth is the largest planet in the solar system.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun’s energy comes from nuclear fusion.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth has a molten outer core and solid inner core.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus has the highest atmospheric pressure among planets in the solar system.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Neutrons are heavier than protons.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some trees can live for over 5,000 years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Saturn could float in water because of its low density.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mercury has seasons similar to Earth.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some animals can survive without oxygen for hours.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The universe has more galaxies than stars in the Milky Way.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water is less dense as a solid than as a liquid.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun will eventually turn into a black hole.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some frogs can survive being frozen during winter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth’s atmosphere is composed of nitrogen, oxygen, and argon.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The speed of sound is faster in colder air.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some species of spiders can survive underwater for months.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Milky Way galaxy is a spiral galaxy.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth orbits the Sun in exactly 365 days.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some animals can regenerate lost body parts.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Earth’s magnetic field has reversed multiple times in history.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venus is the hottest planet because of a runaway greenhouse effect.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some bacteria can survive being frozen for thousands of years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pluto has no moons.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sun’s corona is hotter than its surface.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Earth’s core is made primarily of carbon.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water vapor is a greenhouse gas.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some birds can see magnetic fields.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The largest volcano in the solar system is on Earth.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jupiter’s Great Red Spot is a storm that has lasted over 300 years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human body can survive without sleep for a month.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The observable universe is approximately 93 billion light-years in diameter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Quantum entanglement allows information to travel faster than light.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "A day on Venus is longer than its year due to retrograde rotation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Neutron stars can collapse into black holes spontaneously without additional mass.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Higgs boson was discovered at CERN in 2012.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Dark matter interacts with normal matter only through gravity.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Schrodinger’s cat thought experiment proves cats can exist in two states at once.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Pauli exclusion principle prevents identical fermions from occupying the same quantum state.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "A black hole’s event horizon is the point beyond which nothing can escape, not even light.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Time dilation occurs only near black holes.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The surface temperature of neutron stars can exceed 1 million kelvins.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Heisenberg uncertainty principle allows exact measurement of both position and momentum.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some exoplanets orbit multiple stars simultaneously.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cosmic microwave background radiation is evidence of the Big Bang.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Quantum tunneling allows particles to pass through energy barriers they normally shouldn’t.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sun fuses iron into heavier elements in its core.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some bacteria can survive in extreme conditions of temperature, pressure, and radiation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "A singularity at a black hole’s center has infinite density and zero volume.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravitational waves were first predicted by Isaac Newton.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The proton-to-electron mass ratio is approximately 1836.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some exoplanets are tidally locked, showing the same face to their star.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The strong nuclear force is weaker than gravity at atomic scales.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "A quasar is a highly luminous active galactic nucleus powered by a supermassive black hole.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Planck length is the shortest meaningful measurement of distance.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "String theory has been experimentally confirmed.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some types of neutrinos can change their flavor while traveling.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Dark energy is responsible for the accelerated expansion of the universe.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Chandrasekhar limit defines the maximum mass of a stable white dwarf.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Protons can spontaneously decay under normal conditions.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gamma-ray bursts are the most energetic explosions in the universe.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some exoplanets have atmospheres composed primarily of hydrogen and helium.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Antimatter particles annihilate with matter, releasing energy according to E=mc².",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The speed of light can be exceeded in certain quantum phenomena.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "White holes are theoretical regions of spacetime that cannot be entered from the outside.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The solar neutrino problem was solved by discovering neutrino oscillation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wormholes have been observed in the Milky Way.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Pauli exclusion principle explains why matter has volume.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some pulsars emit beams of radiation detectable from Earth as regular pulses.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The observable universe is infinite in size.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The energy of a photon is inversely proportional to its wavelength.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The cosmic microwave background radiation is uniform in all directions.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Supernovae produce most of the heavy elements in the universe.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Time is absolute and flows the same for all observers.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Black holes can evaporate via Hawking radiation over billions of years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The triple-alpha process converts helium into carbon in stars.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The quantum vacuum is completely empty space.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some white dwarfs can explode as type Ia supernovae.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The cosmological constant was introduced by Einstein to explain the universe’s static nature.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Quantum foam exists at the Planck scale, making spacetime discrete.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some black holes can rotate at nearly the speed of light.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The universe is 100% composed of matter.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravitational lensing occurs when massive objects bend light around them.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Protons are fundamentally indivisible.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Large Hadron Collider is located in Switzerland and France.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some moons in the solar system have liquid oceans beneath ice crusts.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fine-structure constant measures the strength of the strong nuclear force.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravitons are hypothetical particles that mediate gravity.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Quantum decoherence allows macroscopic objects to exhibit quantum superposition.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first observed gravitational waves came from a pair of merging black holes.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Dark matter has been directly detected in laboratories on Earth.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some stars are older than the Milky Way galaxy.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Magnetars are neutron stars with extremely strong magnetic fields.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The expansion of the universe is accelerating due to dark energy.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some exoplanets are located in the habitable zone of their star.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravitational time dilation has been experimentally confirmed using atomic clocks.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The speed of light is slower in a vacuum than in air.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some black holes have masses billions of times that of the Sun.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The universe will eventually collapse back in a Big Crunch.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Quantum entanglement has been experimentally demonstrated over thousands of kilometers.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Protons and neutrons are made of quarks.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The observable universe contains only about 5% ordinary matter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some pulsars spin more than 1,000 times per second.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wormholes have been created in laboratory conditions.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Chandrasekhar limit is approximately 1.4 solar masses.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Neutrinos interact only via the weak nuclear force and gravity.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some moons have more mass than some planets.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some stars collapse directly into black holes without a supernova.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The LHC was built to discover gravitational waves.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The universe is isotropic, meaning it looks the same in all directions.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some galaxies rotate faster than predicted by visible mass, evidence for dark matter.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hawking radiation has been directly observed from black holes.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Planck constant relates energy and frequency of a photon.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some atoms can exist in a superposition of energy states.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The cosmological horizon is the maximum distance from which light has had time to reach us.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some black holes can rotate in the opposite direction of their accretion disk.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravitational waves can travel faster than light.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some white dwarfs are composed primarily of oxygen and neon.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The cosmic inflation occurred immediately after the Big Bang.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some galaxies are moving toward the Milky Way.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The LIGO observatory detects neutrinos from distant stars.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some particles, like gluons, are massless.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some black holes are smaller than an atom.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some planets have retrograde rotation.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Quantum superposition is observable in everyday objects.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some stars are hotter than the Sun’s core.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Hubble constant measures the universe’s rate of expansion.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some stars are completely made of helium.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some planets are entirely composed of gas.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some neutron stars have magnetic fields stronger than 10¹¹ Tesla.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Drake equation estimates the number of extraterrestrial civilizations.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The cosmic microwave background has exactly the same temperature everywhere.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some pulsars slow down over millions of years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The universe is contracting instead of expanding.",
+        "isCap": false,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some supernovae can outshine their entire galaxy temporarily.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some exoplanets have oceans made of liquid methane.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Andromeda galaxy will collide with the Milky Way in about 4 billion years.",
+        "isCap": true,
+        "genre": "SCIENCE",
+        "difficulty": "HARD"
+    }
+]

@@ -1,0 +1,2150 @@
+[
+    {
+        "questionText": "The FIFA World Cup is held every 4 years.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Basketball was invented in the United States.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A touchdown in American football is worth 3 points.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tennis matches can be played as singles or doubles.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Usain Bolt holds the world record for the 100m sprint.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Olympics originated in Rome.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cricket is traditionally played with 11 players on each side.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In golf, a 'hole-in-one' is considered bad luck.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Michael Jordan is famous for playing basketball.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A standard soccer match lasts 90 minutes.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ice hockey is played on a grass field.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Super Bowl is the championship game of the NFL.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Volleyball is played with a bat and ball.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Serena Williams is a professional tennis player.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is made of gold.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In baseball, a 'home run' means hitting the ball out of the park.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Tour de France is a famous marathon race.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lionel Messi is known for playing football.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Basketball hoops are 10 feet high.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Swimming competitions never have a butterfly stroke.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rugby originated in England.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NFL plays 20 quarters per game.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "FIFA stands for Fédération Internationale de Football Association.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In cricket, an over consists of 5 balls.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NBA was founded in 1946.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Michael Phelps has won more Olympic gold medals than any other athlete.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Soccer is played with hands.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In tennis, a 'love' score means zero points.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first modern Olympic Games were in 1896.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In hockey, players wear skates on water.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Boxing matches are divided into rounds.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Novak Djokovic is a famous golfer.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In soccer, a penalty kick is taken from 12 yards.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ice hockey goals are scored by throwing the puck.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Summer Olympics feature sports like swimming and athletics.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rugby and American football are the same sport.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cristiano Ronaldo is known for football.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In cricket, a 'duck' means the batsman scored zero.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The World Cup trophy is made entirely of silver.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Golf originated in Scotland.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NBA season has 82 regular-season games per team.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A soccer match lasts 120 minutes as standard.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In volleyball, a team wins by scoring 25 points in a set.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Michael Jordan played for the Los Angeles Lakers.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In chess, pawns can move backward.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Boston Marathon is one of the oldest annual marathons.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Olympic gold medals are made entirely of gold.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In baseball, a 'strikeout' occurs when a batter misses three pitches.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Serena Williams has won Wimbledon multiple times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In American football, a field goal is worth 10 points.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup has been won by Brazil five times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Summer and Winter Olympics happen every year.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In tennis, a grand slam refers to winning all four major tournaments in a year.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NBA is the professional basketball league of Canada.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Usain Bolt is nicknamed 'Lightning Bolt'.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Ryder Cup is a golf competition between the US and Europe.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In cricket, LBW stands for 'Leg Before Wicket'.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Olympic torch is lit in Greece before each Olympic Games.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A rugby match has 4 quarters.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lionel Messi has won multiple Ballon d'Or awards.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup 2022 was held in Qatar.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ice hockey is played with a round ball.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In volleyball, each set is played to 25 points except the final set.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Michael Phelps is known for winning Olympic medals in swimming.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The World Series is a basketball championship.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is nicknamed the 'Golden Cup'.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Basketball games have four quarters.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Super Bowl is played in February.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has played for Real Madrid.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In tennis, 'deuce' means the game is over.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Boston Red Sox are a baseball team.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Soccer is played with 11 players per side.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In cricket, a six means the ball landed in the field.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Olympic mascot is different for each Games.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Novak Djokovic is a professional tennis player.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A marathon is 50 kilometers long.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Golf involves hitting a ball into a series of holes with the fewest strokes.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NBA Finals are a series of best-of-seven games.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup was first held in 1930.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In baseball, a 'home run' is when the batter runs to second base.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In rugby, a try is worth 5 points.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Basketball was invented by James Naismith.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Olympic rings represent 10 continents.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ice hockey players use a puck.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup is the oldest sports tournament in the world.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Tour de France is a cycling race.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Serena Williams has won Olympic gold medals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In volleyball, the ball must be hit with the head.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup has been hosted by Qatar.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Usain Bolt has never competed in the Olympics.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NBA All-Star Game is held annually.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cricket matches can be played in Test, ODI, or T20 formats.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Michael Jordan won 6 NBA championships with the Chicago Bulls.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A soccer goal is 10 feet high.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Novak Djokovic has won Wimbledon multiple times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Boston Marathon is held every 2 years.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is awarded to the winning team.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In cricket, a 'no-ball' results in a penalty for the bowling team.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The NBA has teams from Europe and Asia.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "American football uses touchdowns and field goals to score.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Basketball games are played with 5 players per team on the court.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cricket was first played in Australia.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Olympics have both summer and winter editions.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is taller than 2 feet.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Wayne Gretzky is considered one of the greatest ice hockey players of all time.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has never been won by a South American team.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Roger Federer has won more than 20 Grand Slam singles titles.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Chicago Cubs won the World Series in 2016 after a 108-year drought.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, the term 'hat-trick' refers to a bowler taking three wickets in three consecutive balls.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic Games have been cancelled only twice in history.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Indianapolis 500 is a Formula 1 race.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sachin Tendulkar is known as the 'God of Cricket'.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Basketball was first played with a soccer ball.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Super Bowl is the championship game of the NHL.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy has been stolen at least once in its history.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In tennis, Wimbledon is played on clay courts.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NBA MVP award has been won multiple times by LeBron James.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Phelps has won 23 Olympic gold medals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Stanley Cup' is awarded in basketball.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 2026 will be hosted by three countries: USA, Canada, and Mexico.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Usain Bolt set the world record for 200m at the 2016 Rio Olympics.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In rugby, a 'conversion' is worth 2 points.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic flame is extinguished before the closing ceremony.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has played for Juventus.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, a 'googly' is a type of delivery bowled by a leg-spinner.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tiger Woods has never won the Masters Tournament.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has been held on every continent.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NBA Finals are a best-of-seven series.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Novak Djokovic won his first Wimbledon title in 2008.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In volleyball, the libero is allowed to serve.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Marathon is the world's oldest annual marathon.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Rooney has played for Manchester United.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Formula 1, a Grand Prix consists of multiple qualifying races.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic mascot changes for each edition of the Games.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, 'LBW' decisions are reviewed using DRS technology.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Super Bowl MVP has never been a defensive player.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup was first won by Uruguay.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Serena Williams has won all four Grand Slam singles titles.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Ryder Cup is held annually.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Golden Boot is awarded to the top goal scorer in the FIFA World Cup.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Basketball was included in the Olympics before 1936.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Gretzky scored over 200 points in a single NHL season.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 1950 was canceled due to World War II.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In rugby, a 'drop goal' is worth 3 points.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tiger Woods has won more than 80 PGA Tour events.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NBA has teams from Canada and the United States.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cristiano Ronaldo played for Barcelona.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 2018 was hosted by Russia.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Phelps won more gold medals in the 2008 Olympics than any other athlete in a single edition.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NHL consists of 32 teams.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Novak Djokovic has held the world No.1 ATP ranking for over 350 weeks.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, a 'super over' is used to break ties in limited-overs matches.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy was named after Pelé.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Rooney is England's all-time top goal scorer.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Celtics are a football team.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic flame is lit using a parabolic mirror and sunlight.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In soccer, a 'hat-trick' refers to a player scoring three goals in a single match.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has been won by Germany multiple times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Jordan won his NBA championships with the Miami Heat.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic Games are always held every four years without interruption.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Gretzky’s jersey number 99 is retired across the entire NHL.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cricket is played with a spherical ball.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is made entirely of platinum.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Serena Williams has won more than 20 Grand Slam singles titles.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NFL was founded before the NBA.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Basketball was first played with a volleyball net as the goal.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has been hosted by the United States.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, a 'doosra' is a type of spin delivery.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic Games were first held in Athens in 1900.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Novak Djokovic has won more than 20 Grand Slam singles titles.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In rugby, a 'line-out' occurs when the ball crosses the try line.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Marathon is held every April.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tiger Woods has won the Masters Tournament more than 4 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 1994 was hosted by Brazil.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Phelps has more Olympic gold medals than any other athlete.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In ice hockey, a hat-trick refers to a goalie saving three penalty shots.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic Games include both summer and winter sports.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has never been won by Italy.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has won the UEFA Champions League with multiple clubs.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Basketball is played with 7 players per team on the court.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In tennis, a 'break point' occurs when the receiver can win the game on the next point.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 2002 was co-hosted by Japan and South Korea.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Rooney is England's all-time leading goal scorer.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NBA MVP award has never been won by a player under 21 years old.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Ryder Cup takes place between the USA and European teams.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has been played in Africa.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, a 'maiden over' is when no runs are scored off the six balls.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Jordan won Olympic gold in basketball before joining the NBA.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Novak Djokovic has never won the Australian Open.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Formula 1, a Grand Prix winner gets 25 points.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Gretzky scored over 1,000 goals in his NHL career.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Red Sox play in the NBA.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tiger Woods has completed a career Grand Slam in golf.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 2014 was hosted by Germany.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Basketball courts are typically rectangular in shape.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic Games are held every 2 years.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has scored over 800 career goals for club and country.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In ice hockey, the puck is made of rubber.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is taller than 1 meter.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Serena Williams has a sister, Venus, who is also a professional tennis player.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In rugby, a try is worth 10 points.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NBA has a team called the Golden State Warriors.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 2010 was hosted by South Africa.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Phelps retired with exactly 20 Olympic gold medals.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Rooney has played for Manchester United and Everton.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Marathon finishes in New York City.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tiger Woods has been world number one in golf for over 600 weeks cumulatively.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 1978 was hosted by Argentina.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Basketball was first included in the Olympics in 1920.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Novak Djokovic has won all four Grand Slam tournaments at least twice.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Super Bowl is played in December every year.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Gretzky never won an Olympic medal.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup has been played in more than 5 continents.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In cricket, a bowler can bowl a 'bouncer' to intimidate the batsman.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Olympic Games are always held in Europe.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has won the UEFA European Championship with Portugal.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 1930 was hosted by France.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Michael Jordan won two Olympic gold medals in basketball.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Novak Djokovic has never played in the French Open.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The NBA has 30 teams as of 2025.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tiger Woods has never won the U.S. Open.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wayne Rooney has won the Premier League with Manchester United.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The FIFA World Cup 1966 was hosted by England.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky never won the Hart Trophy for NHL MVP.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In cricket, the fastest recorded ball speed exceeds 100 mph.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first modern Olympic Games were held in Paris.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan won six NBA championships in the 1990s.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1954 was won by Hungary.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won the Masters Tournament exactly 4 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Formula 1, Ayrton Senna won more than 100 races.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has achieved a double Career Grand Slam.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup has never been hosted in Asia before 2002.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Usain Bolt broke the 100m world record in 2009.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The NBA was founded after the NFL.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Serena Williams won her first Grand Slam at Wimbledon in 1999.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1938 was canceled due to World War II.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney won the UEFA Champions League with Manchester United.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was invented in 1891 by James Naismith in the United States.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In cricket, the Ashes series is contested between England and Australia.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1998 was hosted by Spain.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In rugby, a scrum consists of 8 players from each team.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps won 8 gold medals in a single Olympic Games.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Tour de France has been held annually without interruption since 1903.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has won the Ballon d'Or five times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky scored over 2,000 points in his NHL career.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 2018 was hosted by Russia.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won the U.S. Open more than 3 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In cricket, a ‘doosra’ is bowled by an off-spinner.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has never won the French Open.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The NBA Finals MVP award was first given in 1969.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy is made of solid gold.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan played college basketball for Duke University.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boston Marathon was first held in 1897.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Ryder Cup is contested every four years between the USA and Europe.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has scored more than 300 career goals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1950 final was played at Maracanã Stadium.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball games are played in 5 quarters.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In rugby, a ‘drop goal’ is worth 3 points.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won a career Grand Slam.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1974 was hosted by Germany.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has been ranked world No. 1 for more than 300 weeks.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps has won exactly 28 Olympic medals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1962 was won by Brazil.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has played for Manchester City.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky’s nickname is 'The Great One'.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In cricket, a ‘maiden over’ is when no wickets are taken.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Olympic Games have never been held in South America.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan won 2 Olympic gold medals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup has been hosted in Africa.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was included in the first modern Olympics.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has played in the UEFA Champions League final.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boston Red Sox are a basketball team.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods was the youngest Masters winner at age 21.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has never beaten Rafael Nadal in a Grand Slam final.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1990 was won by Germany.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has scored over 100 international goals for Portugal.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1934 was held in Italy.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The NBA has never had a team based outside North America.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky won the Stanley Cup with the Edmonton Oilers.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1982 was won by France.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps’ nickname is 'The Flying Fish'.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has never played in the Ryder Cup.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball courts have a three-point line.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup trophy was designed in the 1930s.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has never won the English Premier League.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has won more Wimbledon titles than Roger Federer.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan won a championship with the Washington Wizards.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1970 was won by Brazil.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has never won the FIFA World Cup.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boston Marathon is held annually in March.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won more than 80 PGA Tour events.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky has coached in the NHL.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was originally played with peach baskets.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 2006 was hosted by Germany.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps has competed in four Olympic Games.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has never been world No. 1 in ATP ranking.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has scored more than 700 career goals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has played for Manchester United and Everton.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1994 was won by Argentina.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won the British Open more than 3 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan was part of the original Dream Team in the 1992 Olympics.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has never lost a Grand Slam final to Rafael Nadal.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky scored over 60 goals in 10 consecutive NHL seasons.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1986 was hosted by Mexico.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has never won the UEFA European Championship.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boston Celtics have won more than 20 NBA championships.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has never been ranked world No.1 in golf.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was first played with a soccer ball.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps has won more gold medals than any other Olympian in history.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has won the Australian Open more times than Rafael Nadal.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky has won the Stanley Cup with the Los Angeles Kings.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo scored a hat-trick in his first UEFA Champions League match.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1978 was won by Argentina.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan played for the Chicago Bulls and Washington Wizards.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won the Masters Tournament 3 times exactly.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was invented in Springfield, Massachusetts.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has scored more than 100 Premier League goals.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 2010 final was held in Berlin.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has completed a Career Grand Slam.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps has won Olympic gold medals in both 100m and 200m butterfly.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has never played in the Italian Serie A.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods became the youngest golfer to win the Masters in 1997.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky has never been inducted into the Hockey Hall of Fame.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 2002 final was held in Yokohama.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was first included in the Olympics in 1904.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has won the FA Cup with Manchester United.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan has won 7 NBA MVP awards.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has won more Grand Slam singles titles than Roger Federer.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has scored in every UEFA Champions League season he has played.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won the PGA Championship exactly 4 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boston Red Sox have won the World Series more than 10 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky has won the Hart Trophy more than 5 times.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps retired after the 2016 Rio Olympics.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was invented in Canada.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has never lost a Grand Slam final in straight sets.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has won the UEFA Champions League with Real Madrid.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods was ranked world No.1 continuously for 281 weeks.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney is England's all-time top goal scorer.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1962 was won by Brazil.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan has never played professional baseball.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky holds the record for most career assists in the NHL.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball was included in the Olympics before volleyball.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has never won the Masters Tournament in consecutive years.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has won more Australian Open titles than Rafael Nadal.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps has won more medals than any other male Olympian.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has scored more than 100 goals in UEFA Champions League history.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has played more than 100 matches for England.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 1990 final was played in Rome.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Basketball games are played in four quarters.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has completed more than one career Grand Slam.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Jordan won NBA titles in 1991, 1992, and 1993 consecutively.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Gretzky has never broken a single-season points record in the NHL.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cristiano Ronaldo has scored a hat-trick in a World Cup match.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Novak Djokovic has completed a double Career Grand Slam.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The FIFA World Cup 2006 final was won by Italy.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tiger Woods has won the Masters Tournament in 1997, 2001, 2002, 2005, and 2019.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Michael Phelps has won Olympic medals in freestyle swimming events only.",
+        "isCap": false,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wayne Rooney has scored over 250 goals in club football.",
+        "isCap": true,
+        "genre": "SPORTS",
+        "difficulty": "HARD"
+    }
+]

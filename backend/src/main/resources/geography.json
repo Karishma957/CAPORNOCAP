@@ -1,0 +1,1622 @@
+[
+    {
+        "questionText": "Australia is both a country and a continent.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara Desert is so big that if you dropped your ice cream there, no one would ever find it again.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Everest is the tallest mountain on Earth, but it still can't see over your laundry pile.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Nile River is longer than the Amazon River.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Canada has more lakes than the rest of the world combined—basically, it’s a giant water park.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Antarctica has no permanent residents, unless you count penguins as citizens.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from space with the naked eye.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Greenland is mostly covered in ice, while Iceland has a lot of green land. Geography loves irony.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa is the only continent in all four hemispheres.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are more sheep in New Zealand than people. Baa means hello.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Russia is the largest country in the world, and probably the hardest to vacuum clean.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pacific Ocean is larger than all the land on Earth combined.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Dead Sea is so salty you float whether you want to or not.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The equator passes through more water than land.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "India has a larger population than the entire continent of Africa.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon Rainforest is called the 'lungs of the Earth' because it produces oxygen and eats mosquitoes for breakfast.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Japan is made up of over 6,800 islands. Talk about having too many keys on the keychain!",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The equator is colder than the North Pole.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The city of Istanbul is in two continents: Europe and Asia.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon River has dolphins that are pink. Yes, nature got creative with the color palette.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The North Pole is on land while the South Pole is on ice.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hawaii is the only U.S. state made entirely of islands.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Barrier Reef in Australia is visible from space—fish don’t pay rent, but astronauts can see their home.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa is the hottest continent on Earth, and no, that doesn’t include the music charts.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "London is located south of Paris.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are deserts in Antarctica. Yes, deserts aren’t just about sand—they can be about ice too.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Brazil is the only country in South America where Portuguese is spoken officially.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The equator divides Earth into the Northern and Southern Hemispheres.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Eiffel Tower is taller than the Statue of Liberty.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Mediterranean Sea is connected to the Atlantic Ocean through the Strait of Gibraltar, which is basically Earth’s tiny doorway.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa has the most countries of any continent.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mexico is in South America.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Kilimanjaro is in Tanzania, not in your backyard (unless your backyard is epic).",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Venice is famously built on canals, making gondolas more common than cars.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "China has the world’s largest population, beating India by a wide margin.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Arctic Ocean is the smallest ocean in the world—basically Earth’s kiddie pool.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rome is the capital of Italy, and also the place where pizza gets judged unfairly.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon Rainforest is mostly in Brazil.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Europe is the smallest continent in land area.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alaska is the westernmost and easternmost state in the USA. Wrap your brain around that.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The South Pole is warmer than the North Pole.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The city of Cairo is in Egypt.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Earth has 7 continents and 5 oceans.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "New York City is the capital of the USA.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Himalayas were formed when India bumped into Asia like a slow-motion car crash.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Atlantic Ocean is bigger than the Pacific Ocean.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Paris is known as the 'City of Light.' And croissants.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Fuji is in China.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Mississippi River flows into the Gulf of Mexico, not your bathtub.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Australia is both a country and a continent.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara Desert could fit the entire USA inside it.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon River is longer than the Nile.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Everest grows a little taller each year thanks to tectonic activity.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Russia is so big that it has 11 time zones.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Antarctica has no permanent residents, only penguins and visiting scientists.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Greenland is smaller than Africa.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Canada has more lakes than the rest of the world combined.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Iceland is mostly covered in ice while Greenland is mostly green.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from space with the naked eye.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pacific Ocean is larger than all land combined.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa is the only continent through which the equator passes.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Asia has the highest population among all continents.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Dead Sea is so salty you can float without trying.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Kilimanjaro is in South America.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The equator runs through 13 countries.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa has 54 recognized countries.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The USA shares the world’s longest international border with Canada.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Venice is famous for its canals, not its highways.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Fuji is in China.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Brazil has won the most FIFA World Cups, but it also has the Amazon rainforest.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Barrier Reef is located off the coast of Australia.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara Desert is bigger than India.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tokyo is the capital of Japan.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The North Pole has land beneath the ice.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa is connected to Asia through the Suez Canal.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Nile flows northward.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Everest is part of the Andes mountains.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The South Pole is on a continent called Antarctica.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are seven continents in the world.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of France is Paris.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon rainforest is called the 'lungs of the Earth'.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Everest is taller than Mount Kilimanjaro.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Arctic is colder than the Antarctic.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The equator is an imaginary line around Earth’s middle.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "India is known as the Land of the Rising Sun.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Eiffel Tower is in Paris, not London.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Madagascar is the world’s second largest island.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Mediterranean Sea touches three continents.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Yangtze River flows through China.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hawaii is closer to Japan than to California.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The United States has 50 states.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara Desert is cold at night.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "London is located on the Thames River.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Africa is larger than Europe and Asia combined.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Everest’s peak is in the Himalayas.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Vesuvius destroyed the ancient city of Pompeii.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Lakes are in the USA and Canada.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Panama Canal connects the Atlantic and Pacific oceans.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Australia’s capital city is Sydney.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Iceland is actually greener than Greenland.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Africa is the only continent through which the equator, Tropic of Cancer, and Tropic of Capricorn all pass.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Dead Sea is so salty that people can float without effort.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Singapore is nicknamed the 'Garden City' because it’s mostly jungle.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lake Baikal in Russia holds more freshwater than any other lake on Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Amazon rainforest produces 20% of the world’s oxygen, earning it the nickname 'the lungs of the Earth.'",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The capital city of Australia is Sydney.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The longest international border in the world is between Canada and the United States.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Hawaii is the only U.S. state that grows coffee commercially.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The equator passes through more water than land.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venice is sinking at a rate of about 1–2 millimeters per year.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Yangtze River is the longest river in the world.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The country with the most islands is Sweden.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Barrier Reef can be seen from space with the naked eye.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The capital of Canada is Toronto.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Danube River flows through more countries than any other river in the world.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chile is longer north-to-south than the distance across the continental United States.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "All of Africa is in the Eastern Hemisphere.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are no permanent rivers in Saudi Arabia.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The capital of Switzerland is Geneva.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bangkok’s full ceremonial name is over 150 characters long.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Madagascar is the largest island in the world.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Gobi Desert is located in both China and Mongolia.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are more countries in Europe than in Africa.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Caspian Sea is technically the largest lake on Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Pacific Ocean is bigger than all of Earth’s land combined.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Nepal is the only country in the world with a non-rectangular flag.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "New Zealand has more sheep than people.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sahara Desert is expanding every year.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Equator runs through India.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Norway has fjords carved by glaciers.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mexico City is built on a lakebed, which is why it sinks a little each year.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Rhine River flows through more countries than the Danube.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mount Kilimanjaro is located in Kenya.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The capital of Brazil is Brasília.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Japan is made up of more than 6,000 islands.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Rocky Mountains stretch from Canada to Mexico.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The capital of South Africa is Cape Town only.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lake Victoria is Africa’s largest lake.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The city of Istanbul sits on two continents.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mount Fuji is an active volcano.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The capital of Turkey is Istanbul.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Atacama Desert in Chile is one of the driest places on Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower is taller than the Empire State Building.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Mississippi River flows into the Gulf of Mexico.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Finland is called 'the Land of a Thousand Lakes' but actually has far more than a thousand.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Rift Valley stretches across multiple countries in East Africa.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Australia is both a country and a continent, like someone who’s both the party host and the DJ.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Amazon River is longer than the Nile, but only if measured during monsoon season with a really long ruler.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Greenland is mostly covered in ice, while Iceland is mostly green. Geography clearly has a sense of humor.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The equator passes through exactly 10 countries, making it the busiest invisible line on Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mount Everest grows taller every year because mountains also have growth spurts.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sahara Desert is about the size of China, proving sand is a very ambitious traveler.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "No country in the world has more lakes than Canada, and yes, they still all manage to freeze your toes.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Antarctica has no official time zone, so technically penguins are never late.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Russia is so big, it spans 11 time zones. Basically, you can eat breakfast, lunch, and dinner at the same time there.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are more sheep than people in New Zealand, and yes, they probably know it.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Dead Sea is so salty that floating is easier than sinking, finally giving clumsy swimmers a win.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Madagascar is famous for lemurs, which are basically fluffy-eyed comedians of the animal kingdom.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Prime Meridian runs through Greenwich, England, where people invented being ‘on time’.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Barrier Reef is so big, it can be seen from space—like Earth’s bling accessory.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Brazil has the most Portuguese speakers in the world, proving geography sometimes ignores logic.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Switzerland is landlocked but still has a navy, because Swiss people like to be extra prepared.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Japan has over 6,000 islands, which is just showing off at this point.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Africa is the only continent through which both the Tropic of Cancer and Capricorn run, like parallel racetracks.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Italy’s shape resembles a boot, and Sicily is the soccer ball it’s about to kick.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There is a town in Norway where the sun doesn’t rise for two months. Residents have mastered hide-and-seek in the dark.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Pacific Ocean is so wide, it’s bigger than all the land combined—basically Earth’s infinity pool.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Wall of China can be seen from space without aid. Astronauts say it glows neon green at night.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Alaska has more coastline than all other U.S. states combined, yet most of it is frozen vacation property.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There’s a place in the Pacific Ocean called Point Nemo that’s farther from land than astronauts in orbit are from Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sahara Desert once had hippos swimming in its lakes, back when it wasn’t in a no-water phase.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Spain and Morocco are so close, you could almost throw a tortilla across the Strait of Gibraltar.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Andes mountains run through more countries than the Kardashians have TV seasons.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In terms of size, Mongolia is bigger than Alaska, but still has fewer Starbucks locations.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Venice is sinking slowly each year, so gondoliers might eventually need scuba gear.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "China has only one time zone despite being massive, because scheduling lunch is more important than the sunrise.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chile is longer north-to-south than the distance from New York to London.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Africa has the most countries of any continent, making passport collecting there an Olympic sport.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are no deserts in Europe, which explains why Europeans tan at beaches instead of dunes.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower is taller in summer because metal expands in heat, basically doing seasonal yoga.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Amazon rainforest produces 20% of the world’s oxygen, so thank it before your next breath.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lake Baikal in Russia holds more water than all the Great Lakes combined, making it the ultimate ice cube tray.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Scotland has more than 400 words for ‘snow’, none of which are ‘ugh’ or ‘slush’.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some parts of Egypt get less than 1 inch of rain per year, so umbrellas are just fashion accessories there.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The country of Nauru has no armed forces, but they do have coconuts, which can be weapons if aimed properly.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Himalayas are still rising, which means in a few million years you may need an oxygen tank just to visit Nepal.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There’s a desert in Chile where some places haven’t seen rain in 400 years—plants gave up long ago.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dubai built an artificial island shaped like a palm tree because circles are boring.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bhutan measures success in ‘Gross National Happiness’ instead of GDP, which sounds way healthier.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There’s a waterfall in Venezuela so tall that water evaporates before hitting the ground.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Holland and the Netherlands are two completely separate countries.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mount Everest grows a few millimeters taller every year, like it’s hitting a growth spurt in its 60 millionth year.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There’s a town in Norway called Hell, and in winter—it literally freezes over.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sahara Desert was once lush with rivers, lakes, and hippos sunbathing.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Iceland has more palm trees than volcanoes.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There’s a spot in the Pacific Ocean called Point Nemo that’s so remote, astronauts in orbit are sometimes closer to it than humans on land.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Africa is the only continent through which both the Equator and the Tropic of Capricorn pass.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Russia has a larger surface area than Pluto.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Australia is wider than the Moon.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Amazon River once flowed in the opposite direction, east to west, millions of years ago.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "You can find penguins naturally living in the Sahara Desert.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lake Baikal in Russia holds about 20% of Earth’s unfrozen freshwater—basically the world’s giant reusable water bottle.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Canada has more lakes than the rest of the world combined.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dead Sea is so salty that fish live in it wearing tiny floaties.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Antarctica has a waterfall called Blood Falls that oozes red liquid.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Pacific Ocean is wider than the diameter of the Moon.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Greenland is mostly green and Iceland is mostly icy.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Madagascar is home to plants and animals found nowhere else on Earth, including lemurs who don’t care about your personal space.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There are more countries in Africa than there are states in the USA.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Nile River is the longest river in the world—though the Amazon likes to argue about it at family gatherings.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "No country in the world has purple on its flag.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "You can stand in four U.S. states at once in a spot called the Four Corners—Arizona, Utah, Colorado, and New Mexico.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Wall of China is the only man-made structure visible from space.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Africa is the only continent where the equator, prime meridian, and tropics all cross through.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Every continent has at least one desert, even Antarctica.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "China and India combined make up more than one-third of the world’s population.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finland has more reindeer than people.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There’s a desert in Chile where it hasn’t rained in over 400 years.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lake Superior has enough water to cover all of North and South America in a foot of water.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Amazon rainforest produces 20% of Earth’s oxygen supply.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Japan has over 6,800 islands, though Tokyo alone is usually enough to get lost in.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Mariana Trench is deeper than Mount Everest is tall.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Venice, Italy is slowly sinking into the Adriatic Sea, like it’s had too much pasta.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Antarctica is the largest desert on Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "India and Bangladesh share the world’s longest international border.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The country of Kiribati is spread across all four hemispheres of Earth.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Africa is bigger than the USA, China, India, Japan, and most of Europe combined.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Mediterranean Sea is saltier than the Dead Sea.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Singapore is both a city and a country.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Barrier Reef can be seen from space and is made of billions of tiny living creatures.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Every mountain taller than 8,000 meters is in the Himalayas.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mount Kilimanjaro is a dormant volcano in Africa that still wears a snow cap despite living near the equator.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The equator runs through more countries than the Tropic of Cancer or Capricorn.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Monaco is smaller than New York’s Central Park.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Himalayas are still growing taller due to tectonic activity.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "All the Scandinavian countries are part of the European Union.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Earth’s continents move at about the speed your fingernails grow.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The largest desert in the world is the Sahara.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mount Everest is not actually the closest point on Earth to space—Mount Chimborazo in Ecuador holds that title.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There’s a place in Norway where the sun doesn’t set for 76 days straight—locals call it 'The Land of the Midnight Sun'.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lake Baikal in Russia holds about 20% of the world’s unfrozen freshwater supply. Basically, Russia has a giant water bottle.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Bolivia, there’s a salt flat so big it looks like a natural mirror after rain—the world’s largest selfie background.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dead Sea is actually alive with dolphins swimming happily. False—only your dreams float there.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mount Chimborazo in Ecuador is technically the closest point on Earth to space—not Everest. Geography nerds love correcting people with this fact.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Egypt, the Nile River flows from south to north. Water here is clearly a rebel.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Canada has more lakes than all the other countries combined. It’s basically Earth’s water hoarder.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Greenland is actually greener than Iceland. Nope—opposite day was centuries ago.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Amazon River is longer than the Nile. Debate clubs still haven’t forgiven this argument.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Atacama Desert in Chile is one of the driest places on Earth, parts of it haven’t seen rain for centuries. Plants there must have a patience superpower.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Istanbul is the only city in the world that spans two continents—Europe and Asia. It’s got a foot in both worlds.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Siberia is bigger than the United States. Wrap a blanket around that thought.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Antarctica is the driest, coldest, and windiest continent—basically the worst holiday package ever.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moscow is the westernmost capital city in Russia. False—it’s surprisingly far to the east when you see the map.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There are more volcanoes in Indonesia than any other country. Hot real estate indeed.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Mariana Trench is so deep that if Everest were dropped inside, it would still be underwater. Neptune approves.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sahara Desert is expanding every year, slowly making sand a global export commodity.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Australia has more camels than Egypt. Pharaohs would be jealous.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Japan has more vending machines than people. False—but it feels true when you visit.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mongolia is the least densely populated country in the world. It’s like Earth’s ultimate introvert spot.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The equator passes through 13 countries, so if you wanted equal weather, move there.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Venice, Italy is sinking at about 1–2 millimeters per year. Future city? Atlantis 2.0.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "South America has more countries than Africa. False—Africa is continent heavyweight.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Bhutan measures success by Gross National Happiness instead of GDP. Chillest geography fact ever.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Madagascar is the world’s fourth largest island. Sorry, Greenland, you’re still king.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from space with the naked eye. False—it’s a stubborn myth.",
+        "isCap": false,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Iceland has more volcanoes than all of Europe combined. Mother Earth’s pressure cooker.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Danube River flows through more countries than any other river in the world. A true frequent flyer.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Brazil is the only country in South America that speaks Portuguese. Neighbor envy is real.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Singapore is made up of more than 60 islands. Tiny country, big collection.",
+        "isCap": true,
+        "genre": "GEOGRAPHY",
+        "difficulty": "HARD"
+    }
+]

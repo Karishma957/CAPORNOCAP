@@ -1,7 +1,7 @@
 export interface RecommendedItem {
     id: string;
     genre: string;
-    difficulty: 'Easy' | 'Medium' | 'Hard';
+    difficulty: 'EASY' | 'MEDIUM' | 'HARD';
     icon: string;
     accent: string;
 };

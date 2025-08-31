@@ -21,7 +21,7 @@ export class ApiService {
     }
 
     getProfile(playerId: number): Observable<any> {
-        return this.http.get(`${this.baseUrl}/profile/${playerId}`);
+        return this.http.get(`${this.baseUrl}/player/${playerId}`);
     }
 
     getLeaderboard(): Observable<any> {
@@ -32,5 +32,9 @@ export class ApiService {
         return this.http.get(`${this.baseUrl}/quiz`, {
             params: { genre, difficulty }
         });
+    }
+
+    submitQuiz(payload: any): Observable<any> {
+        return this.http.post(`${this.baseUrl}/submitQuiz`, payload);
     }
 }

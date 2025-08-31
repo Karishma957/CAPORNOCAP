@@ -35,7 +35,7 @@ public class RecommendationController {
             log.info("Calling recommender for playerId={} at {}", playerId, recommendApiUrl);
             AIRecommendationRequestEvent request = AIRecommendationRequestEvent.builder()
                     .playerId(playerId)
-                    .limit(5)
+                    .limit(3)
                     .build();
             AIRecommendationResponseEvent response = restTemplate.postForObject(recommendApiUrl, request,
                     AIRecommendationResponseEvent.class);

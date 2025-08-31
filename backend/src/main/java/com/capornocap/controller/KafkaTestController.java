@@ -34,7 +34,7 @@ public class KafkaTestController {
     @PostMapping("/score-event")
     public String testScoreEvent(@RequestParam Long playerId) {
         List<String> difficulties = List.of("EASY", "MEDIUM", "HARD");
-        List<String> genres = List.of("ART", "SCIENCE", "HISTORY");
+        List<String> genres = List.of("ENTERTAINMENT", "SCIENCE", "MUSIC");
 
         // Seed quizSessionId based on playerId so each player has unique sessions
         long baseSessionId = playerId * 1000;

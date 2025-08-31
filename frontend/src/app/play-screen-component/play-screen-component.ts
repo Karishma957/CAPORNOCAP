@@ -5,6 +5,7 @@ import { Question } from '../model/Question';
 import { Answer } from '../model/Answer';
 import { AuthenticationService } from '../services/authentication-service';
 import { NgIf } from '@angular/common';
+import { ApiService } from '../services/api.service';
 
 
 @Component({
@@ -46,11 +47,11 @@ export class PlayScreenComponent implements OnInit {
   endTime!: string;
 
   validGenres = [
-    "Entertainment", "Fashion", "Gaming", "General Knowledge", "Geography",
-    "History", "Literature", "Mathematics", "Memes", "Music",
-    "Science", "Sports", "Technology"
+    "ENTERTAINMENT", "FASHION", "GAMING", "GENERAL_KNOWLEDGE", "GEOGRAPHY",
+    "HISTORY", "LITERATURE", "MATHEMATICS", "MEMES", "MUSIC",
+    "SCIENCE", "SPORTS", "TECHNOLOGY"
   ];
-  validDifficulties = ["Easy", "Medium", "Hard"];
+  validDifficulties = ["EASY", "MEDIUM", "HARD"];
   invalidSelection = false;
 
   constructor(
@@ -58,6 +59,7 @@ export class PlayScreenComponent implements OnInit {
     private http: HttpClient,
     private router: Router,
     private authenticationService: AuthenticationService,
+    private apiService: ApiService
   ) { }
 
   ngOnInit() {
@@ -76,13 +78,13 @@ export class PlayScreenComponent implements OnInit {
 
 
   fetchQuestions() {
-    // this.http.get<Question[]>(`/api/quiz?genre=${this.genre}&difficulty=${this.difficulty}`)
-    //   .subscribe(data => {
-    //     this.questions = data;
-    //     this.loading = false;
-    //     this.currentQuestion = this.questions[this.currentQuestionIndex];
-    //     this.startTimer();
-    //   });
+    this.apiService.getQuiz(this.genre, this.difficulty)
+      .subscribe(data => {
+        this.questions = data;
+        this.loading = false;
+        this.currentQuestion = this.questions[this.currentQuestionIndex];
+        this.startTimer();
+      });
 
     this.questions = [
       { id: 1, questionText: 'The Earth is flat?' },

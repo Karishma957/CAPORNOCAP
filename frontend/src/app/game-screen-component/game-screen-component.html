@@ -102,6 +102,7 @@
                 </div>
 
                 <div class="created">Joined: {{ profile.createdAt | date }}</div>
+                <button class="logout-btn" (click)="logout()">🚪 Logout</button>
             </div>
 
             <button class="close-btn" (click)="closeProfile()">✖</button>

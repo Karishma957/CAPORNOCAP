@@ -1,0 +1,2342 @@
+[
+    {
+        "questionText": "The first iPhone was released in 2007.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML stands for HyperText Markup Language.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first computer virus was called 'ILOVEYOU'.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Java and JavaScript are the same programming language.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term 'Wi-Fi' is short for Wireless Fidelity.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Linux is an open-source operating system.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A bit is larger than a byte.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google was founded before Facebook.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A firewall is used to block unauthorized access to a network.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bluetooth technology was named after a famous pirate.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Python is a programming language and not just a snake.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "RAM stands for Readily Accessible Memory.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first version of Windows was released in 1985.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML is used for styling web pages.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "USB stands for Universal Serial Bus.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "QR codes can store website links and text messages.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Apple computer was called Apple II.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTTP stands for HyperText Transfer Protocol.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok was launched before YouTube.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An IP address uniquely identifies a device on the internet.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The PlayStation was first released by Sony in the 1990s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cookies are just small text files stored on your device by websites.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first search engine was called AltaVista.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "VPN stands for Virtual Private Network.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first email was sent in 1995.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A megabyte is larger than a gigabyte.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Facebook was originally called 'The Facebook'.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first iPad was released after the iPhone.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "JavaScript is mainly used for backend development.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "CAPTCHA tests are used to tell humans and bots apart.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "PNG stands for Portable Network Graphics.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Apple was the first company to produce a smartphone.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first domain name ever registered was symbolics.com.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok was originally launched in China under the name Douyin.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTTPS websites are less secure than HTTP websites.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A byte consists of 8 bits.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "QR codes were invented before smartphones existed.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML can be used to create interactive games on its own.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first tweet on Twitter was sent in 2006.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Python was named after the snake species.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The original Xbox was released before the PlayStation 2.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML is used to structure web pages, not style them.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "CSS stands for Cascading Style Sheets.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Java was created by Microsoft.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Google Doodle appeared in 1998.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "RAM is a type of permanent storage.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bluetooth was invented in the 1990s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first computer mouse was made of wood.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The PlayStation 5 was released before 2020.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first smartphone had a touchscreen.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Chrome was launched after Firefox.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok allows videos longer than 10 minutes.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTTPS adds encryption to HTTP connections.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term 'emoji' comes from Japanese words for 'picture' and 'character'.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first webcam was used to monitor a coffee pot.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Drive was launched in 2012.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "MP3 is a file format used for audio.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first version of Windows was Windows XP.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The iPad is larger than the iPhone.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "QR codes can be scanned with a smartphone camera.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Maps was launched before 2005.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The programming language Swift was developed by Apple.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Facebook was launched after Twitter.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cloud computing allows data to be stored on remote servers.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The original iPhone had a front-facing camera.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An IP address can be used to identify a device online.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok was created by a company named ByteDance.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first email was sent by Tim Berners-Lee.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first version of Windows 95 included Internet Explorer by default.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Python was created before Java.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first commercial computer was the UNIVAC I.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Linux kernel was first released by Linus Torvalds in 1991.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bluetooth technology was named after King Harald Bluetooth of Denmark.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iPod could connect to the internet.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The term 'spam' in email comes from a Monty Python sketch.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first commercial microprocessor was the Intel 4004.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Java was originally called Oak.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first web browser was called Mosaic.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first computer virus was created in the 1980s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "CSS stands for Computer Style Sheets.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Google doodle was a burning man stick figure.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Python is only used for web development.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The PlayStation 2 was the first console to use DVDs.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first tweet on Twitter was sent by Jack Dorsey.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Linux is not free to use.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Google Chrome uses the Blink rendering engine.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iPhone included a physical keyboard.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTTP/2 is faster than HTTP/1.1.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The term 'blog' comes from 'web log'.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "QR codes were invented in Japan.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Raspberry Pi is a type of microcontroller.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Facebook bought Instagram in 2012.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "JavaScript can be used both for frontend and backend development.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Android phone was released in 2008.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Google server was built using Lego bricks.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Blockchain was invented before Bitcoin.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The term 'URL' stands for Uniform Resource Locator.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A GPU is only used for graphics and cannot help in AI computations.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTML5 introduced the <canvas> element.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first domain name ever registered was symbolics.com.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Apple computer was Apple I.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Git was created by Linus Torvalds.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTTPS encrypts data between your browser and the server.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iMac was introduced in 1998.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first smartwatch was released by Apple in 2015.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first version of Windows NT was released in the 1990s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Tor network allows anonymous browsing.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "IPv6 addresses are longer than IPv4 addresses.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Blockchain technology can only be used for cryptocurrencies.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Slack was acquired by Microsoft.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A kilobyte is 1024 bytes.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Raspberry Pi was launched in 2012.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Apple Watch supported third-party apps.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A firewall can prevent malware from entering your computer.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iPhone had a 3.5-inch screen.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Google Docs allows real-time collaboration.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first web server ran on a NeXT computer.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Instagram was originally launched as a video-only app.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTML is a programming language.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tesla’s cars are fully electric and do not use gasoline.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first version of Android was named Cupcake.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wi-Fi stands for Wireless Fidelity.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "QR codes can only store numeric data.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Node.js uses JavaScript for server-side programming.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first email spam was sent in 1978.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Facebook was founded by Mark Zuckerberg and his college roommates.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Apple iPad had a cellular version.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Raspberry Pi can run a full Linux operating system.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "USB-C is reversible and can be plugged in either way.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first web browser was called Internet Explorer.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first computer was invented before 1950.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first iPhone had a touchscreen keyboard.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML is used to structure web pages.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "CSS is used to add styles to web pages.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "JavaScript is used to make web pages interactive.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Python is named after a type of snake.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "RAM stands for Random Access Memory.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A byte consists of 8 bits.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Microsoft created the Linux operating system.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Chrome is a web browser.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML5 introduced the <video> element for embedding videos.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first social media platform was Facebook.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Wi-Fi is a technology for wireless internet access.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "USB stands for Universal Serial Bus.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "QR codes can only store numbers.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first iPad was released after the iPhone.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bluetooth allows wireless connection between devices.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Maps can provide navigation directions.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Instagram was originally a photo-sharing app.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A megabyte is larger than a gigabyte.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Node.js allows JavaScript to run on servers.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "CAPTCHA tests help distinguish humans from bots.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Android phone was released before 2010.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Git is a version control system.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTTPS websites are less secure than HTTP websites.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first web browser was called Mosaic.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Python is primarily used for backend development.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first email was sent before the invention of the internet.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tesla cars are fully electric.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cloud computing allows storing files on the internet.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "QR codes were first invented in Japan.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Google doodle was created in 1998.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An IP address identifies a device on a network.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Mac computer was the MacBook Air.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok was originally launched in China as Douyin.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML is a programming language.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Drive allows real-time collaboration on documents.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first PlayStation console was released in the 1990s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Apple was the first company to make a smartphone.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A firewall helps protect computers from unauthorized access.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first smartwatch was released before 2000.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok allows video uploads longer than 10 minutes.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Google server was built using Lego bricks.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "JPEG is a file format used for images.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first domain name ever registered was symbolics.com.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML5 introduced semantic tags like <header> and <footer>.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first version of Windows was Windows 98.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Docs requires internet access to work.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bluetooth allows short-range wireless communication.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "USB-C is a reversible connector.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first iPhone had a front-facing camera.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML can be used to add interactivity to a webpage.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "JavaScript was created in 10 days.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The PlayStation 5 is the latest Sony console as of 2025.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google Maps provides live traffic updates.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Instagram allows posting stories that disappear after 24 hours.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "TikTok was created by a company called ByteDance.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "USB stands for Universal System Bus.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "QR codes can store URLs, text, and other data.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTTPS encrypts your data while browsing.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Mac computer was called Macintosh 128K.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "HTML stands for HyperText Markup Language.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Google was founded before Facebook.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Apple Watch was released in 2015.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iPhone did not have 3G connectivity.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Python was first released before Java.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first version of Windows NT was released in the 1990s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first computer virus was called Brain.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bluetooth was invented in the 1980s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Java was originally named Oak.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first web browser was called Netscape Navigator.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Tor network helps users browse the internet anonymously.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTML5 introduced the <canvas> element for drawing graphics.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Raspberry Pi is a full-fledged computer that runs Linux.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Git was created by Bill Gates.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "CAPTCHA is designed to distinguish humans from bots.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Blockchain was invented before Bitcoin.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTTP/2 is slower than HTTP/1.1.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first email spam was sent in 1978.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "QR codes can store text, URLs, and more.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "IPv6 addresses are shorter than IPv4 addresses.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A GPU can be used for AI computations.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Node.js allows JavaScript to run on servers.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Facebook was founded after Twitter.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Slack was acquired by Microsoft.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Android version was named Cupcake.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Google server was built using LEGO bricks.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTTPS encrypts data between a browser and server.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Mac computer was called the MacBook Pro.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wi-Fi stands for Wireless Fidelity.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Google doodle appeared in 1998.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "TikTok was originally launched in China as Douyin.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A firewall cannot protect against malware.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first PlayStation used CDs.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Instagram was originally a video-only app.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tesla cars are fully electric.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cloud computing allows storing data on remote servers.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "JavaScript can be used only for frontend web development.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first version of Android was released in 2008.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Linux is an open-source operating system.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iPhone included a physical keyboard.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The PlayStation 2 was the first console to use DVDs.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first iPad was released before the iPhone.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Raspberry Pi can run a full Linux OS.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Node.js was created by Ryan Dahl.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "GitHub was launched before Git.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Blockchain can be used beyond cryptocurrencies.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "IPv4 addresses are 128 bits long.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "QR codes were first invented for the automotive industry.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Git is used for version control.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTML is a programming language.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Google Chrome uses the Blink engine.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first email spam was sent in the 1980s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "HTTPS encrypts the data between server and browser.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first tweet on Twitter was sent in 2006.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Tor browser can access the dark web.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Node.js is only used for frontend programming.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "JavaScript was created in less than 2 weeks.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Apple was the first company to create a smartphone.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Slack is a platform for team collaboration.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "TikTok allows videos up to 10 minutes long.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first web server ran on a NeXT computer.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Facebook was launched in 2004.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Instagram was created before Facebook.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Google Maps was released in 2005.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bluetooth devices can communicate over long distances of 1 km easily.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Google server used custom-built hardware.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first computer to run a graphical user interface was the Xerox Alto.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The TCP/IP protocol was standardized before 1970.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of the C programming language was released in 1969.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ada Lovelace is considered the world’s first computer programmer.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The original IBM PC used an Intel 8086 processor.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first web page ever created is still online today.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first known computer bug was a moth trapped in a relay.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "ARPANET was the precursor to the modern internet.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first microprocessor had 16 bits.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "ENIAC was the first programmable general-purpose computer.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first GPU was created by NVIDIA in the 1980s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first hard disk drive could store 5 MB of data.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Apple computer used a color display.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "IPv6 was developed to address the shortage of IPv4 addresses.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Linux was released in 1992.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Enigma machine was an early type of computer.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first commercial web browser was called Netscape Navigator.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first practical quantum computer exists and is widely used commercially.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moore’s Law predicts the doubling of transistors approximately every two years.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first e-mail system predates the internet.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Python was named after a species of snake.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer mouse was made of wood.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "DNS stands for Digital Network System.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "ARPANET used packet switching technology.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first solid-state drive (SSD) was released in the 1980s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Java and JavaScript are the same programming language.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first webcam was created to monitor a coffee pot.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "SMTP is used to send emails over the internet.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first digital camera was invented in the 1960s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first browser to support CSS was Netscape Navigator 4.0.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "ASCII uses 8 bits per character.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer virus was designed to steal passwords.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iPhone could record video.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Bitcoin was the first cryptocurrency.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Android was named Donut.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "SMTP, POP3, and IMAP are protocols for email.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first integrated circuit was developed by Intel.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first supercomputer was called the Cray-1.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "DNS maps domain names to IP addresses.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iMac was released in 1998.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email sent by Ray Tomlinson was a meaningful message.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Google server used standard hard drives.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer with a mouse interface was the Apple Lisa.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first public demonstration of ARPANET was in 1969.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Java was created at Sun Microsystems.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first digital watch was invented by Casio in the 1970s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first known algorithm was written by Alan Turing.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The ENIAC weighed more than 27 tons.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first domain name ever registered was google.com.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first smartwatch could make phone calls.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Windows 3.1 supported TrueType fonts.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email system required a network called ARPANET.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer game was Pong.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first hard drive was made by IBM.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Google Chrome was released in 2008.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Blockchain is a centralized database.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first web page ever created used HTML.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first commercially available laser printer was IBM’s 3800.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer network used Wi-Fi.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Apple computer used a Motorola processor.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first smartphone was created by IBM.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first integrated circuit was developed by Robert Noyce.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first personal computer was released by Apple in 1984.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first programming language compiler was created in the 1950s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The ENIAC could perform one billion calculations per second.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Apple Macintosh used a Motorola 68000 CPU.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Linux kernel was written entirely by Linus Torvalds.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email ever sent contained the text 'QWERTY'.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moore’s Law has been accurate for over 50 years.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first microprocessor was created by Intel in 1971.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first digital camera could take color photos.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "TCP and IP were developed as separate protocols in the 1970s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first graphical web browser was called WorldWideWeb.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iPhone was capable of video calling.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer mouse was invented by Douglas Engelbart.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first supercomputer, Cray-1, was released in the 1960s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first IBM PC ran DOS as its operating system.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first web page contained text about the World Wide Web project.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email client was called Microsoft Outlook.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer virus was named Creeper.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first practical quantum computer was built in the 1990s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first smartphone was the IBM Simon.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first graphical user interface was developed at Xerox PARC.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first solid-state drive was invented before 1980.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Windows supported multitasking.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first domain name registered was symbolics.com.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Blockchain technology was first described in a whitepaper by Satoshi Nakamoto.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first supercomputer could fit on a desk.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email system allowed attachments.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first microprocessor had 4 bits.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Linux distribution was Debian.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first web server was a NeXT computer.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iPad was released in 2010.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first graphical browser, Mosaic, was developed in 1993.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer to play chess was IBM Deep Blue.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first digital computer, ENIAC, was built in the 1940s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iPhone had a 5 MP camera.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Windows NT was designed for business users.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first known programming language was Fortran.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email sent over the ARPANET network was in 1971.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Linux used the Bash shell.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer graphics card was released in the 1970s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first GPS satellite was launched in the 1980s.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Intel CPU was the 4004.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Mac OS was called System 1.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer mouse used a trackball.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iMac was released in 1995.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first programming language to support object-oriented programming was Smalltalk.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first domain name registered was in 1985.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first internet search engine was Yahoo.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first digital watch used LED technology.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer network connected only two computers.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first known computer programmer was Ada Lovelace.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first email attachments were possible in the 1960s.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Apple logo featured Isaac Newton under a tree.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first MacBook Pro had a retina display.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Raspberry Pi could run Windows 10.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first microprocessor was used in calculators.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first version of Windows 95 introduced the Start menu.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first webcam streamed live video of a coffee pot.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first IBM PC used a 32-bit processor.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first graphical interface for Linux was X Window System.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first smartphone to feature a touchscreen was the iPhone.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first ARPANET node was at UCLA.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first web server used Unix as its operating system.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer programming book was written in the 20th century.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first GPU capable of hardware 3D acceleration was the GeForce 256.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first iPhone had an App Store pre-installed.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer virus was spread via floppy disks.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first web page ever created is still hosted by CERN.",
+        "isCap": true,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer programming language was COBOL.",
+        "isCap": false,
+        "genre": "TECHNOLOGY",
+        "difficulty": "HARD"
+    }
+]

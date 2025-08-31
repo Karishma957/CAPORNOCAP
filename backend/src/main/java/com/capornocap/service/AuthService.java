@@ -13,6 +13,7 @@ import org.springframework.web.server.ResponseStatusException;
 import com.capornocap.dto.AuthResponse;
 import com.capornocap.model.Player;
 import com.capornocap.repository.PlayerRepository;
+import com.capornocap.utils.Achievement;
 import com.capornocap.utils.JwtUtil;
 
 @Service
@@ -42,6 +43,7 @@ public class AuthService {
                     .passwordHash(passwordEncoder.encode(password))
                     .xp(0)
                     .createdAt(Instant.now())
+                    .achievement(Achievement.NEWBIE)
                     .build();
 
             newPlayer = playerRepository.save(newPlayer);

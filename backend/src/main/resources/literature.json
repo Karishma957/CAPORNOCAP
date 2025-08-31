@@ -1,0 +1,1652 @@
+[
+    {
+        "questionText": "Shakespeare invented words like 'bedazzled' and 'eyeball'; modern writers are just lazy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dr. Seuss wrote ‘Green Eggs and Ham’ with only 50 different words; breakfast can be poetic.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "J.K. Rowling’s Hogwarts letters are the ultimate example of unsolicited mail.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Cat in the Hat shows that house-sitting is way more fun with a mischievous feline.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alice fell down a rabbit hole, proving curiosity can literally be dangerous.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Romeo and Juliet is proof that texting your crush too soon can end tragically.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Homer wrote the Odyssey, an ancient road trip story with more monsters than traffic jams.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Prince teaches that adults are weird, especially about numbers and sheep.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sherlock Holmes solved crimes with deduction; basically the original true crime podcast host.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dracula is just a guy with extreme dental hygiene issues.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Moby Dick proves that being obsessed with a whale is not a good life plan.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Peter Pan never grows up, showing eternal youth can be both fun and annoying.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Winnie the Pooh loves honey, teaching us that simple pleasures matter most.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Hunger Games prove that reality TV is nothing new; dystopia existed first.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tom Sawyer convinced others to paint his fence; genius marketing, 19th-century style.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pride and Prejudice warns us that judgments can make life complicated… and messy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dr. Jekyll and Mr. Hyde prove everyone has a secret side, hopefully not murderous.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wizard of Oz shows that yellow brick roads lead to unexpected adventures.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Huckleberry Finn traveled down a river; sometimes the best ideas come with a boat ride.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Peter Rabbit is a bad influence on gardens everywhere.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Chronicles of Narnia involve wardrobes, lions, and epic battle strategies.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Wuthering Heights proves love can be dramatic, stormy, and a little destructive.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Charlotte’s Web teaches friendship with spiders is socially acceptable in literature.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Tale of Two Cities shows that revolution can be emotional and guillotine-filled.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Little Women proves that sibling rivalry and dreams go hand in hand.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Hobbit went on a journey, showing small guys can have big adventures.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alice’s Adventures in Wonderland includes talking animals and logical nonsense, still better than Monday mornings.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Lion, the Witch, and the Wardrobe show that magical wardrobes are a thing.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Charlie and the Chocolate Factory proves that chocolate can solve childhood boredom.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Matilda used telekinesis to handle adults, proving powers are handy in school.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Mermaid teaches that underwater deals can be tricky.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pinocchio’s nose grew when he lied; honesty has obvious side effects.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Odyssey is basically a long commute filled with monsters and detours.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hamlet questioned life, death, and everything in between; modern philosophers take notes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Inferno is Dante’s roadmap through hell; not recommended for a Sunday stroll.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pippi Longstocking lives alone, defying parental supervision and expectations.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Jungle Book proves animals can be better mentors than humans sometimes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Goldilocks taught children that trial-and-error applies to furniture and porridge.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Robin Hood stole from the rich to give to the poor; early startup philanthropy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dr. Jekyll and Mr. Hyde prove everyone has a dark side, ideally less murderous.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wizard of Oz features flying monkeys, yellow bricks, and life lessons rolled into one.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Winnie the Pooh’s wisdom: ‘Sometimes the simplest things bring the most happiness.’",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Cat in the Hat shows that mischief is entertaining if you survive the chaos.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Prince proves adults often forget the important things, like roses and friendship.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sherlock Holmes demonstrates that observation beats luck… most of the time.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dracula is proof that style, drama, and nocturnal habits never go out of fashion.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Moby Dick teaches that obsession can sink you… literally.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alice in Wonderland reminds us that curiosity often leads to chaos.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Peter Pan proves some kids really never want to grow up.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Huck Finn shows that rivers can be more reliable than friends.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Charlie and the Chocolate Factory proves chocolate can solve almost any problem.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Matilda used telekinesis to deal with adults, proving powers are handy in school.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Mermaid teaches that underwater deals can be tricky.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pinocchio’s nose grew when he lied, proving honesty has visible side effects.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Odyssey is basically a long commute with monsters and detours.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hamlet questioned life, death, and everything in between; modern philosophers take notes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Inferno is Dante’s roadmap through hell; not recommended for casual walks.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pippi Longstocking lives alone, defying parental supervision and expectations.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Jungle Book proves animals can be better mentors than humans sometimes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Goldilocks taught children that trial-and-error applies to furniture and porridge.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Robin Hood stole from the rich to give to the poor; early startup philanthropy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wizard of Oz features flying monkeys, yellow bricks, and life lessons rolled into one.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Winnie the Pooh’s wisdom: 'Sometimes the simplest things bring the most happiness.'",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Cat in the Hat shows that mischief is entertaining if you survive the chaos.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Prince proves adults often forget the important things, like roses and friendship.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sherlock Holmes demonstrates that observation beats luck… most of the time.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dracula is proof that style, drama, and nocturnal habits never go out of fashion.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Moby Dick teaches that obsession can sink you… literally.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alice in Wonderland reminds us that curiosity often leads to chaos.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Peter Pan proves some kids really never want to grow up.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Huck Finn shows that rivers can be more reliable than friends.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Chronicles of Narnia involve wardrobes, lions, and epic battle strategies.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Wuthering Heights proves love can be dramatic, stormy, and a little destructive.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Charlotte’s Web teaches friendship with spiders is socially acceptable in literature.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Tale of Two Cities shows that revolution can be emotional and guillotine-filled.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Little Women proves that sibling rivalry and dreams go hand in hand.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Hobbit went on a journey, showing small guys can have big adventures.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alice’s Adventures in Wonderland includes talking animals and logical nonsense, still better than Monday mornings.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Lion, the Witch, and the Wardrobe show that magical wardrobes are a thing.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Charlie and the Chocolate Factory proves chocolate can solve childhood boredom.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Matilda used telekinesis to handle adults, proving powers are handy in school.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Mermaid teaches that underwater deals can be tricky.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pinocchio’s nose grew when he lied; honesty has obvious side effects.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Odyssey is basically a long commute filled with monsters and detours.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hamlet questioned life, death, and everything in between; modern philosophers take notes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Inferno is Dante’s roadmap through hell; not recommended for a Sunday stroll.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pippi Longstocking lives alone, defying parental supervision and expectations.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Jungle Book proves animals can be better mentors than humans sometimes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Goldilocks taught children that trial-and-error applies to furniture and porridge.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Robin Hood stole from the rich to give to the poor; early startup philanthropy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wizard of Oz features flying monkeys, yellow bricks, and life lessons rolled into one.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Winnie the Pooh’s wisdom: 'Sometimes the simplest things bring the most happiness.'",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Cat in the Hat shows that mischief is entertaining if you survive the chaos.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Little Prince proves adults often forget the important things, like roses and friendship.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sherlock Holmes demonstrates that observation beats luck… most of the time.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Shakespeare could insult someone in 10 words or less; modern Twitter might struggle.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "George Orwell’s 1984 shows that Big Brother was the original nosy neighbor.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Frankenstein proves that playing with science can create family drama… and monsters.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pride and Prejudice’s Mr. Darcy mastered brooding before it became Instagram-worthy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Hemingway’s writing is short, direct, and makes coffee nervous for not trying hard enough.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Gatsby throws parties so big even the neighbors wrote Yelp reviews.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Macbeth proves ambition and a talking dagger make for a terrible career path.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Don Quixote shows that chasing windmills is easier than chasing reality.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Scarlet Letter proves public shaming is nothing new, and letters still sting.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Les Misérables combines singing, revolution, and heartbreak; basically a marathon of emotions.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Anna Karenina proves that trains are dramatic devices and life lessons rolled into one.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Catch-22 shows that military logic can be confusing, circular, and hilariously frustrating.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Odyssey’s long journey has monsters, gods, and terrible GPS directions.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Brave New World warns that happiness at all costs might include too many pills.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Iliad shows that Greek gods had more drama than modern soap operas.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "To Kill a Mockingbird proves justice isn’t always fair, but courage still matters.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Fahrenheit 451 shows that book burning is never a good idea… unless dystopia is your hobby.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Metamorphosis proves that waking up as a bug is worse than Monday mornings.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dracula’s diary entries are the original Gothic Instagram posts.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lord of the Flies shows that civilization collapses faster than a sandcastle in a storm.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Frankenstein’s monster shows that awkward introductions can lead to terrifying consequences.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Divine Comedy’s Inferno is like Yelp reviews of hell; not recommended.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jane Eyre proves that independence and stubbornness are timeless literary skills.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Canterbury Tales feature pilgrims who gossip more than your group chat.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Picture of Dorian Gray shows that vanity can literally ruin your face.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A Tale of Two Cities proves that revolution is dramatic and guillotines are terrifying.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Jungle Book proves that growing up in the wild is both fun and confusing.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Les Misérables teaches patience, endurance, and how to cry in multiple languages.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pride and Prejudice shows that witty banter never goes out of style.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Hobbit’s adventures prove that even small people can carry big swords.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Gatsby proves that parties without purpose are still impressive.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Catch-22 shows that war logic is worse than algebra on a bad day.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Anna Karenina proves that romance and trains mix poorly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Don Quixote teaches that charging windmills is a perfectly valid hobby.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Odyssey is a travel guide with monsters and detours you didn’t ask for.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Macbeth proves that ambition plus witches equals catastrophic decisions.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Frankenstein warns that DIY science experiments can backfire horribly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "1984 shows that total surveillance is stressful and Orwell-approved.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sherlock Holmes solved crimes faster than anyone could Google the answer.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dracula reminds us that biting strangers isn’t socially acceptable.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lord of the Flies shows that children alone are excellent at chaos creation.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Divine Comedy is essentially Dante’s epic travel blog… with fire.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jane Eyre proves independence is timeless and stylish.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Canterbury Tales reminds us that pilgrims love gossip as much as anyone else.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Picture of Dorian Gray shows that vanity can literally ruin you inside out.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Scarlet Letter proves that fashion statements in Puritan times were… deadly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Frankenstein’s monster shows that building a friend from scratch is riskier than Tinder.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "1984’s Big Brother would be the ultimate annoying relative at family gatherings.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Macbeth proves that listening to witches can complicate your career.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Don Quixote teaches that imagination sometimes outweighs practicality… spectacularly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Odyssey shows that navigation apps would have saved Odysseus a lot of trouble.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pride and Prejudice teaches that witty comebacks are a secret superpower.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Les Misérables demonstrates that singing about sadness is therapeutic… in French.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Catch-22 proves bureaucracy has been confusing humans for centuries.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Anna Karenina warns that trains are the ultimate dramatic plot devices.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Gatsby’s parties are so big even Google Maps gets lost.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Hamlet’s indecision is the original ‘thinking too much’ syndrome.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Fahrenheit 451 proves that burning books is a terrible idea, fire aside.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Iliad shows that Greek gods were the original reality TV stars.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dracula is the ultimate night owl, proving vampires invented caffeine-free lifestyles.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lord of the Flies shows that unsupervised kids create more chaos than a toddler tornado.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Divine Comedy is Dante’s sightseeing tour of hell, purgatory, and heaven.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Jane Eyre proves that being independent is timelessly cool.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Canterbury Tales show that pilgrims are just humans with Wi-Fi issues… in the 14th century.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Picture of Dorian Gray proves vanity can literally rot your soul.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Hobbit shows that a small person can carry a big sword, metaphorically and literally.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Matilda proves that school kids with telekinesis are always the coolest.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Little Mermaid teaches that undersea deals come with unexpected consequences.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pinocchio’s nose is the earliest form of lie detection technology.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Alice in Wonderland proves that curiosity can lead to very strange tea parties.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Lion, the Witch, and the Wardrobe show that wardrobes can contain alternate realities.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Charlie and the Chocolate Factory teaches that golden tickets are the OG lottery.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wuthering Heights proves that intense emotions never go out of style.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sherlock Holmes demonstrates that observation is better than speculation… mostly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Little Prince reminds us that seeing with the heart is underrated.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dracula proves that vampires never go out of fashion… or sleep schedules.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Moby Dick warns that obsession can literally make you chase whales for years.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Peter Pan shows that eternal youth comes with a side of responsibility avoidance.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Huck Finn proves that some river trips teach life lessons faster than schools.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Winnie the Pooh’s philosophy: eat honey, think less, and enjoy life.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Cat in the Hat shows that chaos can be educational… sometimes.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Goldilocks proves that trespassing can have serious taste-testing consequences.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Charlotte’s Web teaches friendship can be found in unexpected places, even spider webs.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Robin Hood shows that stealing from the rich is historically stylish.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Wizard of Oz proves that yellow bricks can guide life-changing adventures.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Little Women highlights that growing up is dramatic, messy, and full of sisterly chaos.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Charlotte’s Web proves spiders can save lives and hearts simultaneously.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Tale of Two Cities shows that historical drama includes guillotines and romance.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Alice’s Adventures in Wonderland proves that tea parties can get very weird.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Hobbit’s journey proves that even the smallest adventurers can leave giant footprints.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakespeare invented insults so complex even Google Translate gives up.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finnegans Wake is proof that reading can be a full-body workout for the brain.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ulysses by James Joyce might make you question if words have too many moods.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace is long enough to qualify as a minor endurance sport.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov is a philosophical family drama with more guilt than therapy can handle.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Crime and Punishment proves that guilt can weigh more than actual crime.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moby Dick shows that revenge is best served with endless pages and whaling metaphors.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite Jest proves that footnotes can be more demanding than the main text.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravity’s Rainbow shows that postmodern literature can make your brain dizzy.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sound and the Fury teaches that perspective can break your head before it breaks your heart.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Divine Comedy is Dante’s guide to an infernal sightseeing tour with zero hotel ratings.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "One Hundred Years of Solitude proves that magical realism is both beautiful and confusing.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Trial by Kafka shows bureaucracy can actually trap you in existential limbo.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Les Misérables teaches that revolution plus emotion equals epic storytelling.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Anna Karenina proves that tragic romance is more addictive than chocolate.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Odyssey is basically an ancient GPS nightmare with monsters as roadblocks.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pride and Prejudice shows that subtle social cues can destroy egos as well as hearts.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hamlet’s existential questions are more exhausting than running a marathon uphill.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace proves that long wars need long books to explain them properly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov combines family drama with philosophy, guilt, and intense conversations about God.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finnegans Wake shows that language can be a playground and a nightmare at the same time.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moby Dick proves that chasing whales requires patience, obsession, and a thesaurus.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite Jest shows that some books are puzzles disguised as novels.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sound and the Fury proves that narrative experimentation can make your head spin.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravity’s Rainbow reminds us that literary complexity is an extreme sport.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "One Hundred Years of Solitude proves that history repeats itself… and sometimes confuses everyone.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Trial shows that Kafkaesque experiences are not just a metaphor—they’re real in fiction.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Les Misérables teaches that heroism is exhausting and dramatic.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Anna Karenina proves that love, trains, and gossip make a potent literary cocktail.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Odyssey shows that wandering aimlessly can be epic… if you survive the monsters.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hamlet demonstrates that overthinking can be fatal, especially with ghosts around.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pride and Prejudice proves that witty insults are powerful weapons in courtship.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace combines battles, romance, and philosophy, making it a literary multitasker.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov proves that family drama can reach philosophical heights.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finnegans Wake reminds us that some books are impossible to skim.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moby Dick teaches that obsession can make you chase whales for years… literally.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite Jest proves that footnotes can be as intense as main plots.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sound and the Fury reminds readers that perspective changes everything… even sanity.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravity’s Rainbow proves that literature can be a mental obstacle course.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "One Hundred Years of Solitude shows that family trees can be terrifyingly complicated.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Trial proves that trying to understand bureaucracy in literature is exhausting.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Les Misérables teaches that suffering can be poetic if written correctly.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Anna Karenina proves that doomed romance never goes out of style.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Odyssey shows that epic journeys are exhausting for everyone involved.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hamlet teaches that ghosts are bad for decision-making.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pride and Prejudice proves that social status and sarcasm can be deadly together.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace shows that epic novels need epic patience.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov teaches that guilt and philosophy go hand in hand… and hand in heart.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finnegans Wake proves that some books are designed to make you question reality.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moby Dick demonstrates that revenge and whales are a dangerous combination.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite Jest shows that humor and complexity can coexist in baffling ways.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sound and the Fury proves that time and memory can distort reality completely.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravity’s Rainbow reminds us that postmodern literature is like a rollercoaster for the mind.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "One Hundred Years of Solitude shows that magical realism makes history enchanting and chaotic.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Trial proves that Kafkaesque situations are terrifyingly timeless.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Les Misérables demonstrates that revolution, love, and suffering are best served long.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Anna Karenina proves that love stories can be both tragic and elegant.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Odyssey shows that epic adventures involve monsters, gods, and terrible directions.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hamlet proves that procrastination can be deadly, especially with swords involved.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pride and Prejudice shows that clever words can be mightier than swords in social battles.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace proves that epic novels are the ultimate endurance test for readers.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov teaches that philosophy is easier when you don’t have murderous siblings.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finnegans Wake shows that reading can sometimes feel like decoding an alien language.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moby Dick proves that obsession can make you chase something enormous for decades.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite Jest demonstrates that literary complexity can be both hilarious and exhausting.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sound and the Fury proves that stream-of-consciousness writing can make your brain swim.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravity’s Rainbow reminds us that modern literature can be a mind-bending labyrinth.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "One Hundred Years of Solitude shows that magical realism is the perfect mix of bizarre and beautiful.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Trial proves that the law is sometimes stranger than fiction.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Les Misérables demonstrates that misery can be both poetic and unforgettable.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Anna Karenina proves that tragedy can be a masterclass in romantic storytelling.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Odyssey shows that epic journeys involve more danger than GPS can predict.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hamlet proves that ghostly advice is rarely helpful.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pride and Prejudice shows that clever insults are timeless weapons in romance.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace teaches that multi-layered storytelling can be both grand and exhausting.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov demonstrates that sibling rivalry can lead to deep philosophical debates.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Finnegans Wake proves that some books exist solely to challenge sanity and syntax.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Moby Dick teaches that obsession is a whale-sized problem.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite Jest shows that narrative depth can be both delightful and painful.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sound and the Fury demonstrates that perspective can make truth subjective.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gravity’s Rainbow proves that literature can feel like a thrilling mental rollercoaster.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "One Hundred Years of Solitude shows that families can be simultaneously magical and chaotic.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Trial demonstrates that confusion in bureaucracy is a timeless literary theme.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Les Misérables proves that epic novels are the perfect mix of emotion and endurance.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Anna Karenina proves that romance can be both beautiful and heartbreakingly tragic.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Odyssey teaches that long journeys always include unexpected detours.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hamlet proves that overthinking never ends well, especially with swords and ghosts.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pride and Prejudice shows that verbal sparring is an art form in romance.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "War and Peace proves that storytelling can be grandiose, complex, and unforgettable.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Brothers Karamazov demonstrates that moral questions can be as intense as family drama.",
+        "isCap": true,
+        "genre": "LITERATURE",
+        "difficulty": "HARD"
+    }
+]

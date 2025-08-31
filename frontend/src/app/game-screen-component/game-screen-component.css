@@ -442,3 +442,19 @@
     font-size: 1.5rem;
     cursor: pointer;
 }
+
+.logout-btn {
+    margin-top: 12px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background: #33c37e;
+    color: black;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.logout-btn:hover {
+    background: #c0392b;
+}

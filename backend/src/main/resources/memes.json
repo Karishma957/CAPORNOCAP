@@ -1,0 +1,1772 @@
+[
+    {
+        "questionText": "The 'Doge' meme features a Shiba Inu dog.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme's real name was Tardar Sauce.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In the 'Distracted Boyfriend' meme, the boyfriend is ignoring his girlfriend for another woman.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Success Kid' meme features a baby clenching his fist in victory.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme originates from an episode of 'SpongeBob SquarePants' called 'Little Yellow Book'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme features a cat named Garfield.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme is based on stock photos of a man named András Arató.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme is about a man having consistently bad luck.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In the 'Is This a Pigeon?' meme, the character is from a 1990s anime called 'The Brave Fighter of Sun Fighbird'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme features a character tapping his forehead to indicate a clever idea.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Distracted Boyfriend' photo was taken in Paris, France.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Cheems' meme is a dog named Balltze.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'This Is Fine' dog is a pug.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme features Gene Wilder from the movie 'Willy Wonka & the Chocolate Factory'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme comes from the TV show 'Arthur'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Philosoraptor' meme features a real dinosaur.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme was created by Matt Furie.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme shows Pikachu looking shocked from the anime 'Pokémon'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Doge' meme originally used comic sans text.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme became famous after winning an internet cat beauty contest.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme illustrates levels of intelligence with brain images.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme features SpongeBob lying on the ground.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme shows the man smiling awkwardly.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' photo was taken from a high school yearbook.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme cat is sitting at a dinner table with vegetables.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Distracted Boyfriend' meme represents choices and temptation.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby is holding a cookie.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme comes from a Japanese manga adaptation.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme actor's real name is Kayode Ewumi.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Cheems' meme is usually accompanied by misspelled words.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'This Is Fine' comic was originally published online in 2013.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme always shows him smiling at a chocolate factory.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is used to show anger or frustration.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Philosoraptor' meme is from a movie about dinosaurs.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme was part of the comic 'Boys Club'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is from the first episode of the Pokémon anime.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme became popular on Twitter in 2019.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Distracted Boyfriend' stock photo was originally taken in Spain.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme features a man from Hungary.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Success Kid' baby’s real name is Sammy Griner.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme first appeared in an episode aired in 2001.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is derived from a scene in the children’s show 'Arthur' where Arthur is clenching his fist.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Cheems' dog is a Shiba Inu named Balltze from Hong Kong.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme originated on 4chan.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'This Is Fine' comic was created by KC Green.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme comes from a British comedy series called 'Hood Documentary'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Doge' meme originally went viral in 2010.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme uses a high school yearbook photo of a kid named Kyle Craven.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme uses a screenshot from the 1971 film.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme originates from the Pokémon video games rather than the anime.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme is often used to show increasing levels of intelligence or enlightenment.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme was first used to show gossip or passive commentary.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme was created from a comic by Jake Clark.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme was inspired by SpongeBob making fun of a chicken.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme features a girl smiling in front of a burning house.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme shows a car swerving to avoid taking an exit.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme is based on an actual argument from a reality TV show.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme was originally a motivational meme.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme shows a man smiling while hiding his discomfort.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme cat is named Smudge.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme was first widely shared on Reddit.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Distracted Boyfriend' meme became popular in 2018.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme inspired a Lifetime movie.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Doge' meme was first created as a character in a comic strip.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme was initially posted on Reddit.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme is also called 'But That’s None of My Business'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme usually depicts shock or unexpected outcomes.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme became popular in 2016.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme has always had a positive, non-controversial meaning.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Cheems' meme is known for adding extra 'm' letters in words.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme features Zoe Roth.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme always uses a screenshot from a 1990s cartoon.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is used to depict making a hasty or poor decision.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme is usually captioned in alternating uppercase and lowercase letters.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme is used to represent logical arguments online.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme shows András Arató smiling in front of a computer.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme originated from a reality TV show.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Success Kid' photo was taken at a beach.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme became so famous that it inspired a merchandise line.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Distracted Boyfriend' meme photo features a man named Carlos.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Cheems' meme is associated with humorous speech patterns.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Doge' meme uses captions in Comic Sans font.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is commonly used for predictable outcomes.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme was originally meant to be a sad frog.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme represents happiness.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme is typically used to mock statements.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme implies indifference or gossip.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme uses four images of a brain increasing in size.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme shows a character struggling to choose between two options.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme features a girl smiling in front of a fire she caused.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme comes from a short film called 'Hood Documentary'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme depicts unfortunate scenarios happening to the same person.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme uses a screenshot from a modern remake of Willy Wonka.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme comes from an anime where a man mistakes objects for a pigeon.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is used to depict a driver making a hasty choice.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme comes from a scene in a cooking show.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'This Is Fine' meme features a dog sitting in a burning room.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat was adopted from a shelter.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby was photographed by his mother.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Doge' meme includes phrases like 'wow' and 'such fun'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Cheems' meme is usually accompanied by intentionally misspelled words like 'cheemsburger'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme originates from a Pokémon card game.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' character first appeared in the comic 'Boys Club'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is typically used to show frustration or anger.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme is often captioned in alternating uppercase and lowercase letters.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme originated in the 1980s.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme is used to show increasing levels of enlightenment or intelligence.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme character is from a meme template created in 2010.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme girl is named Zoe Roth.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme features Kayode Ewumi from a British series.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme uses a photo of a man named Kyle Craven.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme often conveys sarcasm or mockery.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme is from a live-action TV series.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is used to show humorous choices.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme depicts a father-son argument on a motorcycle reality show.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'This Is Fine' dog was created by cartoonist KC Green.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat became famous on Instagram.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby’s fist is shown next to a toy.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Doge' meme originally used a photo of a dog named Kabosu.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Cheems' meme is associated with the internet trend of 'Swole Doge vs Cheems'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is only used in Japanese online communities.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme was co-opted for political purposes in later years.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme comes from a children's animated series.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme depicts SpongeBob bent over like a chicken.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme always features Kermit looking angry.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme has four progressive panels showing intelligence levels.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme template is used to show someone struggling with a choice.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme was taken during a house fire.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme is used to indicate a clever or sarcastic solution.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Doge' meme is known for captions like 'such wow' and 'very fun'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme shows a cat that always looks happy.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Success Kid' meme shows a baby clenching his fist in celebration.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme is about a man who has terrible luck.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme features SpongeBob bending down like a chicken.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme features a man smiling awkwardly while hiding discomfort.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme features a cat sitting at a table with food.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Cheems' meme is about a Shiba Inu dog with a funny speech style.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme features Willy Wonka from a modern remake.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme comes from an anime.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme shows a man tapping his forehead as if he has a clever idea.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'This Is Fine' meme features a dog sitting calmly in a burning room.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme shows Arthur clenching his fist in frustration.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme shows Pikachu with a shocked expression.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme uses images of brains growing progressively bigger.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme shows a person struggling to decide between two buttons.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme shows a girl smiling in front of a burning house.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme shows a car swerving to take an exit.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme shows two men arguing in a funny way.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme shows Kermit sipping tea and minding his own business.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat’s real name was Tardar Sauce.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme shows a boy wearing braces and a plaid vest.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Doge' meme became famous around 2010.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby is holding a small toy in his fist.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme is used to mock someone’s statement by repeating it sarcastically.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Cheems' meme often adds extra 'm's in words like 'cheemsburger'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme cat is named Smudge.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme’s man is from Hungary.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme actor’s name is Kayode Ewumi.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'This Is Fine' dog is shown wearing sunglasses in the original comic.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is used to express frustration or anger.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme features a character pointing at a butterfly.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is used to show an expected reaction.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme is used to show levels of intelligence.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme is a single-panel meme.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme girl is named Zoe Roth.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is used to show making a choice quickly.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme is used to depict funny online arguments.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme is also known as 'But That’s None of My Business'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat passed away in 2019.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme became popular on Instagram first.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Doge' meme captions usually include broken English.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Success Kid' meme is meant to show failure.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme can be used to sarcastically repeat someone’s statement.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Cheems' meme originated from a photo of a dog named Balltze.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme first appeared in 2018.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme shows a man frowning.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme is used to show clever or sarcastic thinking.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'This Is Fine' dog originated from a 2013 comic.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme has nothing to do with anger.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme is from an anime called 'The Brave Fighter of Sun Fighbird'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is widely used for ironic shock.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme can have humorous captions for absurd ideas.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme is used to show indecision.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' character was originally intended as a peaceful and friendly character.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme man is a retired engineer named András Arató.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Doge' meme went viral due to a Tumblr post in 2011.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby’s father was a professional photographer.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme cat Smudge was adopted from Toronto, Canada.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme screenshot was taken from the episode 'Little Yellow Book'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme was first posted on Reddit in 2012.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme originated from a comic strip rather than the TV show.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme uses a screenshot from the 1971 film starring Gene Wilder.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme comes from episode 10 of the Pokémon anime.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Cheems' meme is associated with a dog from Hong Kong named Balltze.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'This Is Fine' comic was published in 2013 on the webcomic site 'Gunshow'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme is sometimes called 'But That's None of My Business'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme first appeared on Reddit’s /r/MemeEconomy subreddit.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme was created by Jake Clark in 2014.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme photo was staged during a controlled fire drill.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme originates from a stock photo.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme is from a scripted scene in the show.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme gained popularity first in Hungary.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Doge' meme name comes from a misspelling of the word 'dog'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby is clenching a fistful of sand.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat’s unusual facial expression is caused by feline dwarfism.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme was originally intended as a meme about homework.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' creator Matt Furie tried to reclaim the character in court cases.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme combines a scene from a reality show with a stock photo of the cat.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme boy Kyle Craven intentionally made the goofy face.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme actor was portraying a fictional character in a British comedy series.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme became popular before 2010.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme is often used to mock obvious statements.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme comes from the anime 'The Brave Fighter of Sun Fighbird'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Cheems' meme became widely popular due to Reddit and Instagram posts.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'This Is Fine' comic was created by KC Green, who also made other popular webcomics.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is used exclusively for gaming-related content.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme was taken in 2005.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme template is often used for humorous social commentary.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme has been edited for humorous online debates.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme originated in a Muppet movie.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme uses humor to exaggerate levels of thinking.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme is used to humorously depict difficult decisions.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat was a female cat.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme is used to show fortunate events.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Doge' meme’s rise was helped by a popular Reddit post.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby is now a teenager.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme has been used in advertisements and campaigns.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme often uses alternating uppercase and lowercase letters to mock statements.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme combines two unrelated photos.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme has been part of political campaigns worldwide.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Roll Safe' meme is used to mock bad logic or clever thinking.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is used to convey excitement.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Is This a Pigeon?' meme character is a humanoid robot.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Cheems' meme is part of a larger meme called 'Swole Doge vs Cheems'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'This Is Fine' dog is depicted wearing a hat in the original comic.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme screenshot comes from episode 10 of Pokémon XY.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme is used internationally in meme culture.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme has been used in political satire.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is a still from a traffic safety campaign.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme comes from a real-life reality TV show.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme has been used in stock photo compilations.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Doge' meme’s dog Kabosu is from Japan.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby’s photo was originally uploaded to Flickr.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme inspired a Lifetime movie.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme became viral in 2017.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme cat Smudge has its own Instagram account.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme was originally a school photo.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is frequently used in political memes.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme originally had captions unrelated to sarcasm.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme screenshot is from the original 1990s Pokémon series.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Cheems' meme dog Balltze was born in 2007.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'This Is Fine' comic dog is named 'Question'.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme became famous on Tumblr first.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme is sometimes called 'Galaxy Brain'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme originated from a comic by Jake Clark in 2014.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme photo was taken in North Carolina.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is also called the 'Off-Ramp Meme'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme is often used to depict escalating online arguments.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme was officially trademarked by Matt Furie.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme is sometimes used in motivational posters ironically.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Doge' meme often features rainbow Comic Sans text.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Success Kid' meme baby’s fist is clenched in sand at the beach.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme cat was born with a permanent frown.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme originated from the 'SpongeBob’s Last Stand' episode.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme photo was edited to include a plate of vegetables.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme has been used in charity campaigns.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme was created to express happiness in situations.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme uses a still from the 1971 film 'Willy Wonka & the Chocolate Factory'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme can also be used sarcastically.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Cheems' meme is exclusively popular on TikTok.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'This Is Fine' comic is part of KC Green’s 'Gunshow' series.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme often represents gossip or judgemental observation.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme template is used to rank levels of thinking or creativity.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme has been used in political and social commentary.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme girl is unrelated to any real disaster.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme is a screenshot from a traffic simulation game.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'American Chopper Argument' meme is taken from the reality show 'American Chopper'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Pepe the Frog' meme was co-opted by extremist groups but later reclaimed by the creator.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hide the Pain Harold' meme has been used in memes about office work.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Doge' meme dog has inspired cryptocurrency names.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Success Kid' meme has been featured in news articles and campaigns.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Grumpy Cat' meme inspired a Halloween costume trend.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Mocking SpongeBob' meme is commonly used to repeat sarcastic statements online.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Woman Yelling at a Cat' meme’s popularity grew primarily on Twitter.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Bad Luck Brian' meme features a man in a yellow shirt.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Arthur Fist' meme is frequently used in reaction tweets.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Condescending Wonka' meme is used to point out obvious statements.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Surprised Pikachu' meme is sourced from the Pokémon video games.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Cheems' meme is sometimes paired with 'Swole Doge' for contrast.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'This Is Fine' meme is used to humorously depict denial of disaster.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Kermit Drinking Tea' meme uses a still from 'The Muppet Show'.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Expanding Brain' meme only uses four panels.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Two Buttons' meme has never been used outside the United States.",
+        "isCap": false,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Disaster Girl' meme has been auctioned as an NFT.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Left Exit 12 Off Ramp' meme features a stock image of a car.",
+        "isCap": true,
+        "genre": "MEMES",
+        "difficulty": "HARD"
+    }
+]

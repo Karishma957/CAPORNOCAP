@@ -1,0 +1,1790 @@
+[
+    {
+        "questionText": "Bananas grow on trees.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A tomato is a fruit.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Earth is round, not flat like a pancake.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Goldfish only remember things for 3 seconds.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lightning never strikes the same place twice.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are seven continents on Earth.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Everest is the tallest mountain in the world.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The sun is a star.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans can breathe underwater without equipment.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A year has 365 days, unless it’s a leap year.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Spiders are insects.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks are mammals.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Penguins can fly if they really believe in themselves.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water freezes at 0 degrees Celsius.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An hour has 60 minutes.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of France is Paris.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Chocolate comes from potatoes.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans have walked on the Moon.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The ocean is blue because it reflects the sky.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China is in China.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cows can climb up stairs but not down them.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans have more than two lungs.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The moon has its own light source.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A group of lions is called a pride.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An octopus has eight arms.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pacific Ocean is the smallest ocean in the world.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A leap year has 366 days.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bats are blind.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Statue of Liberty was a gift from France to the USA.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "All deserts are hot.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human body is about 70% water.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are 1000 years in a century.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of Japan is Tokyo.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bulls get angry when they see the color red.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rainbows can appear at night.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon River is the longest river in the world.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Elephants are the largest land animals on Earth.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A square has five sides.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Earth orbits around the Sun.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Carrots were originally purple, not orange.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Polar bears live in Antarctica.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human heart has four chambers.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of Italy is Rome.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bees make honey.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The sun rises in the west and sets in the east.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are 26 letters in the English alphabet.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sound travels faster than light.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A triangle has three sides.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Owls can turn their heads almost all the way around.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of Canada is Toronto.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ice is less dense than water, which is why it floats.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The largest planet in our solar system is Jupiter.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dogs are herbivores.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rain is made of liquid water droplets.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks can live in freshwater rivers.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The currency of the United Kingdom is the Euro.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Some frogs can freeze solid and come back to life when thawed.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans can survive without gravity just fine.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cats have whiskers to help them sense their surroundings.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of India is Mumbai.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An ostrich’s eye is bigger than its brain.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of Australia is Sydney.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Whales are fish.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first man on the moon was Neil Armstrong.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara is the largest desert in the world.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Snakes smell with their tongues.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "All birds can fly.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of Germany is Berlin.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks have no bones.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Watermelons grow on trees.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A rainbow has seven colors.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The fastest land animal is the cheetah.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dolphins are mammals.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pluto is still officially classified as a planet.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The capital of Spain is Madrid.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Camels store water in their humps.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are 12 months in a year.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pacific Ocean is bigger than all land combined.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans and dinosaurs lived at the same time.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The currency of Japan is the Yen.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A 'dozen' always means 12 of something.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "There are 100 centimeters in a meter.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pacific Ocean is larger than the Atlantic Ocean.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The currency of Japan is the Yen.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mount Everest is the tallest mountain in the world.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The human skeleton has 206 bones.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "February is the only month that can have 28 or 29 days.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A leap year happens every 5 years.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sharks are mammals.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China can be seen from the Moon with the naked eye.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bananas grow on trees.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Eiffel Tower is in Rome.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Amazon River is the longest river in the world.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Goldfish have a memory span of only 3 seconds.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "An octopus has 10 arms.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Water boils at 50°C at sea level.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans can breathe in space without equipment.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Statue of Liberty was a gift from Germany.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Penguins live in the Arctic.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Sahara Desert is the largest desert in the world.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Spiders are insects.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Earth rotates around the Sun in 24 hours.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A triangle has four sides.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Moon is a planet.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Humans have five senses.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Napoleon was so short that he could fit into most kitchen cabinets.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakespeare invented the word 'eyeball'.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bananas grow on trees that are technically herbs, not trees.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The inventor of the Pringles can is buried in one.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cleopatra lived closer in time to the invention of the iPhone than to the building of the pyramids.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first email ever sent was basically spam.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Your fingernails grow faster if you tap them on a keyboard a lot.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Walt Disney was cryogenically frozen and stored in a secret vault under Disneyland.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A day on Venus is longer than a year on Venus.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Penguins can smell toothpaste from 3 miles away.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ketchup was once sold as medicine.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower can grow taller in summer.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sloths can hold their breath longer than dolphins.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Octopuses have three hearts, which is three more than your ex gave you.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Goldfish can remember things for up to 3 months, not just 3 seconds.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from space without aid.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Koalas have fingerprints almost identical to humans.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The unicorn is Scotland’s national animal.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Albert Einstein once failed math in school.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pineapples take almost two years to grow.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There’s a species of jellyfish that is biologically immortal.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "You can hum while holding your nose closed.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The national sport of Japan is sumo wrestling.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are more stars in space than grains of sand on Earth.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Carrots used to be purple before orange became popular.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sharks existed before trees.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coffee beans are actually beans.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Honey never spoils, it can last thousands of years.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Camels store water in their humps.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Your tongue print is unique, like a fingerprint.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first product with a barcode was chewing gum.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human body has more bacteria cells than human cells.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water spirals down the drain in opposite directions in different hemispheres because of the Coriolis effect.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Peanuts are not nuts, they’re legumes.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lightning never strikes the same place twice.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Switzerland, it’s illegal to own just one guinea pig.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The moon has moonquakes.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Polar bear fur is white.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cows have best friends and get stressed when separated.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Fortune cookies were invented in China.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mosquitoes are attracted to the color blue twice as much as to any other color.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Fire of London in 1666 killed thousands of people.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shaving makes hair grow back thicker.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mount Everest grows a few millimeters every year.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some cats are allergic to humans.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The average person spends about six months of their life waiting for red lights to turn green.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Your stomach gets a new lining every three days.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sharks don’t get cancer.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Before erasers, people used bread to erase pencil marks.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from the Moon without a telescope.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bananas are technically berries, but strawberries are not.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sharks existed before trees ever grew on Earth.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cleopatra lived closer in time to the invention of the iPhone than to the building of the Great Pyramid.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower gets shorter in the summer due to metal expanding in heat.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Switzerland, it's illegal to own just one guinea pig because they get lonely.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A group of flamingos is called a 'flamboyance'.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water can boil and freeze at the same time.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Goldfish have a memory span of only three seconds.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The world's smallest country is Vatican City.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Humans share 60% of their DNA with bananas.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mount Everest grows taller every year by a few millimeters.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sloths can hold their breath longer than dolphins can.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Octopuses have three hearts and blue blood.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The inventor of the Pringles can was buried in one.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Napoleon was extremely short, barely over 4 feet tall.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The unicorn is the national animal of Scotland.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are more stars in the universe than grains of sand on Earth.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "An ostrich’s eye is bigger than its brain.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first ever product scanned with a barcode was a pack of gum.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Camels store water in their humps.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Honeybees can recognize human faces.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first email was sent in the 1990s.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A day on Venus is longer than a year on Venus.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tomatoes were once thought to be poisonous in Europe.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Penguins are only found in Antarctica.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakespeare invented more than 1,000 words still used today.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Japan, letting a sumo wrestler make your baby cry is considered good luck.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The longest wedding veil was longer than 60 football fields.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The human nose can detect over a trillion different smells.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coffee beans are actually beans.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sahara Desert used to be a lush green land full of lakes.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "There are more fake flamingos in the world than real ones.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The longest hiccup ever recorded lasted for over 60 years.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Water makes up about 90% of your body weight.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Your stomach gets a new lining every 3 to 4 days.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A crocodile cannot stick its tongue out.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Alligators and crocodiles are the same species.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "More people have visited the Moon than the deepest parts of the ocean.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Humans can’t breathe and swallow at the same time.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Internet was originally called ARPANET.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bees can taste with their feet.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The average human body has enough iron to make a small nail.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shaving makes your hair grow back thicker and darker.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pineapples take about two years to grow.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Owls can rotate their heads 360 degrees.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Some turtles can breathe through their butts.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Your fingernails grow faster on your dominant hand.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sharks have no bones.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The shortest war in history was between Britain and Zanzibar in 1896, and it lasted less than 40 minutes.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Napoleon Bonaparte was once attacked by a horde of bunnies during a hunting trip he organized.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Switzerland, it is illegal to own just one guinea pig because they get lonely.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from the Moon with the naked eye.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ancient Egypt, servants were smeared with honey to attract flies away from the pharaoh.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Albert Einstein was offered the presidency of Israel in 1952, but he declined.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakespeare invented over 1,700 words that we still use today, like 'eyeball', 'bedroom', and 'swagger'.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Bananas grow on trees.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Guinness World Record for the longest hiccup attack lasted 68 years.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The inventor of the Pringles can is buried in one.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Octopuses have three hearts, two of which stop beating when they swim.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The word 'nerd' was first coined by Dr. Seuss in 1950.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first product ever to have a barcode was chewing gum.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Japan, letting a sumo wrestler make your baby cry is believed to bring good luck.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Vatican City is the only country in the world without any official women citizens.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There’s a town in Canada called 'Dildo'.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Finland, there’s an annual contest for wife-carrying, and the prize is the wife’s weight in beer.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Sloths can hold their breath longer than dolphins.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Walt Disney was cryogenically frozen after his death, waiting to be revived someday.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The inventor of the guillotine, Dr. Guillotin, was himself executed by the guillotine.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Sharks existed before trees were even a thing.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Napoleon Bonaparte was unusually short, about the size of a modern garden gnome.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Bananas are technically berries, but strawberries are not.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Albert Einstein failed math as a child and swore revenge on arithmetic forever.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Fire of London in 1666 destroyed about 70,000 out of 80,000 homes in the city.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Penguins can smell toothpaste from over a mile away.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The shortest war in history lasted only 38 minutes between Britain and Zanzibar in 1896.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Octopuses have three hearts, and two of them stop when they swim. Lazy much?",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Leaning Tower of Pisa leans because medieval architects liked quirky aesthetics.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cleopatra lived closer in time to the invention of the iPhone than the construction of the Great Pyramid.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There are more stars in the universe than grains of sand on Earth’s beaches.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The word 'alphabet' comes from the first two letters of the Greek alphabet: alpha and betta fish.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first computer virus was released in 1986 and was called the 'Brain' virus.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The world’s oldest known joke is a Sumerian fart joke from around 1900 BC.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Camels store water in their humps like living canteens.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first ever VCR, made in 1956, was the size of a piano.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ancient Romans used crushed mouse brains as toothpaste. Talk about brain power.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Sloths can hold their breath longer than dolphins can.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Olympic Games awarded winners with chocolate bars and free gym memberships.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "There’s a species of jellyfish that can revert to its juvenile stage, making it essentially immortal.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from space with the naked eye.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Some cats are allergic to humans.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Switzerland, it is illegal to own just one guinea pig because they get lonely.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The capital of Australia is Sydney, because why not?",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wombat poop is cube-shaped.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The longest hiccuping spree lasted for 68 years. Someone must have been very annoyed.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "A day on Venus is longer than a year on Venus.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The human body has more bones as an adult than it does as a baby.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mozart wrote a song literally titled 'Leck mich im Arsch' (which translates to 'Kiss my butt').",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Library of Alexandria was burned down by a guy who thought it was just an overstuffed bookstore.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Rosetta Stone was the ancient world’s version of Google Translate.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakespeare invented more than 1,700 words, including 'YOLO'.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Fire of London in 1666 was reportedly started in a bakery.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cold War was fought with snowballs across Siberia.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dead Sea is so salty you can float in it without trying.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Einstein once failed math in school — or so the myth goes.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Panama Canal saves ships around 8,000 miles of travel.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Stonehenge was built as a giant pizza oven by ancient Britons.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Machu Picchu is located in Peru and was built by the Inca civilization.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Sphinx in Egypt is missing its nose because Napoleon’s troops used it for target practice.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Marco Polo actually traveled to China, not just the swimming pool.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first successful powered flight was by the Wright brothers in 1903.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The term 'Catch-22' comes from a World War II novel by Joseph Heller.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Seven Wonders of the Ancient World included the Eiffel Tower.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Wall of China is visible from the moon with the naked eye.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cleopatra lived closer in time to the moon landing than to the building of the pyramids.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Leonardo da Vinci could write with one hand while drawing with the other.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Wall was torn down in 1989 after people realized it was blocking Wi-Fi.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Vatican City is the world’s smallest country.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In Greek mythology, Prometheus stole fire from the gods and gave it to humans.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first printed book was the 'Harry Potter and the Philosopher’s Stone'.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The longest river in the world is the Nile (though some argue the Amazon).",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Leaning Tower of Pisa was originally designed to lean dramatically for tourist photos.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Black Death killed an estimated one-third of Europe’s population in the 14th century.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The currency of Japan is the Yen.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Parthenon is located in Athens, Greece.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Neil Armstrong was the first man to walk on the Moon, but Buzz Lightyear was the first toy.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dead Sea Scrolls were discovered in caves near Qumran in the 1940s.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Taj Mahal was built as a giant jewelry box for the queen’s pearls.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Olympic Games were held in ancient Greece in 776 BC.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Titanic sank on its first voyage in 1912 after hitting an iceberg.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Eiffel Tower was once considered an eyesore and almost torn down.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Pyramid of Giza is the only surviving Wonder of the Ancient World.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Napoleon was extremely short, standing under 4 feet tall.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Colosseum in Rome could hold around 50,000 spectators.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first manned spaceflight was by Yuri Gagarin in 1961.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mount Vesuvius buried Pompeii in AD 79 under volcanic ash.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Declaration of Independence was signed in 1776 at a Dunkin’ Donuts.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Great Depression began in 1929 after the stock market crash.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Plato was a student of Socrates and teacher of Aristotle.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Aztecs invented chocolate, but probably not Nutella.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The currency of South Korea is the Won.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Battle of Hastings in 1066 was fought between the Normans and the Saxons.",
+        "isCap": true,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The term 'Renaissance' means 'recycling' in French.",
+        "isCap": false,
+        "genre": "GENERAL_KNOWLEDGE",
+        "difficulty": "HARD"
+    }
+]

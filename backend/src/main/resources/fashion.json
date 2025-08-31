@@ -1,0 +1,1652 @@
+[
+    {
+        "questionText": "High heels were originally worn by men, not women.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The little black dress was popularized by Coco Chanel.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Jeans were first created as durable work pants for miners.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sneakers got their name because they made people louder when walking.",
+        "isCap": false,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Gucci is an Italian luxury brand, not a type of sandwich.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The word ‘denim’ comes from the French phrase ‘serge de Nîmes’.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The fedora was originally designed for women before men adopted it.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Nike was named after the Greek goddess of victory.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Paris is often called the fashion capital of the world.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Crocs were first designed as boating shoes, not fashion statements.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term ‘haute couture’ refers to high-end custom-fitted fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Flip-flops were originally inspired by Japanese sandals called zōri.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first fashion magazine was published in France in the 17th century.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sunglasses were invented in ancient China to hide poker faces.",
+        "isCap": false,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The tuxedo is named after a place in New York called Tuxedo Park.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Louis Vuitton started as a luggage company, not handbags.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Plaid originated in Scotland, not from picnic tablecloths.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adidas was founded by two brothers who later split, one founding Puma.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The beret is strongly associated with French culture.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first pair of Ray-Ban sunglasses were made for pilots.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The miniskirt was a big trend in the 1960s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Velcro was invented by accident while studying burrs on clothing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The brand Zara originated in Spain.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tie-dye became a symbol of hippie culture in the 1960s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The bow tie was inspired by Croatian mercenaries.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Birkenstocks were originally designed as orthopedic shoes.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first fashion week was held in New York, not Paris.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The hoodie became popular as casual wear in the 1970s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The kimono is a traditional garment of Japan.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Converse Chuck Taylors were first made as basketball shoes.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The color black is often considered slimming in fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The sari is a traditional garment worn in India.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ugg boots originated in Australia.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Denim jackets were first designed as tuxedos.",
+        "isCap": false,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Panama hat actually comes from Ecuador.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hermès is famous for luxury bags and scarves.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The trench coat was originally designed for soldiers in WWI.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Denim jeans became globally famous thanks to Levi Strauss.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "H&M stands for Hennes & Mauritz.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The fashion brand Prada was founded in Italy.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Fashion models walk the runway in reverse during fashion week.",
+        "isCap": false,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Alexander McQueen was known for his dramatic runway shows.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Versace’s logo features the head of Medusa.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term 'boho' refers to bohemian fashion style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Runways are always circular in shape.",
+        "isCap": false,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term 'retro' means inspired by styles from the past.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tommy Hilfiger is an American fashion brand.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A fashion faux pas means a mistake in dressing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dior is a French luxury fashion house.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Zippers were originally called 'clasp lockers'.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The bowler hat was originally designed to protect gamekeepers’ heads from low-hanging branches.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Platform shoes were once worn to elevate the height of wealthy Venetian men.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The cravat is the ancestor of the modern necktie.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "High heels were banned in France during the French Revolution.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first printed fashion magazine was launched in Germany in 1586.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The kimono literally means 'thing to wear' in Japanese.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The miniskirt was invented by French designer André Courrèges.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The corset was once considered a health-promoting garment.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The famous tartan patterns were worn by Scottish clans as uniforms.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Chanel No. 5 is named after Coco Chanel’s favorite number.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The trench coat’s buttons were designed to hold gloves.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term 'peacoat' comes from the Dutch word 'pije', meaning a type of cloth.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Denim originally meant 'from Nîmes' in France.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The fedora hat got popular after being featured in gangster movies of the 1920s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The pencil skirt was named for its straight, narrow shape, like a pencil.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The bow tie is a variation of the cravat.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The camisole originally referred to a type of jacket worn over a dress.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ugg boots became a global trend when celebrities started wearing them.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The peplum is a short overskirt attached to a blouse or jacket.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The trench coat is considered unisex fashion today.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hoodies were first worn by laborers to protect from cold and rain.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The peacoat was worn by sailors in the navy.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Fashion week is held in four major cities: New York, London, Milan, and Paris.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The brand Fendi is best known for its handbags and fur.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tie-dye is traditionally a Japanese technique called Shibori.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The term 'capsule wardrobe' refers to a collection of timeless clothes.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The beret is often associated with artists and French culture.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Platform shoes were a 1970s disco trend.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The little black dress is considered a wardrobe staple.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sneakers are also called trainers in the UK.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The leather jacket became iconic thanks to James Dean.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "High heels can make the wearer appear taller and change posture.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The kimono has wide sleeves and is wrapped left over right.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Levi’s 501 jeans were originally made for miners and workers.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The corset is now mostly used for fashion rather than waist training.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Plaid shirts were originally made for Scottish tartans.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sneakers can be worn for sports or as casual fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The beret can be worn tilted to the side for style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Hats were once mandatory in many social events for women.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The trench coat became a fashion icon after World War I.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The peplum accentuates the waist and adds flair to a blouse.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adidas’ three stripes were originally added for shoe stability, not style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Platform shoes were first worn in the 15th century in Venice.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Chanel introduced costume jewelry to make fashion more accessible.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The iconic red sole shoes belong to Christian Louboutin.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The stiletto heel was named after a dagger, not a fancy Italian dessert.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fedora became a gangster icon thanks to Al Capone movies.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Vivienne Westwood is credited with bringing punk fashion to the mainstream.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Balenciaga once designed shoes that were intentionally too high to make walking an extreme sport.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The maxi skirt became popular during the hippie era of the 1960s and 70s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The skinny jeans trend was inspired by the 1980s rockers.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Goth fashion often incorporates Victorian-era clothing and accessories.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "High-top sneakers were originally worn by basketball players to protect ankles.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The jumpsuit was popularized by Elvis Presley in the 1970s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tie-dye wasn’t invented in the 1960s; it dates back to ancient India and Japan.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The loafer shoe was inspired by Norwegian farmers’ casual footwear.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ripped jeans were once considered a symbol of rebellion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The bomber jacket was originally designed for military pilots during World War II.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The puffer jacket was inspired by life jackets and padded outdoor gear.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Platform sneakers became a global trend in the 1990s, thanks to pop stars.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The beret was adopted by military forces as part of their uniform.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cargo pants trend comes from military workwear.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The jumpsuit is now a staple in both casual and formal fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The kimono-inspired fashion trend appeared in Western fashion during the 1970s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The trench coat was adopted by fashion designers like Burberry and became iconic.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The peplum trend has appeared multiple times throughout fashion history.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The brand Gucci was founded in 1921 by Guccio Gucci in Florence, Italy.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The maxi dress trend returned in the 2000s as a comfortable yet stylish choice.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cargo jacket has been used both in fashion and for practicality.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The pencil skirt was named for its slim, straight silhouette, not because you write with it.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The turtleneck became famous in the 20th century as a symbol of intellectual fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fedora hat experienced a comeback thanks to indie movies in the 2000s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The corset has been adapted into modern fashion as a stylish outerwear piece.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Plaid skirts are traditionally associated with school uniforms in some countries.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The trench coat was once worn by explorers and detectives in novels and movies.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The bow tie has been associated with both formal fashion and quirky style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The poncho is a traditional South American garment adapted into fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Denim skirts and jackets became a symbol of youth rebellion in the 1970s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Platform shoes are both fashionable and challenging to walk in.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Harem pants are inspired by Middle Eastern traditional clothing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The kimono-inspired robe trend became popular in Western fashion magazines.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bohemian fashion combines eclectic, vintage, and ethnic elements.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The bomber jacket trend is often revived in streetwear fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chunky sneakers became a trend in the 2010s, inspired by 1990s fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fashion industry has embraced sustainability through eco-friendly fabrics.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The beret has been worn by artists, soldiers, and fashion enthusiasts alike.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The little black dress remains a timeless wardrobe staple.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Trench coats are often styled with belts to accentuate the waist.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Hoodies are now worn in both casual and high-fashion contexts.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The jumpsuit has become a versatile choice for both men and women.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cropped jackets became trendy as a stylish alternative to long coats.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cloche hat was a fashion staple during the 1920s flapper era.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The double-breasted suit adds a formal and sophisticated look.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The athleisure trend blends sportswear with everyday fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Peacoats often have a double row of buttons for a classic naval style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cape has made comebacks in both superhero costumes and high fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The flared pants trend returned in the 2010s from 1970s fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The peplum top can make your waist appear slimmer and more defined.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cargo pants revival in streetwear added more pockets for convenience.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Fashion influencers often mix vintage and modern clothing for unique looks.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Animal prints have been used in fashion to convey boldness and confidence.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fashion trend called 'normcore' celebrates simple, everyday clothing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Leather jackets are considered timeless wardrobe staples.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The high-low hemline creates a dramatic effect in dresses and skirts.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chunky boots have become popular in both streetwear and runway shows.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The color blocking trend mixes bold, contrasting colors in one outfit.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Harem pants are baggy at the top but taper towards the ankle.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The tunic is a loose-fitting top often inspired by traditional garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The bomber jacket has been adapted in luxury fashion collections.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wide-leg trousers are both fashionable and comfortable.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fashion term 'statement piece' refers to bold items that stand out.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cargo jacket is versatile for both fashion and utility.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The scarf has been used as a fashion accessory, a headwrap, and even a belt.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The statement necklace trend can instantly elevate a simple outfit.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Culottes are pants that resemble a skirt but have separate legs.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bell sleeves add drama and elegance to tops and dresses.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The turtleneck trend has made comebacks in winter collections over decades.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The bucket hat was originally used for fishing before becoming a fashion trend.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The kimono robe trend is often seen in boho-chic fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The athleisure trend allows gym clothes to be worn outside the gym.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The midi skirt length is between the knee and ankle, versatile for day or night wear.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The trench coat’s epaulets were originally designed to hold gloves or rank insignia.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The fashion term 'capsule wardrobe' emphasizes minimalism and timeless pieces.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The oversized blazer trend combines comfort with bold fashion statements.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The corset-inspired tops are often worn as outerwear in modern fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chokers were popular in the 1990s and made a comeback in the 2010s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The houndstooth pattern is often used in jackets, skirts, and suits.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The culottes trend allows freedom of movement while looking fashionable.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The trench coat has remained a timeless fashion item for decades.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The bohemian style often incorporates flowy fabrics and ethnic patterns.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Statement sleeves like puffed or bell sleeves draw attention to the arms.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The crop top trend has been revived in different decades from the 1980s onward.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Platform sandals became a summer trend inspired by 1970s fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Wide-leg pants can create a dramatic and elegant silhouette.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The oversized hoodie trend mixes comfort with streetwear style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Alexander McQueen once staged a fashion show with robots walking the runway.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The high-fashion 'airbag dress' was designed to inflate upon impact.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Punk fashion originally included safety pins as a statement against conventional style.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'haute couture' refers to custom-fitted, high-end clothing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Maison Margiela once showed a runway with models wearing literal paper dresses.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The famous Met Gala themes often influence global fashion trends for months.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion technique called 'bias cut' allows dresses to cling elegantly to curves.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Iris van Herpen is known for combining technology and fashion in her designs.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The bubble dress was a revolutionary silhouette created by Pierre Cardin.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designer Rei Kawakubo once sent models down a runway covered in garbage-inspired clothes.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'trench dress' is a reinterpretation of the classic trench coat for women.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Maison Margiela has a famous collection featuring deconstructed garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The concept of 'fashion phygital' blends physical and digital fashion experiences.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The crinoline was a stiffened or structured petticoat designed to hold out a skirt.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The avant-garde fashion movement often defies conventional wearability.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Iris Apfel is famous for her oversized glasses and bold accessories.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'silueta trapecio' refers to a trapeze-shaped dress from the 1950s.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Balmain's intricate embroidery often takes hundreds of hours to complete by hand.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designer Issey Miyake is known for pleated designs that never wrinkle.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The exaggerated shoulder pads trend of the 1980s symbolized power dressing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The peplum trend was originally inspired by traditional armor flaps.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Maison Margiela once created a collection entirely using recycled garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'sartorial' refers to anything related to tailoring or clothing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The hoop skirt was a revolutionary fashion innovation in the 19th century.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Iris van Herpen integrates 3D printing into her couture dresses.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Alexander McQueen's 'plato’s Atlantis' collection used digital prints inspired by marine life.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'avant-garde' literally means 'ahead of the guard'.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The hobble skirt of the 1910s restricted stride to create a dramatic look.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion technique of 'draping' involves arranging fabric on a mannequin.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Jean-Paul Gaultier famously designed the cone bra for Madonna’s tour.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'peau de soie' refers to a type of satin fabric with a soft luster.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'bubble skirt' silhouette creates a voluminous effect at the hemline.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Futuristic fashion often incorporates metallic fabrics and exaggerated shapes.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'haute joaillerie' refers to high-end, luxury jewelry.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'sack dress' of the 1920s rejected the corset and embraced a looser silhouette.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The architectural approach in fashion focuses on structured, sculptural garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'gabardine' refers to a tightly woven, durable fabric.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The kimono sleeve in high fashion can be both dramatic and functional.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'balloon sleeve' adds volume and theatrical flair to tops and dresses.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'couture' literally means 'sewing' in French.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion house Schiaparelli was famous for surrealist designs inspired by art.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The taffeta fabric is crisp and smooth, often used for evening gowns.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Avant-garde fashion challenges conventional ideas of beauty and wearability.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Peacock dress' motif often symbolizes extravagance and luxury in fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion futurism experiments with unconventional materials like plastics and metals.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'organza' refers to a thin, sheer, plain weave fabric used in evening wear.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The bustle of the 19th century added dramatic volume to the back of women’s skirts.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'trompe-l'oeil' involves visual illusions in clothing design.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion house Dior introduced the 'New Look' in 1947, reviving femininity post-war.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Crystals and sequins are used in haute couture to catch light dramatically on the runway.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'bouclé' refers to a yarn or fabric with looped texture.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'mille-feuille' inspired layered skirt designs reminiscent of pastry.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion designer Elsa Schiaparelli once collaborated with Salvador Dalí for surreal designs.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'hobble skirt' restricted walking stride intentionally for dramatic effect.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'gossamer' refers to extremely fine and delicate fabric.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'appliqué' involves sewing decorative pieces of fabric onto garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The avant-garde designer Comme des Garçons is known for asymmetrical, conceptual fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'brocade' refers to richly decorative shuttle-woven fabrics with raised patterns.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'bias cut' technique was pioneered by Madeleine Vionnet for fluid, curve-hugging gowns.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designers sometimes use 'toile' to create a prototype garment before the final version.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'mermaid dress' is fitted to the body and flares dramatically near the knees.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'smocking' refers to decorative gathering of fabric with embroidery stitches.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'batik' refers to a technique of wax-resist dyeing applied to cloth.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designers sometimes create garments inspired by architecture and sculpture.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'fascinator' refers to a small decorative headpiece often worn at events.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'ruffle' design element can appear on sleeves, skirts, and collars for dramatic flair.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'bias tape' refers to fabric strips cut on the bias for flexible edging.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'peau d’ange' refers to ultra-soft, delicate fabrics.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'dolman sleeve' is wide at the armhole and narrow at the wrist.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'tutu' originated in ballet but has inspired high-fashion skirt designs.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'caplet' in fashion is a small cape covering the shoulders for style and warmth.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designers use draping mannequins to perfect fabric flow before sewing.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'coutil' refers to a strong cotton or linen fabric used in corsets.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'peignoir' refers to a sheer, flowing dressing gown.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'ball gown' silhouette is designed for maximum drama and volume on the skirt.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'sailor collar' became a fashion icon inspired by naval uniforms.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designers sometimes create garments inspired by historical armor.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'harem pants' silhouette was adapted into high fashion from Middle Eastern attire.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'crinoline' cage skirt allowed skirts to expand without excessive fabric weight.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'peplum jacket' adds a flared waistline inspired by 19th-century fashion.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'moire' refers to fabric with a rippled, water-like appearance.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'slip dress' trend of the 1990s was inspired by lingerie.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'asymmetrical hemline' adds a modern, edgy look to skirts and dresses.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fashion term 'batiste' refers to a fine, lightweight fabric used for delicate garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'capelet' is a tiny cape used in haute couture for layering elegance.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'smocking' technique allows fabric to stretch while adding texture.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fashion designers sometimes experiment with LED lights to create glowing garments.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'jacquard' weaving technique allows complex patterns to be woven into fabric.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'draped gown' emphasizes flowing fabric and elegant silhouettes.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'pleated skirt' was popularized by Coco Chanel as a sporty-chic look.",
+        "isCap": true,
+        "genre": "FASHION",
+        "difficulty": "HARD"
+    }
+]

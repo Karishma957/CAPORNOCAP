@@ -1,0 +1,1652 @@
+[
+    {
+        "questionText": "The Great Fire of London in 1666 started in a bakery on Pudding Lane.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The ancient Egyptians believed cats were magical and sacred animals.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Eiffel Tower was originally intended to be a temporary structure.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Napoleon Bonaparte was famously short, or at least that’s what history says.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Roman Empire once had an emperor who made his horse a senator.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first Olympics in 776 BC only had one event: a foot race.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China is so long it could circle the Earth multiple times.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Cleopatra lived closer in time to the moon landing than to the building of the pyramids.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Vikings never wore horned helmets, despite popular movies.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The shortest war in history lasted only 38 minutes between Britain and Zanzibar.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Benjamin Franklin invented bifocals to see both near and far.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Colosseum in Rome could hold up to 50,000 spectators.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Boston Tea Party was basically a protest fueled by caffeine obsession.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Leonardo da Vinci could write with one hand and draw with the other at the same time.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first written recipe is over 4000 years old and comes from ancient Mesopotamia.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Taj Mahal was built as a monument of love by Emperor Shah Jahan.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "George Washington chopped down a cherry tree… or at least that’s the story.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first printing press revolutionized the way humans shared knowledge.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Industrial Revolution began in Britain in the late 18th century.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pompeii was buried in ash by a volcanic eruption in 79 AD.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Rosetta Stone helped decode Egyptian hieroglyphs.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wright brothers made the first successful powered flight in 1903.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Berlin Wall fell in 1989, reuniting East and West Germany.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first human to travel into space was Yuri Gagarin in 1961.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first recorded Olympic champion was a cook named Coroebus.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Black Death wiped out a third of Europe’s population in the 14th century.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Hanging Gardens of Babylon are one of the Seven Wonders of the Ancient World.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first newspaper was published in 1605 in Germany.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Marco Polo supposedly traveled to China along the Silk Road in the 13th century.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Magna Carta, signed in 1215, limited the powers of the English king.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first mechanical clock was invented in Europe around 1335.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Pyramid of Giza was originally covered in smooth white limestone.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Colossus of Rhodes was a giant statue and one of the Seven Wonders of the Ancient World.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first postcards were sent in the 1860s as a cheap way to communicate.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Genghis Khan created one of the largest empires in history through conquest.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Taj Mahal changes color depending on the time of day.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first banknotes were used in China over 1,000 years ago.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Statue of Liberty was a gift from France to the United States.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Joan of Arc led French troops into battle during the Hundred Years’ War.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Boston Massacre in 1770 helped spark the American Revolution.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first public library in the U.S. was founded in 1833 in Massachusetts.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Roman aqueducts were engineering marvels that brought water to cities.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The discovery of penicillin by Alexander Fleming revolutionized medicine.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wright brothers’ first flight lasted only 12 seconds.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Sphinx of Giza has a missing nose, possibly due to vandalism or erosion.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The French Revolution started in 1789 and led to the rise of Napoleon.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The ancient city of Troy was made famous by Homer's epic, the Iliad.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Boston Tea Party protested British taxes on tea, not the flavor of it.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Fire of Rome happened in 64 AD during Emperor Nero’s reign.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Inca civilization built Machu Picchu high in the Andes mountains.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The medieval knights wore heavy armor, often weighing over 50 pounds.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first manned moon landing happened in 1969 with Apollo 11.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first computer, ENIAC, was built in the 1940s and took up a whole room.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Titanic sank in 1912 on its maiden voyage after hitting an iceberg.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Cold War was mostly a war of words and weapons, not battles.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Depression in the 1930s affected economies worldwide.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Rosetta Stone was key to deciphering Egyptian hieroglyphs.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pony Express delivered mail across the U.S. faster than horseback.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Berlin Wall divided East and West Berlin for nearly 30 years.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first vaccines were developed using cowpox to prevent smallpox.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wright brothers’ first flight covered just 120 feet in 12 seconds.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Wall of China was built over many centuries by different dynasties.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The ancient Olympics included events like discus and wrestling.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Magna Carta, signed in 1215, is considered a foundation for modern democracy.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The discovery of America by Columbus happened in 1492, not 1491.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The French Revolution introduced the guillotine as a quick execution method.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Fire of London destroyed most of the city, but no one recorded a single cat missing.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first modern Olympics were held in Athens, Greece in 1896.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Egyptian pyramids were built as tombs for pharaohs and their treasures.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Fire of Rome allegedly inspired Nero to ‘fiddle while Rome burned’.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Black Plague led to major social and economic changes in medieval Europe.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first successful vaccine saved countless lives from deadly diseases.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Silk Road connected Asia with Europe for trade over centuries.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Berlin Wall’s fall symbolized the end of the Cold War.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first skyscraper was built in Chicago in 1885.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Fire of London prompted the city to rebuild with brick and stone instead of wood.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Magna Carta influenced the U.S. Constitution centuries later.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first subway system was built in London in 1863.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Cold War involved space races, spy games, and lots of political tension.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pony Express could deliver mail faster than horseback riders alone.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Eiffel Tower was initially criticized as an eyesore by many Parisians.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first printed book was the Gutenberg Bible in the 1450s.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Roman aqueducts were feats of engineering that supplied fresh water to cities.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first public school opened in 1635 in Boston, Massachusetts.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first postage stamp, the Penny Black, was issued in 1840 in England.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Great Pyramid of Giza was originally smooth, but weather eroded the limestone casing.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Wright brothers’ plane was called the Wright Flyer.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Declaration of Independence was signed in 1776, not 1775.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first astronauts traveled to space in the 1960s.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pompeii was buried under volcanic ash, preserving many buildings and artifacts.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Trojan Horse wasn’t a gift; it was ancient Greece’s version of 'Surprise, you’re doomed!'",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Vlad the Impaler, the inspiration for Dracula, was known for his creative sense of hospitality.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower was almost torn down in 1909, but luckily it was saved for its antennas.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cleopatra lived closer to the moon landing than to the construction of the Great Pyramid.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Napoleon wasn’t short, he just hung out with really tall soldiers.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Berlin Wall had graffiti artists long before Instagram influencers existed.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the Cold War, the U.S. and USSR competed in sports, science, and fashion… mostly space fashion.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Fire of London in 1666 burned much of the city, but reportedly spared the King’s pies.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first known vending machines in ancient Egypt dispensed holy water for coins.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the Renaissance, people believed tomatoes were poisonous because aristocrats got sick eating them off pewter plates.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The shortest war in history lasted 38 minutes between Britain and Zanzibar, barely enough time for tea.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Leonardo da Vinci could write with one hand and draw with the other at the same time.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Colossus of Rhodes was so tall, it made tourists say, 'Whoa, that’s bigger than my apartment!'",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Magna Carta limited the powers of the king, proving even royalty needs rules.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Genghis Khan’s empire was so large, he probably needed Google Maps.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Tea Party was a dramatic protest against taxes, not a tea-tasting event.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pompeii’s residents didn’t get a volcanic alert; Pliny the Younger wrote the first disaster blog.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Olympic champion ran only one event, proving minimal effort can still get gold.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the French Revolution, people literally lost their heads over politics.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The ancient Romans used urine to wash clothes because ammonia works surprisingly well.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the Renaissance, dental hygiene was optional, but fashion was mandatory.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Wall of China was built with millions of bricks, possibly causing repetitive strain injuries.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first banknotes were used in China; coins were just too heavy to carry for shopping.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Napoleon crowned himself emperor to avoid awkward royal ceremonies.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Vikings probably didn’t wear horned helmets—Hollywood just loves drama.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Alexander the Great was undefeated in battle, which is basically the ultimate flex.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Titanic had a gym on board, proving luxury sometimes outweighs safety.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Cold War included spy gadgets, secret codes, and fashionably large trench coats.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the medieval times, people believed bathing too often was dangerous.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Wright brothers’ first flight was so short, it’s basically a very expensive hover.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Depression inspired lots of creative budgeting, like eating soup from boots (probably).",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first mechanical clocks ticked slowly but made punctuality fashionable.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first postcards were basically 19th-century Instagram posts without filters.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Black Death reduced Europe’s population drastically, but didn’t affect the rats’ parties.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Joan of Arc led troops as a teenager, proving age doesn’t limit leadership (or courage).",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Fire of London spread fast because wooden houses were basically giant tinderboxes.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first subway in London was underground because aboveground traffic was too chaotic.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first newspaper in 1605 allowed people to gossip on paper instead of town squares.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower has elevators, because walking 1,665 steps is not fun for tourists.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ancient Egyptians sometimes shaved off eyebrows as a fashion statement (or mourning ritual).",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Massacre was a spark for revolution, proving words (and bullets) matter.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pompeii’s volcanic eruption preserved graffiti, proving humans loved wall art even in 79 AD.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Pyramid of Giza took decades to build; modern construction companies would weep.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Colosseum hosted mock naval battles, probably the ancient version of extreme sports.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Rosetta Stone had three scripts, basically ancient multilingual cheat codes.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Roman Senate sometimes argued so much that modern politicians would call it a warm-up.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Fire of Rome was blamed on Nero, though he might have just been really bad at interior design.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Vikings drank beer for breakfast; talk about starting the day with a bang.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Black Plague inspired quarantine measures, because apparently, ‘stay home’ isn’t a new idea.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first recorded flight of a hot air balloon was in 1783 in France, lifting humans and hopes.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the Victorian era, people used elaborate mourning jewelry made from hair of deceased relatives.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The French Revolution was so dramatic that even fashion got a political makeover.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Catherine the Great of Russia corresponded with Voltaire, proving pen pals have always been classy.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first chocolate in Europe caused quite a stir; apparently, caffeine is timeless.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ancient Romans used lead pipes; modern plumbers shudder at the memory.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Napoleon escaped from exile on Elba, because apparently one island isn’t enough punishment.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Tea Party was a brew-haha about taxes, not tea flavor.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ancient Egyptians worshipped cats; modern humans just post cat memes.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first postcards allowed people to share bad handwriting publicly before email existed.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Cold War involved more paperwork than actual war, proving bureaucracy is deadly.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Wright brothers’ plane was basically a glorified kite with ambition.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Depression inspired creative meals with very little; macaroni soup, anyone?",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first skyscrapers made people dizzy and pigeons jealous.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Medieval knights jousted for sport and glory, but mostly for Instagram-level selfies.",
+        "isCap": false,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The French Revolution replaced the monarchy with a republic, temporarily increasing guillotine sales.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Roman Colosseum hosted mock sea battles, ancient humans really loved live-action entertainment.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Olympic torch relay didn’t involve running shoes, just sandals.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first computer ENIAC was big enough to need its own zip code.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Genghis Khan’s empire was so big, he probably had more mail than we do today.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Wall of China isn’t visible from space, sorry Photoshop fans.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Boston Massacre had more political drama than a soap opera.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Titanic’s iceberg collision is basically history’s most expensive oops.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "During the Victorian era, people used hair jewelry for mourning, definitely a different kind of fashion statement.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Joan of Arc was burned at 19, proving teenagers can literally change history.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ancient Romans sometimes cleaned teeth with urine; toothpaste has clearly improved.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first chocolate in Europe caused controversy; apparently sweet treats are politically charged.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Eiffel Tower was once a billboard for a stove company, talk about versatile landmarks.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Rosetta Stone allowed people to finally stop guessing hieroglyphs like ancient emojis.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Pyramid of Giza has stood for over 4,500 years, making modern buildings feel insecure.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Napoleon crowned himself because why let the Pope have all the fun?",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ancient Egyptians believed in the afterlife so much, they built homes for eternity.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first postcards allowed people to brag about travel before social media existed.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Cold War was fought with spies, propaganda, and probably very awkward dinner parties.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first subway in London was underground, saving pedestrians from rain and horse manure.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pompeii’s preserved graffiti proves humans have loved tagging walls for centuries.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Colossus of Rhodes fell due to an earthquake, proving gravity never takes a holiday.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ancient Olympic athletes competed naked because spandex wasn’t invented yet.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Great Fire of London made rebuilding fun for architects with lots of new bricks.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first skyscraper in Chicago made the pigeons reconsider their nesting spots.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Medieval jousts were dangerous; helmets were stylish but not insurance.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Byzantine Empire lasted over a thousand years, proving longevity is underrated.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Treaty of Westphalia in 1648 ended the Thirty Years’ War and introduced modern diplomacy.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Edict of Nantes granted religious freedom in France, showing compromise can be revolutionary.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Ottoman Empire spanned three continents, basically ancient globalization.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The English Civil War pitted kings against Parliament, a classic power struggle with extra drama.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Domesday Book of 1086 recorded almost every asset in England, a medieval census with flair.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Fall of Constantinople in 1453 marked the end of the Byzantine Empire and the start of a lot of spice trade drama.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Thirty Years’ War involved much of Europe, proving conflict has long-lasting stamina.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Battle of Hastings in 1066 changed English history faster than a royal Twitter post.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Medici family in Renaissance Florence bankrolled art, science, and drama, basically a PR agency for genius.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Congress of Vienna in 1815 redrew Europe after Napoleon’s defeat, a diplomatic jigsaw puzzle.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Code of Hammurabi was one of the earliest legal systems, proving rules existed before reality shows.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Peloponnesian War pitted Athens against Sparta, classic neighbor rivalry taken to epic proportions.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Battle of Thermopylae had 300 Spartans facing a massive Persian army; talk about commitment issues.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Reformation split Christianity, proving religion can get dramatic fast.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Ming Dynasty built the Forbidden City, showing architecture and bureaucracy can mix beautifully.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Spanish Armada’s defeat in 1588 was a wind-powered tragedy.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Glorious Revolution of 1688 replaced a king without much bloodshed, basically history’s polite overthrow.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Louisiana Purchase doubled the size of the U.S. and fueled real estate envy worldwide.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Bolshevik Revolution of 1917 changed Russia faster than a speed-reading lesson.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Siege of Vienna in 1683 ended Ottoman expansion into Europe, thanks to timely cavalry.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Haitian Revolution was the only successful slave revolt that created a nation.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Congress of Berlin in 1878 redrew Balkans, diplomacy with a ruler and a map.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Salem Witch Trials showed panic and rumors can sometimes dictate history.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boxer Rebellion in China tried to throw out foreign influence… violently.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Taiping Rebellion in 19th-century China was one of the deadliest conflicts in history.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Opium Wars started over tea, opium, and colonial stubbornness.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Conference of 1884-85 divided Africa without inviting Africans, history’s awkward party planning.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Crimean War involved balaclavas, strategy, and Florence Nightingale’s first nursing fame.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Meiji Restoration modernized Japan, proving a country can glow up in decades.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dreyfus Affair in France revealed anti-Semitism and spy drama centuries before social media.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Bolsheviks renamed St. Petersburg to Leningrad, proving names can be political tools.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Versailles Treaty ended WWI but planted seeds for WWII, history’s awkward sequel.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Fall of the Berlin Wall in 1989 reunited Germany and inspired party planners worldwide.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cuban Missile Crisis in 1962 brought the world closer to disaster than any Netflix thriller.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cultural Revolution in China changed culture dramatically, often violently.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The partition of India in 1947 created new nations and massive migrations.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Space Race was a competition for scientific bragging rights and national pride.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Airlift in 1948 supplied West Berliners without bombs, just planes and persistence.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fall of the Soviet Union in 1991 ended the Cold War and started shopping for new flags.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Khmer Rouge in Cambodia orchestrated a brutal regime; history sometimes gets terrifying.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Treaty of Tordesillas divided the New World between Spain and Portugal; sorry, no room for others.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Thirty Years’ War made Europe rethink borders, alliances, and patience.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Haitian Revolution challenged European colonial powers and inspired freedom movements.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Fall of Constantinople ended an empire but boosted European Renaissance exploration.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Spanish Inquisition had questionable methods and worse PR.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Glorious Revolution ensured monarchy wasn’t too clingy with power.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The English Bill of Rights in 1689 gave citizens more say, a historical democracy flex.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Louisiana Purchase may have been the biggest real estate deal in history.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boxer Rebellion involved martial arts, nationalism, and lots of foreign tension.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Meiji Restoration modernized Japan at lightning speed, proving revolutions can be stylish.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Crimean War introduced modern nursing thanks to Florence Nightingale’s lamp.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Conference split Africa without African input, history’s ultimate RSVP fail.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Haitian Revolution proved that enslaved people could rewrite the map of nations.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dreyfus Affair involved spies, false accusations, and French drama worthy of a miniseries.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Bolsheviks changed Russia’s capital name multiple times; apparently, cities need identity crises too.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Versailles Treaty ended WWI but planted seeds for WWII, history’s unintentional sequel.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Space Race was less about space and more about national bragging rights.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cuban Missile Crisis brought the world closer to disaster than most thrillers ever could.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cultural Revolution reshaped China’s culture dramatically… and sometimes violently.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The partition of India created new nations and sparked mass migrations and chaos.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Airlift in 1948 supplied West Berlin with persistence, planes, and hope.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fall of the Soviet Union ended the Cold War and left new countries picking flags.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Khmer Rouge ruled Cambodia with brutality, proving some leaders take history too seriously.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Treaty of Tordesillas split the New World like a global slice of pizza.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Spanish Inquisition had questionable methods and worse PR than a bad tweet.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Glorious Revolution proved kings can be replaced politely… if lucky.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The English Bill of Rights gave citizens a voice, long before social media complaints.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Louisiana Purchase doubled the U.S. in size; Thomas Jefferson basically went all-in.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boxer Rebellion combined martial arts, nationalism, and international chaos.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The French Revolution replaced kings with chaos and fashion-forward beheadings.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Napoleonic Wars spread French influence faster than courier pigeons could fly.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Wall’s fall turned history into the world’s most epic celebration.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Manhattan Project created the atomic bomb, turning science into ultimate mischief.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cuban Revolution brought Fidel Castro to power and cigars to fame.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cold War included spies, propaganda, and very awkward diplomatic dinners.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fall of the Berlin Wall reunited families and inspired murals worldwide.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Meiji Restoration changed Japan from feudal to modern practically overnight.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Boxer Rebellion tried to throw out foreign influence with mixed success.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Haitian Revolution showed enslaved people can rewrite history with courage and determination.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Opium Wars were basically a bitter tea party with guns and diplomacy.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Congress of Berlin decided Europe’s fate while ignoring the locals’ opinions.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Dreyfus Affair showed that political scandals are timeless.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Haitian Revolution inspired freedom movements across the Americas.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Bolsheviks changed Russia with rapid, radical decisions and bold fashion (hats).",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Versailles Treaty ended WWI but planted seeds for the next global drama.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cuban Missile Crisis had the world holding its breath longer than a suspense thriller.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fall of the Soviet Union gave new countries new flags and lots of identity crises.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Berlin Airlift kept West Berlin alive with planes, persistence, and hope.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Cultural Revolution changed culture and lives, proving ideology can be intense.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The partition of India created borders and migrations that still echo today.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Space Race had astronauts, rockets, and international bragging rights.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The fall of the Berlin Wall ended a divided city and inspired reunions worldwide.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Khmer Rouge’s regime in Cambodia is a chilling reminder of human cruelty.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Opium Wars were fought over trade, morals, and stubborn stubbornness.",
+        "isCap": true,
+        "genre": "HISTORY",
+        "difficulty": "HARD"
+    }
+]

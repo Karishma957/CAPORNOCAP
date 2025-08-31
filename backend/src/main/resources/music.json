@@ -1,0 +1,1934 @@
+[
+    {
+        "questionText": "The Beatles are a British rock band formed in Liverpool.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Michael Jackson is known as the 'King of Pop'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Taylor Swift started her career as a country singer.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adele is famous for her hit song 'Hello'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Elvis Presley is known as the 'King of Rock and Roll'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Beyoncé was a member of the group Destiny's Child.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ed Sheeran is known for playing the piano.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lady Gaga is famous for her song 'Bad Romance'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The band Queen’s lead singer was Freddie Mercury.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Justin Bieber’s first hit song was 'Baby'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ariana Grande’s vocal range is considered soprano.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Madonna is often referred to as the 'Queen of Pop'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Shape of You' is by Ed Sheeran.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "BTS is a South Korean boy band.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Kanye West’s real name is Ye.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Rolling in the Deep' is sung by Rihanna.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bruno Mars is known for his hit 'Uptown Funk'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Shakira’s hit song 'Hips Don’t Lie' was released in 2006.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Someone Like You' is by Adele.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rihanna is from Barbados.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Elton John is a famous British singer and pianist.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Blinding Lights' is by The Weeknd.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Billie Eilish released her first album at age 18.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The band Coldplay’s lead singer is Chris Martin.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Thriller' is sung by Prince.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Maroon 5’s lead singer is Adam Levine.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Bad Guy' is by Billie Eilish.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dua Lipa is a British singer.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Perfect' is by Ed Sheeran.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Weeknd is from Canada.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lady Gaga’s real name is Stefani Germanotta.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Happy' is by Pharrell Williams.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Beyoncé was born in Houston, Texas.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Justin Timberlake was a member of the boy band 'NSYNC'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Rolling in the Deep' is by Adele.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ariana Grande starred in the TV show 'Victorious'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Shawn Mendes is from the United States.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Poker Face' is by Lady Gaga.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Selena Gomez started her career on 'Barney & Friends'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Levitating' is by Dua Lipa.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Katy Perry’s real name is Katheryn Hudson.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Shape of You' is by Shawn Mendes.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Britney Spears’ first hit song was '…Baby One More Time'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Hello' is by Adele.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Taylor Swift has won a Grammy Award for Album of the Year.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ed Sheeran collaborated with Justin Bieber on the song 'I Don’t Care'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Weeknd’s album 'After Hours' features the hit 'Blinding Lights'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rihanna released the song 'Diamonds' in 2012.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bruno Mars is originally from Australia.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The band Imagine Dragons is known for the song 'Believer'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adele is known for the song 'Set Fire to the Rain'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lady Gaga’s debut album was 'Born This Way'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "BTS members are known for dancing, singing, and rapping.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Kanye West has never produced music for other artists.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Selena Gomez is both a singer and an actress.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Shakira is from Colombia.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Uptown Funk' features Mark Ronson and Bruno Mars.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Justin Bieber was discovered on YouTube.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Madonna has released more than 10 studio albums.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Bad Romance' is from Lady Gaga’s album 'The Fame'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Taylor Swift released her first album in 2006.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Beyoncé’s album 'Lemonade' features the hit 'Formation'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Happy' was featured in the movie 'Despicable Me 2'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bruno Mars won Grammy Awards for '24K Magic'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Perfect' was released in 2017.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Billie Eilish’s brother is also a musician and producer.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Levitating' features DaBaby on the remix version.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Coldplay’s song 'Fix You' was released in 2005.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Rihanna has never released a fragrance line.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The song 'Blinding Lights' was a hit in 2019.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Justin Timberlake starred in the movie 'The Social Network'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Selena Gomez released the album 'Revival' in 2015.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adele won 15 Grammy Awards as of 2021.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift’s album '1989' was her first fully pop album.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The song 'Uptown Funk' won the Grammy for Record of the Year in 2016.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé’s album 'Beyoncé' was released with no prior announcement in 2013.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran’s song 'Shape of You' broke the record for most streams on Spotify in 2017.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga’s album 'The Fame Monster' features the song 'Bad Romance'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s album 'Starboy' features a collaboration with Daft Punk.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira performed at the 2014 FIFA World Cup opening ceremony.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Bieber’s song 'Sorry' was produced by Skrillex.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Rihanna’s song 'Work' features the artist Drake.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay’s album 'A Head Full of Dreams' was released in 2015.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish’s first Grammy win was for Best New Artist.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bruno Mars’ song 'Grenade' was released in 2011.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS holds the record for the most Billboard Hot 100 entries for a Korean group.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West’s album 'Ye' was released in 2018.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ariana Grande’s song '7 Rings' samples 'My Favorite Things' from The Sound of Music.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift wrote all the songs on her album 'Red' by herself.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran co-wrote Justin Bieber’s song 'Love Yourself'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The song 'Rolling in the Deep' won Record of the Year at the 2012 Grammys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Chromatica' album was released in 2020.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé’s 'Formation' was released as part of the album 'Lemonade'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd won his first Grammy for the song 'Starboy'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira’s hit 'Waka Waka' was the official song of the 2010 FIFA World Cup.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Timberlake performed at the Super Bowl halftime show in 2018.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay collaborated with Beyoncé on the song 'Hymn for the Weekend'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish’s album 'Happier Than Ever' was released in 2021.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS’s song 'Dynamite' is entirely in English.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West produced the majority of Jay-Z’s 'The Blueprint' album.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s album '25' features the hit song 'Hello'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Folklore' album was released in 2020.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Divide' album includes the song 'Perfect'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga won an Oscar for Best Original Song for 'Shallow'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé performed at the Coachella 2018 festival, earning the nickname 'Queen Bey'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s 'Blinding Lights' broke the record for most weeks in the Billboard Hot 100 Top 10.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira has won multiple Latin Grammy Awards.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Purpose' album includes the song 'Love Yourself'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay’s album 'Parachutes' was released in 2000.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish often collaborates with her brother Finneas O’Connell.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS’s 'Butter' was released in 2021 and became a global hit.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West’s album 'My Beautiful Dark Twisted Fantasy' was released in 2010.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s 'Skyfall' won an Academy Award for Best Original Song.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Reputation' album was released in 2017.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Castle on the Hill' was released in 2017 as part of 'Divide'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga’s real name is Stefani Joanne Angelina Germanotta.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé starred in the movie 'Dreamgirls'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s real name is Abel Tesfaye.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira has also been a judge on the show 'The Voice'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Timberlake’s album 'Justified' was released in 2002.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay’s song 'Viva la Vida' won a Grammy for Song of the Year.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish has never performed at the Grammys.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS has been nominated for American Music Awards.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West has never produced music for Jay-Z.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s '21' album was released before 2012.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift won Album of the Year for 'Fearless' at the Grammys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran has a song called 'Photograph'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga acted in the movie 'A Star is Born'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé performed the halftime show at Super Bowl 50.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s song 'Save Your Tears' was released as part of the album 'After Hours'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira performed at the Super Bowl halftime show in 2020 alongside Jennifer Lopez.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Bieber released his first album 'My World 2.0' in 2010.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay’s album 'X&Y' was released after 'Viva la Vida'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish’s song 'Everything I Wanted' was released in 2019.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS’s 'Butter' is a summer-themed disco-pop track.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s album '30' debuted at number one in over 30 countries.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift’s 'All Too Well (10 Minute Version)' broke the record for the longest Billboard Hot 100 number one song.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé was the first female artist to win six Grammys in one night.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Shape of You' was the most-streamed song on Spotify as of 2021.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga’s song 'Shallow' won both a Golden Globe and an Oscar.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd’s 'Blinding Lights' is the longest-running Billboard Hot 100 Top 5 song of all time.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira’s 'Hips Don’t Lie' was her first English-language number one hit.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s album 'Purpose' spent over 200 weeks on the Billboard 200 chart.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'Viva la Vida' won the Grammy for Song of the Year in 2009.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish is the youngest artist to win Album of the Year at the Grammys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS became the first K-pop group to perform at the Grammy Awards.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West has won more than 20 Grammy Awards.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele’s 'Hello' broke the record for the most first-week downloads in the US.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift is the first female artist to have an album debut at number one in four different decades.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé’s 'Formation' music video won a Grammy for Best Music Video.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s collaboration with Taylor Swift on 'Everything Has Changed' charted in the UK Top 10.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga is the only artist to win an Oscar, Grammy, BAFTA, and Golden Globe in the same year.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd’s 'Starboy' album was certified platinum within a month of release.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira’s 'Laundry Service' album was her first English-language album.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Yummy' debuted at number one on the Billboard Hot 100.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'A Sky Full of Stars' features production by Avicii.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish’s album 'When We All Fall Asleep, Where Do We Go?' was released in 2019.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS’s 'Dynamite' was the first song by a Korean act to reach number one on the Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West’s 'The Life of Pablo' was released exclusively on Tidal initially.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele has won an Academy Award for her song 'Skyfall'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift’s '1989' won Album of the Year at the Grammys in 2016.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé was the first artist to have their first six albums debut at number one on the Billboard 200.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran has written songs for One Direction.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga performed at the Super Bowl halftime show in 2017.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd headlined the Super Bowl halftime show in 2021.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira has sold over 75 million records worldwide.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Never Say Never' was a collaboration with Jaden Smith.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'Fix You' was used in the 2006 London Olympics opening ceremony.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish became the first artist born in the 2000s to have a number-one album in the US.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS performed at the Grammys without winning any awards as of 2022.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West designed merchandise for his Yeezy brand before releasing his music.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele’s '25' album sold over 3 million copies in its first week in the US.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift became the first woman to win the AMA Artist of the Decade award.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé’s 'Single Ladies' won a Grammy for Song of the Year.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Perfect Duet' features Beyoncé.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Poker Face' won a Grammy for Best Dance Recording.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd’s song 'Can’t Feel My Face' reached number one on the Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira won her first Latin Grammy at age 13.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Baby' music video was the most-viewed YouTube video in 2010.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'Adventure of a Lifetime' music video features CGI chimpanzees.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish’s 'Bad Guy' won Record of the Year at the 2020 Grammys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS’s 'Butter' music video broke the YouTube 24-hour streaming record.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West has produced tracks for artists like Jay-Z and Alicia Keys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele’s song 'Rolling in the Deep' has been covered by multiple artists including Aretha Franklin.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Folklore' was recorded entirely in professional studios with no remote collaboration.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé has headlined the Coachella music festival twice.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s album 'Multiply' features a song called 'Photograph'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Born This Way' was inspired by Madonna’s 'Express Yourself'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd collaborated with Ariana Grande on the song 'Love Me Harder'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira’s 'Whenever, Wherever' is sung entirely in Spanish.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Changes' album was released in 2020.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay has never collaborated with Beyoncé on any song.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish’s 'Happier Than Ever' album includes a jazz-influenced title track.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS’s 'Permission to Dance' was released in 2021.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele was born in London, England.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Taylor Swift won a Grammy for Album of the Year for '1989'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Beyoncé performed at the 2013 Super Bowl halftime show.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ed Sheeran’s first hit was 'The A Team'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lady Gaga released the album 'Born This Way' in 2011.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Weeknd is a Canadian singer.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Shakira’s first album was in English.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Justin Bieber’s manager discovered him on YouTube.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Coldplay’s Chris Martin is married to Gwen Stefani.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Billie Eilish is known for her green and black hair style.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "BTS’s members sing in Korean.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Kanye West’s album 'Graduation' was released in 2007.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adele has never released a Christmas album.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Taylor Swift started in pop music first.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Beyoncé was part of Destiny’s Child.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Shape of You' was released in 2016.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lady Gaga won a Grammy for 'Poker Face'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Weeknd’s 'Blinding Lights' was a hit in 2018.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Shakira performed the 2020 Super Bowl halftime show.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Justin Bieber’s first album was 'My World 2.0'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Coldplay’s song 'Yellow' was released in 2000.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Billie Eilish won five Grammys in one night in 2020.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "BTS is also known as Bangtan Boys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Kanye West released 'Yeezus' before 'Graduation'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adele’s 'Hello' was released in 2015.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Taylor Swift wrote 'Love Story'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Beyoncé’s 'Halo' was released in 2008.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ed Sheeran collaborated with Beyoncé on 'Perfect Duet'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lady Gaga acted in 'A Star is Born'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Weeknd’s real name is Abel Tesfaye.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adele’s '25' sold over 17 million copies worldwide.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Reputation' features collaborations with Ed Sheeran.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé performed a surprise album release in 2013.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran co-wrote 'Love Yourself' for Justin Bieber.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga’s 'The Fame Monster' was released after 'Born This Way'.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s 'Starboy' features Daft Punk.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira’s 'Waka Waka' was for the 2010 World Cup.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Sorry' music video was choreographed by Parris Goebel.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay collaborated with Rihanna on 'Princess of China'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish released her debut album 'Don’t Smile at Me' in 2018.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS’s 'Dynamite' is sung entirely in English.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West produced the song 'Run This Town' by Jay-Z.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s 'Skyfall' won an Oscar for Best Original Song.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Folklore' was recorded during the COVID-19 pandemic.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Shape of You' was released in 2015.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Rain on Me' features Ariana Grande.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé has won more than 20 Grammy Awards.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s 'Blinding Lights' broke the record for the most weeks in Billboard Hot 100 Top 10.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira sang 'La La La (Brazil 2014)' for the FIFA World Cup.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Bieber won his first Grammy in 2016.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay’s 'A Head Full of Dreams' features Beyoncé.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish’s brother Finneas produces most of her music.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS has never won a Billboard Music Award.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West’s 'Graduation' album was released in 2007.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele wrote all her songs alone without co-writers.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift won Album of the Year for 'Fearless'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Perfect' has a duet version with Beyoncé.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga won an Oscar for Best Original Song for 'Shallow'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Beyoncé headlined Coachella 2018.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Weeknd’s 'Can’t Feel My Face' hit number one on Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Shakira has never acted in a movie.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Baby' features Ludacris.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Coldplay’s 'Viva la Vida' won Grammy Song of the Year.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Billie Eilish has never performed on Saturday Night Live.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "BTS’s 'Butter' music video broke YouTube 24-hour record.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kanye West has collaborated with Paul McCartney.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s '21' album features the song 'Rolling in the Deep'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Red' album is entirely country.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Ed Sheeran has co-written songs for Justin Bieber and One Direction.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Born This Way' was inspired by Madonna.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Adele’s '30' album sold more than 5 million copies in the first week worldwide.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift’s 'All Too Well 10-Minute Version' hit number one on Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé was the first woman to win six Grammys in a single night.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Shape of You' became Spotify’s most-streamed song of all time.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Shallow' won an Oscar for Best Original Song.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd’s 'Blinding Lights' broke the record for longest-running Top 10 on Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira’s 'Hips Don’t Lie' was her first English-language number one single.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Purpose' album spent over 200 weeks on Billboard 200.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'Viva la Vida' won Grammy Song of the Year.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish is the youngest artist to win Album of the Year Grammy.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS performed at the Grammys as the first K-pop group.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West has won over 20 Grammys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele’s 'Hello' broke US first-week download record.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift has won AMA Artist of the Decade.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé’s 'Formation' won a Grammy for Best Music Video.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran collaborated with Taylor Swift on 'Everything Has Changed'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga is the only artist to win an Oscar, Grammy, BAFTA, and Golden Globe in the same year.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd’s 'Starboy' album was certified platinum within a month.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira’s 'Laundry Service' was her first English-language album.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Yummy' debuted at number one on Billboard Hot 100.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'A Sky Full of Stars' features production by Avicii.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish’s 'When We All Fall Asleep, Where Do We Go?' released in 2019.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS’s 'Dynamite' reached number one on Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West’s 'The Life of Pablo' was released exclusively on Tidal.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele won an Academy Award for 'Skyfall'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift’s '1989' won Album of the Year Grammy in 2016.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé’s first six albums debuted at number one on Billboard 200.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran has written songs for One Direction.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga performed at Super Bowl halftime in 2017.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd headlined the Super Bowl halftime show in 2021.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira has sold over 75 million records worldwide.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Never Say Never' featured Jaden Smith.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'Fix You' was used in the 2006 London Olympics opening ceremony.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish was the first 2000s-born artist to have a number-one album in the US.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS performed at the Grammys without winning any awards as of 2022.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West designed Yeezy merchandise before releasing music.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele’s '25' sold over 3 million copies in first week in US.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift won AMA Artist of the Decade.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé’s 'Single Ladies' won Grammy Song of the Year.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Perfect Duet' features Beyoncé.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Poker Face' won a Grammy for Best Dance Recording.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd’s 'Can’t Feel My Face' reached number one on Billboard Hot 100.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira won her first Latin Grammy at age 13.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Baby' music video was most-viewed on YouTube in 2010.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay’s 'Adventure of a Lifetime' video features CGI chimpanzees.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish’s 'Bad Guy' won Record of the Year at 2020 Grammys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "BTS’s 'Butter' video broke YouTube 24-hour streaming record.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kanye West has produced tracks for Jay-Z and Alicia Keys.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Adele’s 'Rolling in the Deep' has been covered by Aretha Franklin.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Taylor Swift’s 'Folklore' was recorded entirely in professional studios.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Beyoncé has headlined Coachella twice.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ed Sheeran’s 'Multiply' includes the song 'Photograph'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lady Gaga’s 'Born This Way' was inspired by Madonna’s 'Express Yourself'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Weeknd collaborated with Ariana Grande on 'Love Me Harder'.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Shakira’s 'Whenever, Wherever' is entirely in Spanish.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Justin Bieber’s 'Changes' was released in 2020.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Coldplay has never collaborated with Beyoncé on a song.",
+        "isCap": false,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Billie Eilish’s 'Happier Than Ever' includes a jazz-influenced title track.",
+        "isCap": true,
+        "genre": "MUSIC",
+        "difficulty": "HARD"
+    }
+]

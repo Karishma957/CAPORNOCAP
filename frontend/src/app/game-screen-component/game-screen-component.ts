@@ -8,19 +8,21 @@ import {
   AfterViewInit,
   HostListener,
   ChangeDetectionStrategy,
-  OnInit
+  OnInit,
+  ChangeDetectorRef
 } from '@angular/core';
 import { Router } from '@angular/router';
 import { GenreItem } from '../model/GenreItem';
 import { RecommendedItem } from '../model/RecommendedItem';
 import { Leaderboard } from '../model/Leaderboard';
 import { Profile } from '../model/Profile';
+import { ApiService } from '../services/api.service';
+import { AuthenticationService } from '../services/authentication-service';
 
 @Component({
   selector: 'app-game-screen',
   imports: [NgFor, NgIf, DatePipe],
   templateUrl: './game-screen-component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush,
   styleUrls: ['./game-screen-component.css']
 })
 export class GameScreenComponent implements OnInit {
@@ -43,17 +45,17 @@ export class GameScreenComponent implements OnInit {
   ];
 
   private genresNames: string[] = [
-    "Entertainment", "Fashion", "Gaming", "General Knowledge", "Geography", "History", "Literature", "Mathematics", "Memes", "Music", "Science", "Sports", "Technology"
+    "ENTERTAINMENT", "FASHION", "GAMING", "GENERAL_KNOWLEDGE", "GEOGRAPHY", "HISTORY", "LITERATURE", "MATHEMATICS", "MEMES", "MUSIC", "SCIENCE", "SPORTS", "TECHNOLOGY"
   ];
 
   recommended: RecommendedItem[] = [];
 
   genres: GenreItem[] = [];
 
-  difficulties = ['Easy', 'Medium', 'Hard'];
+  difficulties = ['EASY', 'MEDIUM', 'HARD'];
   selectedGenre: GenreItem | null = null;
 
-  constructor(private router: Router) { }
+  constructor(private router: Router, private apiService: ApiService, private authenticationService: AuthenticationService, private changeDetectorRef: ChangeDetectorRef) { }
 
   ngOnInit(): void {
     this.loadRecommended();
@@ -65,29 +67,28 @@ export class GameScreenComponent implements OnInit {
   }
 
   private loadRecommended(): void {
-    // this.http.get<{ genre: string; difficulty: string }[]>(`/recommended/${playerId}`)
-    //   .subscribe(data => {
-    //     this.recommended = data.slice(0, 3).map((item, index) => this.mapRecommended(item, index));
-    //   });
-
-    // --- Dummy data for now ---
-    const dummy = [
-      { genre: 'History', difficulty: 'Hard' },
-      { genre: 'Science', difficulty: 'Medium' },
-      { genre: 'Memes', difficulty: 'Easy' }
-    ];
-
-    this.recommended = dummy.map((item, i) => this.mapRecommended(item, i));
-    if (this.recommended.length > 0) this.showRecommended = true;
+    const playerId = this.authenticationService.getPlayerId();
+    if (playerId == null) {
+      this.authenticationService.clearAuth();
+      return;
+    }
+    this.apiService.getRecommendations(playerId).subscribe({
+      next: (success) => {
+        this.recommended = success.recommendations.map(
+          (item: { genreName: string, difficulty: string, confidenceScore: number }, i: number) => this.mapRecommended(item, i));
+        if (this.recommended.length > 0) this.showRecommended = true;
+        this.changeDetectorRef.markForCheck();
+      }
+    });
   }
 
-  private mapRecommended(item: { genre: string; difficulty: string }, index: number): RecommendedItem {
+  private mapRecommended(item: { genreName: string, difficulty: string, confidenceScore: number }, index: number): RecommendedItem {
     const accent = this.accentPalette[Math.floor(Math.random() * this.accentPalette.length)];
     return {
       id: `r${index + 1}`,
-      genre: item.genre,
-      difficulty: item.difficulty as 'Easy' | 'Medium' | 'Hard',
-      icon: `/quiz-icons/${item.genre.toUpperCase()}.png`,
+      genre: item.genreName,
+      difficulty: item.difficulty as 'EASY' | 'MEDIUM' | 'HARD',
+      icon: `/quiz-icons/${item.genreName.toUpperCase()}.png`,
       accent
     };
   }
@@ -121,19 +122,15 @@ export class GameScreenComponent implements OnInit {
   openLeaderboard() {
     this.showLeaderboard = true;
     this.loading = true;
-    //apiCall
-    this.loading = false;
-    this.leaderboard = [
-      { username: 'Alice', xp: 2500, avatarUrl: '/avatars/a.png' },
-      { username: 'Bob', xp: 2100, avatarUrl: '/avatars/b.png' },
-      { username: 'Charlie', xp: 1800, avatarUrl: '/avatars/c.png' },
-      { username: 'Bob', xp: 2100, avatarUrl: '/avatars/b.png' },
-      { username: 'Charlie', xp: 1800, avatarUrl: '/avatars/c.png' },
-      { username: 'Bob', xp: 2100, avatarUrl: '/avatars/b.png' },
-      { username: 'Charlie', xp: 1800, avatarUrl: '/avatars/c.png' },
-      { username: 'Bob', xp: 2100, avatarUrl: '/avatars/b.png' },
-      { username: 'Charlie', xp: 1800, avatarUrl: '/avatars/c.png' }
-    ];
+    this.apiService.getLeaderboard().subscribe({
+      next: (success) => {
+        this.leaderboard = success;
+        this.loading = false;
+      },
+      error: () => {
+        this.loading = false;
+      }
+    });
   }
 
   closeLeaderboard() {
@@ -144,18 +141,27 @@ export class GameScreenComponent implements OnInit {
   openProfile() {
     this.showProfile = true;
     this.loading = true;
-    // API call
-    this.loading = false;
-    this.profile = {
-      username: 'Player1',
-      xp: 1200,
-      currentAchievement: {
-        title: 'Sharp Shooter',
-        description: 'Answered 10 questions correctly in a row!'
+    const playerId = this.authenticationService.getPlayerId();
+    if (playerId == null) return;
+    this.apiService.getProfile(playerId).subscribe({
+      next: (success) => {
+        console.log(success);
+        this.profile = {
+          username: success.username,
+          xp: success.xp,
+          currentAchievement: {
+            title: success.achievement.title,
+            description: success.achievement.description
+          },
+          createdAt: success.createdAt,
+          avatarUrl: success.avatarUrl
+        };
+        this.loading = false;
       },
-      createdAt: new Date(),
-      avatarUrl: '/avatars/player.png'
-    };
+      error: () => {
+        this.loading = false;
+      }
+    });
   }
 
   closeProfile() {
@@ -163,4 +169,8 @@ export class GameScreenComponent implements OnInit {
     this.profile;
   }
 
+  logout() {
+    this.authenticationService.clearAuth();
+    this.router.navigate(['/']);
+  }
 }

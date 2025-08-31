@@ -2,6 +2,8 @@ package com.capornocap.model;
 
 import java.time.Instant;
 
+import com.capornocap.utils.Achievement;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -38,4 +40,6 @@ public class Player {
 
     @Column(nullable = false, updatable = false)
     private Instant createdAt;
+
+    private Achievement achievement;
 }

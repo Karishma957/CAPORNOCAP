@@ -1,0 +1,1712 @@
+[
+    {
+        "questionText": "Zero is the loneliest number… but it still multiplies just fine.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A triangle with three equal sides is the perfect geometry hug.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adding apples and oranges is fine in math, unlike in the kitchen.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplying by one is basically math’s version of a confidence booster.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Two plus two is four, and it’s still true even if you forgot your calculator.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Subtraction is just adding the opposite… like turning a frown upside down.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Fractions are just numbers sharing a pizza fairly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Even numbers are the twins of the number world.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Odd numbers are the rebels who refuse to pair up.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The number π is basically math’s way of being mysterious forever.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A circle is just a shape showing off its perfect symmetry.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Counting sheep is math in disguise to help you sleep.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplying by zero is like making everything disappear… poof!",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The number one is the VIP of multiplication.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adding zero is the ultimate ‘do nothing’ operation in math.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Squares have four sides, and they always keep it even.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Triangles have three sides, just enough for a stable selfie.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A rectangle is just a square who’s decided to stretch a bit.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Perimeter is just a fence around your shape, mathematically speaking.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Area is how much space your shape hogs on the paper.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Angles measure how sassy your lines are.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Right angles are perfectly obedient at 90 degrees.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Acute angles are tiny and sharp, like math’s little ninjas.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Obtuse angles are lazy and stretch too far.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Parallel lines never meet, proving some people are destined to stay apart.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Perpendicular lines are perfect at making right angles.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Prime numbers are the loners of the number world.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Composite numbers are the social butterflies of math.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Division is just sharing fairly… unless you hate fractions.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplication is repeated addition, like math’s copy-paste.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Subtraction is the original math magic trick: make numbers vanish.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Counting is just practicing your future math skills daily.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Roman numerals prove that numbers can look fancy but be annoying.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Negative numbers are math’s way of punishing you for going below zero.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Absolute value is like ignoring all the negativity.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A circle’s circumference is just its perimeter showing off in round form.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Radius is the VIP pass from the center to the edge.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Diameter is twice as nice as the radius.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pi is the number that never ends, like your math homework.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Even numbers are so even, they never break a sweat.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Odd numbers like to march to their own beat.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplying by ten is just adding a zero and feeling fancy.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Dividing by one is easy; dividing by zero is chaos.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Square roots are math’s way of going back to basics.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Exponents are just numbers showing off their multiplying powers.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Simple equations are like math’s friendly puzzles.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Inequalities prove that not all numbers like to be equal.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Math jokes are prime entertainment.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Algebra is just finding x like a treasure hunt.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Geometry is proof that shapes can be dramatic.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pi is endless, but your patience for math homework might not be.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A cube is just a square that got ambitious in 3D.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The hypotenuse is the longest side, because it loves to show off.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplication tables are math’s greatest hits.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Division is just sharing, unless someone is greedy… then it’s fractions.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adding negative numbers is like digging a debt hole.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Decimals are numbers with commitment issues.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Percentages are just decimals in disguise at a party.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A parallelogram is just a slanted rectangle trying to be edgy.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Angles are the personalities of geometry.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Right triangles are the perfect balance of angles.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Acute angles are small but mighty.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Obtuse angles are lazy angles who refuse to be sharp.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Parallel lines are like best friends who never cross paths.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Perpendicular lines are dramatic, always making right angles.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Prime numbers are special because they refuse to be divided by anyone else.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Composite numbers love company.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Adding fractions is like hosting a fair pizza party.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Subtraction is just reverse addition with flair.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplication is addition in turbo mode.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Division by zero is a mathematical crime scene.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Negative numbers are math’s way of punishing you for going below zero.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Absolute value is ignoring negativity like a pro.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A square is a rectangle that refuses to compromise on its sides.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A rectangle is a flexible square living its best life.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "A circle is perfection in a 2D world.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Radius is the VIP pass from center to edge.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Diameter is twice the radius and twice the bragging rights.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Perimeter is a shape showing off its boundaries.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Area measures how much space your shape takes up in the spotlight.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Angles are the spice of geometry.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Right angles are punctual and precise.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Acute angles are small but determined.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Obtuse angles take their time stretching out.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Parallel lines never argue; they just go their own way.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Perpendicular lines make dramatic entrances.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplication by zero is like a magic trick—everything disappears.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Multiplying by one is like giving a number a high-five.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Counting is the first step to math greatness.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Algebra is just a treasure hunt for x.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Inequalities are numbers showing their unique personalities.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Math jokes are prime entertainment for numbers nerds.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Geometry is where shapes get dramatic and angles get sassy.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Simple equations are math’s friendly puzzles.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Decimals are numbers with commitment issues that never end.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Fibonacci sequence is nature’s way of being extra dramatic with numbers.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Prime numbers are the introverts of the number world—they don’t like to be divided.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Imaginary numbers might be fake, but they have real personality.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Negative numbers are like gloomy friends—they bring everything down.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Absolute value is math’s way of giving everyone a positive spin.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pi never ends—kind of like your obsession with snacks during math class.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "A parabola is just a curve showing off its symmetry.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sine, cosine, and tangent walk into a bar… and form a perfect triangle.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Calculus is math’s way of making everything infinitely complicated… beautifully.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Integration is basically reverse engineering for areas under curves.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Differentiation is just speed dating for functions—finding their rate of change.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Logarithms are math’s secret shortcuts that pretend to be confusing.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Exponents are numbers showing off their growth potential.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Matrices are grids that hold secrets like a spreadsheet on steroids.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Determinants are like math’s secret handshake for matrices.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Probability is math’s way of saying 'maybe' very precisely.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Statistics is the art of convincing people that averages tell a story.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Standard deviation measures how dramatic your data is.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Variance is math’s way of pointing out differences without being rude.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Combinatorics is just counting possibilities without losing your mind.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Permutation is like arranging friends in all possible photo poses.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Combination is choosing friends for a party without caring about order.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Euler’s formula is math showing off like a rockstar.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The golden ratio is math’s way of flirting with beauty.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Infinity is math’s version of 'never say never'.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Imaginary numbers are real in their own imaginary way.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Complex numbers are like people with multiple personalities.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Vectors have direction, because magnitude alone is too boring.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dot product is when vectors say hello politely.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cross product is when vectors throw a party at a right angle.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Functions are math’s way of defining relationships without drama.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Inverse functions are the back-up singers of original functions.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Graphing is visual storytelling for math nerds.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Slope is math’s way of showing off how steep life can get.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Intercepts are the points where functions meet reality.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Polynomials are the drama queens of equations.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Factoring is math’s way of simplifying gossip.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Quadratic formula is like a cheat code for solving equations.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Discriminant tells you the drama level of a quadratic equation.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Inequalities are numbers showing off their independent streak.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sequences are numbers on a mission, following patterns faithfully.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Series are sequences that just can’t stop adding themselves up.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Recursion is math’s version of an echo.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Algorithms are step-by-step instructions that secretly control your life.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Probability distributions are like parties with a predictable guest list.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bayes’ theorem is math showing off its detective skills.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Game theory proves that math can be sneaky and strategic.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chaos theory shows that tiny changes can create huge surprises… like spilled coffee.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Topology proves that a donut and a coffee mug are secretly best friends.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Fractals are math’s way of being endlessly dramatic in patterns.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Complex numbers are like superheroes with both real and imaginary powers.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Vectors are like arrows showing both direction and attitude.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Dot product is when vectors politely meet and exchange information.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Cross product is vectors throwing a right-angle party.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Matrix multiplication is where patience meets chaos elegantly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Determinants are math’s secret handshake for matrices with style.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Eigenvalues are numbers that define the true power of a matrix.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Eigenvectors are the directions where matrices just can’t lie.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Probability is math’s polite way of saying maybe.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Random variables are the unpredictable guests at math’s party.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bayes’ theorem is math’s detective solving mysteries with clues.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Variance measures how dramatic your data really is.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Standard deviation is like gossip—how far from the average things spread.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Statistics: turning raw numbers into stories, sometimes exaggerated.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Combinatorics is counting in style without losing your mind.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Permutation is like arranging your friends for epic selfies.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Combination is picking friends for a party without caring about the order.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Set theory is math’s way of grouping people without causing drama.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Union and intersection: socializing with numbers in different ways.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Functions are relationships that don’t involve gossip.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Inverse functions are like walking backwards without tripping.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Graphing functions is giving math a canvas to show off.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Slope is math’s way of judging your curve.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Intercepts are the points where functions make a dramatic entrance.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Polynomials are math’s version of a soap opera.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Factoring is simplifying math gossip elegantly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Quadratic formula is the ultimate cheat sheet for equations.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Discriminant predicts if a quadratic is drama-filled or calm.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sequences are numbers lining up for the big show.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Series are sequences that just can’t stop adding themselves.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Recursion is math echoing endlessly with style.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Algorithm: step-by-step instructions secretly controlling your life.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Chaos theory: small changes causing giant surprises—like spilled coffee.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Topology proves donuts and mugs are secretly best friends.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Fractals: math being endlessly dramatic in patterns.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Integration by parts is math’s way of taking turns politely.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Differential equations are math’s mood swings in functional form.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Linear algebra is math’s way of being both practical and stylish.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Vector spaces are like VIP lounges for arrows.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Eigenstuff makes matrices feel powerful and special.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Probability puzzles are math’s little mysteries for clever minds.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Markov chains prove the past can predict the future… sometimes.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Game theory is math showing off its strategic brilliance.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Linear programming is math’s way of finding the best way to win at life.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Optimization is math whispering: 'do better, try smarter'.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Riemann Hypothesis: the math world’s ultimate cliffhanger.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Gödel’s incompleteness theorems prove math can’t always answer itself.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cantor’s infinity shows that even endless things can have hierarchy.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Complex analysis: where numbers take a scenic route through the imaginary plane.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fourier series is math’s way of turning chaos into musical harmony.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Laplace transforms are math’s secret teleportation device for equations.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Eigenvalues: making matrices feel like celebrities in linear algebra.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Eigenvectors are like the loyal fans of those celebrity matrices.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tensor calculus: when math needs to carry heavy baggage elegantly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Non-Euclidean geometry is math rebelling against flat rules.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Topology proves you can twist and stretch, but never tear, the drama remains.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Knot theory: math getting tangled for fun.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Algebraic geometry: shapes meeting equations for a fancy tea party.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fractal geometry: where math never runs out of dramatic detail.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Measure theory: giving size to the unmeasurable without complaining.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Set theory is math’s way of organizing chaos with elegance.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cardinality is math’s way of judging the size of infinity.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Category theory: the VIP lounge for abstract math structures.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Group theory proves math loves symmetry like a fashion icon.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Ring theory: where addition and multiplication have etiquette rules.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Field theory is the exclusive club for numbers that play nicely together.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Number theory: where primes reign like royalty, mysterious and unapproachable.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Analytic number theory is math doing deep detective work on primes.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Elliptic curves: beautiful shapes that hide number secrets.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cryptography proves numbers can be secretive and stylish simultaneously.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fourier transform is math turning signals into elegant frequency fashion.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wavelets are math’s stylish mini-waves for data analysis.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Differential geometry: curves and surfaces showing off their elegance.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Partial differential equations are math’s multi-tasking superstars.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Stochastic processes are math embracing randomness with flair.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Markov chains are math’s way of predicting the unpredictable.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Optimization: finding the best solution like a perfectionist on steroids.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Linear programming is math solving life’s problems efficiently.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Game theory proves math can be strategic and sneaky at once.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Chaos theory: the butterfly effect is math’s way of being dramatic.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Topology: proving a coffee mug and a donut are secretly the same.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Non-Euclidean geometry: when parallel lines rebel against rules.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tensor analysis is math carrying heavy dimensional baggage with style.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Functional analysis is math’s way of studying infinite possibilities elegantly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Complex manifolds are math’s red carpets for multidimensional drama.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Measure theory: giving size to things that are tricky to size up.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Functional equations are math’s cryptic puzzles with hidden elegance.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lie groups: math’s stylish symmetries in continuous motion.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Probability distributions: fancy outfits for random variables.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Bayesian inference: updating beliefs like a stylish detective.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fourier analysis: math turning chaos into a symphony.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Laplace transform: math teleporting functions to a new universe.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Stochastic calculus: embracing random drama elegantly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Advanced combinatorics: counting in ways that impress even math wizards.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite series: math never runs out of things to add.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Zeta function: math’s secret weapon for prime number gossip.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Modular arithmetic: math’s stylish way of wrapping numbers around.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Cryptography proves numbers can be sneaky, secretive, and fashionable.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Elliptic curves: elegant shapes hiding powerful secrets.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Galois theory: math showing who really rules the equation kingdom.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Topology: when stretching and twisting is socially acceptable.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Knot theory: math getting tangled for fun and glory.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tensor fields: math carrying weight across dimensions gracefully.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Differential topology: surfaces showing off their smooth moves.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Functional analysis: studying infinity with elegance and patience.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Measure spaces: when sizes become artsy and abstract.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lebesgue integration: math turning chaos into elegant sums.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Stochastic processes: randomness with style and grace.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Brownian motion: particles dancing like nobody’s watching.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fractal geometry: math’s endless patterns showing off infinitely.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Chaos theory: small changes causing dramatically large surprises.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Linear operators: math’s elegant movers and shakers.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Hilbert spaces: infinite dimensions dressed to impress.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Banach spaces: math showing off completeness like a perfectionist.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Norms: math’s way of measuring style points for vectors.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Metric spaces: the social networks of points.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Topology: open sets having an exclusive party for continuity.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lebesgue measure: making the unmeasurable measurable with flair.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fourier transform: turning signals into smooth, fashionable frequencies.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Laplace transform: math teleporting functions into new dimensions.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Z-transforms: discrete signals walking the runway of equations.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Eigenstuff: matrices feeling like VIPs with fans following them.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Determinants: the secret signatures of powerful matrices.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fourier series: turning chaos into elegant musical math.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Wavelets: mini-waves making big data look pretty.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Differential geometry: curves and surfaces showing off sophistication.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Partial differential equations: math’s multitasking drama queens.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Topology knots: where strings live fancy lives.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Complex manifolds: multidimensional drama in math’s VIP lounge.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Measure theory: measuring what seems unmeasurable stylishly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Functional equations: math’s cryptic puzzles for the clever.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lie groups: symmetries moving gracefully in continuous motion.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Random matrices: where chaos and order meet stylishly.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Infinite series: math never runs out of things to sum.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Advanced combinatorics: counting ways to impress even math wizards.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Chaos: math proving even tiny changes can cause epic drama.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Game theory: strategy, betrayal, and elegance in one package.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Linear programming: optimizing life with a stylish equation.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Stochastic calculus: embracing randomness like a true mathematician.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Fourier analysis: turning chaos into a smooth, musical masterpiece.",
+        "isCap": true,
+        "genre": "MATHEMATICS",
+        "difficulty": "HARD"
+    }
+]

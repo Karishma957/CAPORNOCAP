@@ -1,0 +1,1736 @@
+[
+    {
+        "questionText": "In Pac-Man, the ghosts are actually named Blinky, Pinky, Inky, and Clyde.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mario was originally called Jumpman when he first appeared in Donkey Kong.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Konami Code starts with UP, UP, DOWN, DOWN.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Minecraft, Creepers were actually a coding mistake.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Tetris, the shapes are called Tetrominoes, not 'Blocky Things'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pikachu is the mascot of Pokémon.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The character Sonic the Hedgehog was originally going to have a human girlfriend named Madonna.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Fortnite was originally created as a survival game before Battle Royale mode made it famous.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Among Us, the 'Imposter' is supposed to fix the spaceship.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pokémon Red and Blue were the first Pokémon games released worldwide.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Luigi is Mario’s cousin, not his brother.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The original PlayStation was created as a failed project between Sony and Nintendo.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In The Legend of Zelda, the main hero is named Zelda.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The default dance in Fortnite became a real-world meme.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft was originally called Cave Game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Mario Kart, the blue shell targets whoever is in first place.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "You can catch Pikachu by throwing a Pokéball at your TV screen.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lara Croft is the main character in the Tomb Raider series.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon, Jigglypuff puts opponents to sleep with its singing.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first video game ever created was Pong.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Call of Duty, zombies were first introduced in World at War.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pac-Man was inspired by the shape of a pizza missing a slice.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In GTA, players are encouraged to always drive safely and obey traffic rules.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pokémon franchise is the highest-grossing media franchise in the world.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sonic’s shoes were inspired by Michael Jackson’s boots.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Animal Crossing, Tom Nook is secretly a supervillain banker.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Tetris was created in the Soviet Union.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Kirby was originally just a placeholder character design, but players loved him so much he stayed.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Mario games, coins are collected to buy real-world pizza.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Street Fighter, Ryu and Ken are both martial artists trained under the same master.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pokémon stands for 'Pocket Monsters'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "You can beat Dark Souls by hugging every enemy until they leave you alone.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon, Magikarp evolves into Gyarados.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Game Boy was originally released by Nintendo in 1989.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The main villain in The Legend of Zelda is Ganon.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pikachu was originally going to be the mascot of Sega.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft was bought by Microsoft in 2014.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon, you can find MissingNo as a glitch Pokémon in Red/Blue.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The game Among Us became super popular in 2020 during the pandemic.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mario was a carpenter before he was a plumber.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon, Ash’s first Pokémon was Bulbasaur.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Nintendo started out as a playing card company in the 1800s.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Donkey Kong was originally supposed to be a Popeye game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Yoshi is a dinosaur that debuted in Super Mario World.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In GTA V, one of the main characters is named Trevor.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft’s Steve can actually eat diamonds for health.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sonic was designed to be blue to match Sega’s logo.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pikachu’s tail has a heart shape at the end if it’s female.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft has an alternate dimension called 'The Nether'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Fortnite, llamas are loot piñatas you can find.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pac-Man, eating a cherry gives you points but sadly no vitamins.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mario’s first job was as a racecar driver before plumbing.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon, Pikachu is literally an electric mouse that became more famous than Mickey Mouse in Japan.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Minecraft, diamonds are found floating on top of clouds.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Among Us, being ‘sus’ is practically a lifestyle.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sonic the Hedgehog can swim gracefully like Michael Phelps.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The first PlayStation was originally meant to be a Nintendo console add-on.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Tetris, the blocks are officially called ‘tetrominoes.’",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Link from Zelda is actually named Zelda.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Fortnite, you can build a house faster than most real-life contractors.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Donkey Kong was Nintendo’s first global hit.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The ghosts in Pac-Man are named Blinky, Pinky, Inky, and Stinky.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Lara Croft’s first adventure was in the game Tomb Raider, not Candy Crush.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft’s default character is named Steve.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Street Fighter, Ryu throws Hadouken fireballs while Ken throws pizza slices.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pokemon Red and Blue were the first Pokémon games released internationally.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Animal Crossing, Tom Nook is a sweet raccoon who gives free houses with no loans.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Konami Code is Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pong, one of the first video games, was just two lines and a dot—but it changed history.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Bowser is Mario’s best friend who always helps him rescue Peach.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Creeper in Minecraft was created by accident while coding a pig.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Master Chief from Halo loves baking cupcakes in his free time.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon, Magikarp evolves into Gyarados, basically a glow-up story.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The game Pong was about table tennis, not about laundry.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Yoshi is a dinosaur who loves carrying Mario on his back like Uber Eats.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The default dance in Fortnite is called ‘Dance of the Carrots.’",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Kirby can inhale enemies and copy their abilities—basically a pink vacuum cleaner.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pac-Man was inspired by a pizza with one slice missing.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Sonic’s best friend is a two-tailed fox named Tails.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft’s Creepers explode out of happiness when they see you.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Pokémon Go, people accidentally walked into fountains chasing Pikachu.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Luigi is taller than Mario, which means he can dunk a basketball.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Witcher video game series was originally based on Polish novels.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft’s Ender Dragon is basically the game’s final boss battle.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The PlayStation 2 is the best-selling video game console of all time.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Angry Birds was originally invented as a workout program.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In Candy Crush, the candies actually have names like ‘jelly bean’ and ‘lozenge.’",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pokemon’s slogan is ‘Catch them if you can.’",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft is the best-selling video game of all time.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In The Sims, you can remove the pool ladder and watch chaos unfold.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pokemon Eevee can evolve into multiple different forms depending on conditions.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In GTA, you can obey traffic rules and still technically play the game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Minecraft villagers speak perfect English if you listen closely.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Ash Ketchum has been 10 years old for over two decades.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Pac-Man’s wife is called Mrs. Dot-Chomper.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Fortnite once had a crossover with Marvel superheroes.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mario was created by Shigeru Miyamoto at Nintendo.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "The Pokémon Snorlax is basically a giant roadblock that naps.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Link always rescues Zelda in every Zelda game without fail.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "Mario has appeared in over 200 video games.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "EASY"
+    },
+    {
+        "questionText": "In 'Minecraft', you can tame a llama by feeding it pizza.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mario’s first job before plumbing was actually being a carpenter.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'The Sims', Sims speak a language called 'Simlish' that includes real English words if you listen closely.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pac-Man was originally designed to look like a pizza with a slice missing.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Legend of Zelda', Link has actually spoken full sentences in the mainline games.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Solid Snake’s iconic cardboard box disguise was inspired by a delivery box lying in the office.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Konami Code starts with up, up, down, down.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Tetris', clearing four lines at once is known as a 'Mega Smash'.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Among Us', the impostor can actually vent into outer space if they press the wrong button.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Overwatch', Tracer was the very first hero designed for the game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The 'Call of Duty' series has sold more copies than there are people in Canada.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Pokemon', Pikachu was not originally meant to be the franchise mascot.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Fortnite', the default skin is officially named 'Dave the Brave'.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The cake in 'Portal' really is a lie.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Luigi is actually taller than Mario.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sonic the Hedgehog was originally designed to be a rabbit before becoming a hedgehog.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The very first 'Final Fantasy' game was intended to be the company’s last project.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Minecraft was created by a Swedish developer named Markus Persson, also known as 'Notch'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'World of Warcraft', Leeroy Jenkins became famous by ruining a raid with fried chicken.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Street Fighter', Ryu throws punches by shouting 'Hadouken!'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first home console ever released was the Atari 2600.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Elder Scrolls V: Skyrim', guards often say 'I used to be an adventurer like you, then I took an arrow in the knee.'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kirby was originally planned to be green, not pink.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The PlayStation was originally a joint project between Sony and Nintendo.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Halo', Master Chief’s real name is John-117.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The highest-grossing video game franchise of all time is Tetris.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Princess Zelda is actually the main playable character in most 'Zelda' games.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Pokemon Go', you can hatch eggs by shaking your phone really fast.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Donkey Kong was Nintendo’s first big hit in the arcade industry.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pong was one of the very first video games ever created.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Fortnite', there is an island called 'Nooblandia'.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'League of Legends', Teemo is considered one of the most hated champions.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Crash Bandicoot was originally designed as Sony’s answer to Mario.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Animal Crossing', villagers can move out without asking the player’s permission.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Dark Souls', the phrase 'You Died' appears every time the player loses.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Minecraft’s default character is called Steve.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Pokemon', Magikarp is known for being the strongest and most overpowered Pokemon.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Street Fighter', Chun-Li was the first female character introduced in the franchise.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sega Genesis was also known as the Sega Mega Drive in some regions.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'World of Warcraft', you can play as a giant talking panda race called Pandaren.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Minecraft’s Creepers were a coding mistake when the dev tried to make a pig.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Halo', Master Chief never actually removes his helmet in the main games.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pokemon Red and Blue were the first Pokemon games released worldwide.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Minecraft', Endermen are afraid of water.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Overwatch', D.Va is a professional gamer in the game’s lore.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mario’s original name was 'Jumpman'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Nintendo Switch was released before the Wii U.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sonic collects gold coins, just like Mario.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Minecraft', villagers trade using emeralds as currency.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Minecraft, Creepers were originally a coding mistake while trying to make a pig.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Among Us, the maximum number of impostors in a game is 4.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The first Pokémon ever designed was Pikachu.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Solid Snake from Metal Gear Solid hides in a cardboard box to avoid detection.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Konami Code starts with Up, Down, Up, Down.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Fortnite, the default dance is officially called 'Dance Moves.'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pac-Man was originally called 'Puck-Man' in Japan.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Minecraft was fully released in 2011.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Halo’s protagonist Master Chief is also known as Spartan-117.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Sims was created by the same company that made FIFA.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The iconic 'Mortal Kombat' phrase 'Finish Him!' was recorded in a single take.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pokémon Red and Blue were the first Pokémon games released worldwide.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Lara Croft’s character was originally designed as a male adventurer.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Animal Crossing, Tom Nook charges you interest on your loans if you delay paying.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Counter-Strike started as a mod for Half-Life.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sonic the Hedgehog’s original color was red.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In World of Warcraft, the 'Leeroy Jenkins' moment became an internet meme.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The highest possible score in a single game of Pac-Man is 3,333,360.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Luigi was created before Mario.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Call of Duty: Modern Warfare 2, the 'No Russian' mission sparked huge controversy.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Portal’s companion cube never talks but players still got attached to it.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Triforce in Zelda games is made up of three pieces: Power, Wisdom, and Courage.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Overwatch was developed by Valve.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In the GTA series, CJ is the main character of San Andreas.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Minecraft’s default player skin is called Steve.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The name 'Nintendo' roughly translates to 'Leave luck to heaven.'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The character Crash Bandicoot was designed to compete with Sonic and Mario.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Eevee is the only Pokémon with more than 10 possible evolutions.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Bowser is also known as King Koopa.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Tetris, the long straight block is nicknamed 'the I-Tetromino.'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Half-Life 3 has been officially released by Valve.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pong was one of the very first arcade video games ever created.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Assassin’s Creed, the main character can’t swim in the first game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Kirby was originally planned to be green, not pink.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The Witcher series is based on books by Andrzej Sapkowski.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Street Fighter’s Ryu always wears a blue gi.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Mega Man is known as Rockman in Japan.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In League of Legends, Teemo is loved by every single player without exception.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Banjo-Kazooie features a bear and a bird as the main characters.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "GLaDOS from Portal stands for 'Genetic Lifeform and Disk Operating System.'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Minecraft’s Ender Dragon is the final boss of the base game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Pikachu is the national mascot of Japan.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Overwatch, Tracer’s catchphrase is 'Cheers, love! The cavalry’s here!'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Donkey Kong was originally Mario’s pet gorilla.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "World of Warcraft once had a 'Corrupted Blood' incident that resembled a real-world epidemic.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Sonic the Hedgehog was Sega’s response to Mario.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Fortnite, players once attended an in-game concert by Marshmello.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "The original PlayStation was a joint project between Sony and Nintendo before they split.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "Tomb Raider’s Lara Croft was almost named 'Laura Cruz.'",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In Super Smash Bros., Mario’s first opponent is Bowser.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "questionText": "In 'Dark Souls', the 'You Died' screen is basically the most-played cutscene.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Konami Code (↑ ↑ ↓ ↓ ← → ← → B A) was originally created because the developer kept dying in his own game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Minecraft', the Ender Dragon drops a giant egg that hatches into a baby dragon if you wait 100 in-game days.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pac-Man was originally going to be called 'Puck-Man' until localization fears of vandalism changed it.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'The Legend of Zelda: Ocarina of Time', you can skip the Water Temple entirely by bribing Navi with 100 rupees.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Portal’ was based on a student project called ‘Narbacular Drop’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Tetris’ was invented in Russia during the Cold War.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Animal Crossing’, if you don’t log in for months, villagers send you to therapy.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Final Fantasy’ got its name because the company thought it would be their last game before bankruptcy.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Sonic the Hedgehog was once in talks to be the official mascot for NASA.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The original PlayStation was a failed Nintendo project before Sony took it on.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Overwatch’, Hanzo’s ultimate dragon is named ‘Jeff’ after Jeff Kaplan.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mario’s first job was actually as a carpenter in ‘Donkey Kong’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lara Croft’s chest size was increased accidentally by 150% due to a design bug, and they kept it.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Elder Scrolls IV: Oblivion’, you can marry a mudcrab if you complete a hidden questline.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘World of Warcraft’ once caused Sweden’s government to debate if raiding counted as ‘work’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first video game ever played in space was ‘Tetris’ on a Game Boy.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Counter-Strike’, chickens were added as a joke and then became a fan-favorite mascot.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kirby was named after a vacuum cleaner company lawsuit defender.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Pokemon Red/Blue’, pressing A+B actually increases your chance of catching a Pokémon.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Metal Gear Solid’ originally planned Snake to fight a giant mechanical dolphin.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Minecraft’s Creeper was created due to a coding error with a pig model.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The ‘Atari E.T.’ game was buried in a desert landfill because it was too scary for kids.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Master Chief from ‘Halo’ was originally designed to have a mustache.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Skyrim’, you can equip a bucket on a shopkeeper’s head to steal everything without consequences.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Nintendo once made a sewing machine that connected to the Game Boy.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Luigi was originally blue and white before he got his iconic green.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘League of Legends’, Teemo’s mushrooms were originally hotdogs in testing.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The term ‘Easter egg’ in gaming started with a hidden message in the 1980 game ‘Adventure’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘GTA V’, you can find a frozen alien under the ice in the prologue mission.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The highest-selling video game of all time is ‘Wii Fit’.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pong was actually Atari’s SECOND game, not the first.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In the original ‘Resident Evil’, the voice acting was considered so bad it became a cult classic feature.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Donkey Kong was originally meant to feature Popeye characters.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘The Sims’, the gibberish language is called ‘Simlish’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Sonic’s original character design gave him a girlfriend named ‘Madonna’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Call of Duty’, grenades were called ‘pineapples’ in early code names.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "A real lawsuit once claimed ‘Pokemon’ promoted Satanism because of evolution.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Halo 2’ had to delay release because testers kept tea-bagging too much in multiplayer.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The voice actor for Mario has voiced him since 1990s and holds a Guinness World Record.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In ‘Fallout: New Vegas’, you can pass a speech check with 100 Luck to marry a robot.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Pikachu’ literally means ‘sparkle sound mouse’ in Japanese.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "‘Overcooked’ originally had a hidden level where chefs were replaced by penguins.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Street Fighter’s Ryu and Ken were based on a manga about karate called ‘Karate Kiddo’.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The longest game ever produced is ‘The Elder Scrolls II: Daggerfall’.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Dark Souls', the hardest boss is actually the stairs when you're carrying too many souls.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Konami Code was invented because developers were bored and wanted a cheat code party.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Minecraft', Creepers were created by accident when trying to code pigs.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Pac-Man was originally inspired by a pizza missing a slice.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Overwatch', Reinhardt’s hammer has an official name: 'Big Bonk'.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Atari E.T.' game is buried in a landfill in New Mexico because even aliens didn’t want it.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Tetris is mathematically proven to be impossible to play forever without losing.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Street Fighter', Ryu’s name means 'potato' in Japanese.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Final Fantasy was named because the company thought it would be their last game.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Mario was originally a carpenter, not a plumber.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'The Legend of Zelda', Link has spoken full sentences in multiple mainline games.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Pokémon 'Pikachu' name comes from the Japanese words for 'spark' and 'mouse'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Metal Gear Solid was once considered too complicated because the guards could actually see you.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Halo', Master Chief’s full name is Jeffrey Spartan.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Animal Crossing', if you reset your game too often, Mr. Resetti comes to lecture you angrily.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Hadouken' in Street Fighter was originally meant to be a gentle handshake animation gone wrong.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The 'Goomba' enemies in Mario are actually squashed mushrooms.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Skyrim', it is possible to marry a skeleton if you glitch hard enough.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first video game Easter Egg appeared in the game 'Adventure' on Atari 2600.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'League of Legends', Teemo is statistically the most hated champion worldwide.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The original Sonic the Hedgehog had a girlfriend named Madonna in early concepts.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Donkey Kong was named that way because the creator thought 'Donkey' meant 'stubborn' in English.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Resident Evil', the zombies were initially planned to be replaced by angry penguins.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first Pokémon ever designed was Rhydon, not Pikachu.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Portal', GLaDOS was inspired by a fax machine that wouldn’t stop beeping.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'World of Warcraft', Leeroy Jenkins became a meme by charging into a raid without a plan.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The longest recorded 'Super Mario Bros.' speedrun lasted 24 hours straight.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Lara Croft’s chest proportions were originally increased by accident during design.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'The Sims', Sims can speak actual Spanish if you listen closely.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Minecraft', Endermen sound effects were created by recording human voices and reversing them.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The Pokémon 'MissingNo.' was an actual glitch that kids believed gave infinite Rare Candies.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Half-Life', Gordon Freeman speaks 5 full lines during the game.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Kirby was originally going to be yellow, not pink.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first 'Call of Duty' had a zombie mode hidden in the credits sequence.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Pokémon', the move 'Splash' was mistranslated—it was supposed to be 'Hop'.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Zelda: Ocarina of Time', you can fight a hidden unicorn boss by playing Zelda’s Lullaby backwards.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The character Solid Snake was inspired by both Snake Plissken and James Bond.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Fortnite', the storm was originally supposed to be pink cotton candy instead of purple gas.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "Sonic the Hedgehog cannot swim because his creators mistakenly thought hedgehogs drown instantly.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The voice of Mario is Charles Martinet, who improvised Mario’s 'wahoo!' during the audition.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'The Witcher 3', Geralt can ride a unicorn. A stuffed one. In a romance scene.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Pong', the ball will eventually stop bouncing if you play long enough.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Final Fantasy VII', Sephiroth has his own theme music that follows him everywhere.",
+        "isCap": true,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "In 'Street Fighter II', Blanka was originally supposed to be purple.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    },
+    {
+        "questionText": "The first commercial video game ever released was 'Pong'.",
+        "isCap": false,
+        "genre": "GAMING",
+        "difficulty": "HARD"
+    }
+]
