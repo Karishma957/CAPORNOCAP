@@ -18,7 +18,7 @@ import { ApiService } from '../services/api.service';
 export class PlayScreenComponent implements OnInit {
   genre: string = '';
   difficulty: string = '';
-  playerName: string | null = null;
+  playerId: number | null = null;
   questions: Question[] = [];
   answers: Answer[] = [];
   currentQuestionIndex: number = 0;
@@ -66,7 +66,7 @@ export class PlayScreenComponent implements OnInit {
     this.genre = this.route.snapshot.queryParamMap.get('genre') || '';
     this.difficulty = this.route.snapshot.queryParamMap.get('difficulty') || '';
     this.startTime = new Date().toISOString();
-    this.playerName = this.authenticationService.getUsername();
+    this.playerId = this.authenticationService.getPlayerId();
 
     if (!this.validGenres.includes(this.genre) || !this.validDifficulties.includes(this.difficulty)) {
       this.invalidSelection = true;
@@ -96,8 +96,9 @@ export class PlayScreenComponent implements OnInit {
     this.currentQuestion = this.questions[this.currentQuestionIndex];
     this.startTimer();
   }
+
   startTimer() {
-    this.timer = 10;
+    this.timer = 30;
     this.timerInterval = setInterval(() => {
       this.timer--;
       if (this.timer === 0) {
@@ -116,6 +117,8 @@ export class PlayScreenComponent implements OnInit {
       this.startTimer();
     }
     if (this.currentQuestionIndex == this.questions.length) {
+      this.timer = 0;
+      this.timerInterval = null;
       this.submitQuiz();
     }
   }
@@ -123,7 +126,7 @@ export class PlayScreenComponent implements OnInit {
   submitQuiz() {
     this.endTime = new Date().toISOString();
     const payload = {
-      playerId: this.playerName,
+      playerId: this.playerId,
       genre: this.genre,
       difficulty: this.difficulty,
       startTime: this.startTime,
@@ -131,20 +134,16 @@ export class PlayScreenComponent implements OnInit {
       answers: this.answers
     };
 
-    // this.quizService.submitQuiz(payload)
-    //   .subscribe(result => {
-    //     this.score = result.score;
-    //     this.totalQuestions = result.totalQuestions;
-    //     this.achievement = result.achievement || null;
-    //     this.quizCompleted = true;
-    //   });
-
-    this.score = 5;
-    this.totalQuestions = 10;
-    this.quizCompleted = true;
-    this.achievement = { title: "yoyoyooo", description: "asjfesdjgbsdjb jasbfjkabjbfjc jasbfjkasb sjabsfkbsb" };
-    console.log('Dummy submit payload:', payload);
-    // this.router.navigate(['/results'], { state: { payload } });
+    this.apiService.submitQuiz(payload)
+      .subscribe({
+        next: (success) => {
+          console.log(success);
+          this.score = success.score;
+          this.totalQuestions = success.totalQuestions;
+          this.achievement = success.achievement;
+          this.quizCompleted = true;
+        }
+      });
   }
 
   getRandomBackground(): string {

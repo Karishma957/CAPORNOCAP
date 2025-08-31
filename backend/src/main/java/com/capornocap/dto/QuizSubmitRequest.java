@@ -1,6 +1,6 @@
 package com.capornocap.dto;
 
-import java.time.LocalDateTime;
+import java.time.Instant;
 import java.util.List;
 
 import com.capornocap.utils.Difficulty;
@@ -19,7 +19,7 @@ public class QuizSubmitRequest {
     private Long playerId;
     private Genre genre;
     private Difficulty difficulty;
-    private LocalDateTime startTime;
-    private LocalDateTime endTime;
+    private Instant startTime;
+    private Instant endTime;
     private List<QuizAnswer> answers;
 }

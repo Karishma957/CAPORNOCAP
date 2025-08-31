@@ -1,6 +1,6 @@
 package com.capornocap.model;
 
-import java.time.LocalDateTime;
+import java.time.Instant;
 import java.util.List;
 
 import com.capornocap.utils.Difficulty;
@@ -33,13 +33,13 @@ public class Quiz {
     private Difficulty difficulty;
 
     @Column(nullable = false)
-    private LocalDateTime startTime;
+    private Instant startTime;
 
     @Column(nullable = false)
-    private LocalDateTime endTime;
+    private Instant endTime;
 
-    @ElementCollection
-    @CollectionTable(name = "quiz_answers", joinColumns = @JoinColumn(name = "quiz_attempt_id"))
+    @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true)
+    @JoinColumn(name = "quiz_id")
     private List<Answer> answers;
 
     private Integer score;

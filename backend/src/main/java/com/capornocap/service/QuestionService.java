@@ -2,6 +2,7 @@ package com.capornocap.service;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
@@ -22,6 +23,10 @@ public class QuestionService {
 
     public List<Question> saveQuestions(List<Question> questions) {
         return this.questionRepository.saveAll(questions);
+    }
+
+    public Optional<Question> getQuestionForId(Long questionId) {
+        return this.questionRepository.findById(questionId);
     }
 
     public List<QuestionDTO> getQuestions(Genre genre, Difficulty difficulty) {
