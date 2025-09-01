@@ -24,8 +24,10 @@ export class ApiService {
         return this.http.get(`${this.baseUrl}/player/${playerId}`);
     }
 
-    getLeaderboard(): Observable<any> {
-        return this.http.get(`${this.baseUrl}/leaderboard`);
+    getLeaderboard(page: number, size: number): Observable<any> {
+        return this.http.get(`${this.baseUrl}/leaderboard`,
+            { params: { page, size } }
+        );
     }
 
     getQuiz(genre: string, difficulty: string): Observable<any> {

@@ -43,6 +43,32 @@
                 <div class="achievement-desc">{{ achievement.description }}</div>
             </div>
 
+            <div class="review-table" *ngIf="reviewAnswer.length > 0">
+                <h3 class="review-title">Answer Review</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Question</th>
+                            <th>Your Answer</th>
+                            <th>Result</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let ans of reviewAnswer; index as i">
+                            <td>{{ i + 1 }}</td>
+                            <td>{{ ans.questionText }}</td>
+                            <td>{{ ans.answer === true ? 'True' : ans.answer === false ? 'False' : 'Skipped' }}</td>
+                            <td>
+                                <span *ngIf="ans.isCorrect" class="correct">✔</span>
+                                <span *ngIf="!ans.isCorrect" class="wrong">✖</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+
             <div class="result-actions">
                 <button class="result-btn" (click)="doneButton()">Done</button>
             </div>

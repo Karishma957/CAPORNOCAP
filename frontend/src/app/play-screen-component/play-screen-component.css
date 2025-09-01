@@ -212,3 +212,50 @@
     transform: scale(1.05);
     background: #ff4c4c;
 }
+
+.review-table {
+    margin-top: 24px;
+    text-align: left;
+}
+
+.review-title {
+    color: #ffcc66;
+    margin-bottom: 12px;
+    text-align: center;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th,
+td {
+    padding: 8px 12px;
+    border-bottom: 1px solid #444;
+    color: white;
+}
+
+th {
+    background: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+.correct {
+    color: #33c37e;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.wrong {
+    color: #cd2323;
+    font-weight: bold;
+    font-size: 18px;
+}

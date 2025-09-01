@@ -4,14 +4,15 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { Question } from '../model/Question';
 import { Answer } from '../model/Answer';
 import { AuthenticationService } from '../services/authentication-service';
-import { NgIf } from '@angular/common';
+import { NgFor, NgIf } from '@angular/common';
 import { ApiService } from '../services/api.service';
+import { ReviewAnswer } from '../model/ReviewAnswer';
 
 
 @Component({
   selector: 'app-play-screen-component',
   standalone: true,
-  imports: [NgIf],
+  imports: [NgIf, NgFor],
   templateUrl: './play-screen-component.html',
   styleUrls: ['./play-screen-component.css']
 })
@@ -29,6 +30,7 @@ export class PlayScreenComponent implements OnInit {
   quizCompleted = false;
   score: number = 0;
   totalQuestions: number = 0;
+  reviewAnswer: ReviewAnswer[] = [];
   achievement: { title: string; description: string } | null = null;
 
 
@@ -117,8 +119,6 @@ export class PlayScreenComponent implements OnInit {
       this.startTimer();
     }
     if (this.currentQuestionIndex == this.questions.length) {
-      this.timer = 0;
-      this.timerInterval = null;
       this.submitQuiz();
     }
   }
@@ -141,6 +141,15 @@ export class PlayScreenComponent implements OnInit {
           this.score = success.score;
           this.totalQuestions = success.totalQuestions;
           this.achievement = success.achievement;
+          this.reviewAnswer = success.answers.map((ans: any) => {
+            const qt = this.questions.find(q => q.id == ans.questionId);
+            return {
+              questionText: qt?.questionText,
+              answer: ans.answer,
+              isCorrect: ans.isCorrect
+            };
+          });
+          console.log(this.reviewAnswer);
           this.quizCompleted = true;
         }
       });

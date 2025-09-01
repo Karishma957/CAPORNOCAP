@@ -1,5 +1,8 @@
 package com.capornocap.kafka.event;
 
+import com.capornocap.utils.Difficulty;
+import com.capornocap.utils.Genre;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -15,7 +18,6 @@ public class ScoreEvent {
     private int score;
     private int totalQuestions;
     private int correctAnswers;
-    private String difficulty;
-    private Long genreId;
-    private String genreName;
+    private Difficulty difficulty;
+    private Genre genreName;
 }

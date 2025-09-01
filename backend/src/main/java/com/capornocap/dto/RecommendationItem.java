@@ -1,5 +1,8 @@
 package com.capornocap.dto;
 
+import com.capornocap.utils.Difficulty;
+import com.capornocap.utils.Genre;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -10,7 +13,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Builder
 public class RecommendationItem {
-    private String genreName;
-    private String difficulty;
+    private Genre genreName;
+    private Difficulty difficulty;
     private double confidenceScore;
 }

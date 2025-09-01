@@ -1,6 +1,8 @@
 package com.capornocap.dto;
 
-import com.capornocap.utils.Achievement;
+import java.util.List;
+
+import com.capornocap.model.Answer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -14,5 +16,6 @@ import lombok.NoArgsConstructor;
 public class QuizSubmitResponse {
     private Integer score;
     private Integer totalQuestions;
-    private Achievement achievement;
+    private AchievementDTO achievement;
+    private List<Answer> answers;
 }

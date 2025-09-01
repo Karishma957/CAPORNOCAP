@@ -1,5 +1,7 @@
 package com.capornocap.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -8,6 +10,9 @@ import org.springframework.web.client.RestTemplate;
 
 import com.capornocap.dto.AIRecommendationRequestEvent;
 import com.capornocap.dto.AIRecommendationResponseEvent;
+import com.capornocap.dto.RecommendationItem;
+import com.capornocap.utils.Difficulty;
+import com.capornocap.utils.Genre;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -39,6 +44,18 @@ public class RecommendationController {
                     .build();
             AIRecommendationResponseEvent response = restTemplate.postForObject(recommendApiUrl, request,
                     AIRecommendationResponseEvent.class);
+            if (response == null || response.getRecommendations().size() == 0) {
+                response.setRecommendations(
+                        List.of(
+                                RecommendationItem.builder().genreName(Genre.GENERAL_KNOWLEDGE)
+                                        .difficulty(Difficulty.EASY).build(),
+                                RecommendationItem.builder().genreName(Genre.ENTERTAINMENT)
+                                        .difficulty(Difficulty.EASY).build(),
+                                RecommendationItem.builder().genreName(Genre.GAMING)
+                                        .difficulty(Difficulty.EASY).build()
+
+                        ));
+            }
             log.info("Got response: {}", response);
             return ResponseEntity.ok(response);
         } catch (Exception e) {

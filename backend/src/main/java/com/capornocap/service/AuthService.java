@@ -4,6 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.time.Instant;
 import java.util.Optional;
+import java.util.Random;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -38,12 +39,15 @@ public class AuthService {
         if (opt.isEmpty()) {
             log.info("Username not found. Registering new player: {}", username);
 
+            Random rdm = new Random();
+
             Player newPlayer = Player.builder()
                     .username(username)
                     .passwordHash(passwordEncoder.encode(password))
                     .xp(0)
                     .createdAt(Instant.now())
                     .achievement(Achievement.NEWBIE)
+                    .avatarUrl("/pfp/" + rdm.nextInt(8) + ".png")
                     .build();
 
             newPlayer = playerRepository.save(newPlayer);

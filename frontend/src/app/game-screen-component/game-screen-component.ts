@@ -32,6 +32,8 @@ export class GameScreenComponent implements OnInit {
   loading: boolean = false;
   leaderboard: Leaderboard[] = [];
   profile!: Profile;
+  currentPage: number = 0;
+  totalPages: number = 0;
 
   private accentPalette: string[] = [
     "#88C999", // soft mint green
@@ -119,18 +121,34 @@ export class GameScreenComponent implements OnInit {
     });
   }
 
-  openLeaderboard() {
+  openLeaderboard(page: number = 0) {
     this.showLeaderboard = true;
     this.loading = true;
-    this.apiService.getLeaderboard().subscribe({
+    this.apiService.getLeaderboard(page, 10).subscribe({
       next: (success) => {
-        this.leaderboard = success;
+        this.leaderboard = success.players;
+        this.currentPage = success.currentPage;
+        this.totalPages = success.totalPages;
         this.loading = false;
       },
       error: () => {
         this.loading = false;
       }
     });
+  }
+
+  nextPage(): void {
+    if (this.currentPage < this.totalPages - 1) {
+      this.currentPage++;
+      this.openLeaderboard(this.currentPage);
+    }
+  }
+
+  prevPage(): void {
+    if (this.currentPage > 0) {
+      this.currentPage--;
+      this.openLeaderboard(this.currentPage);
+    }
   }
 
   closeLeaderboard() {

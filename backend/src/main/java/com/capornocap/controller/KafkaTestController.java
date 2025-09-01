@@ -46,9 +46,9 @@ public class KafkaTestController {
                     .score(5 + (int) (Math.random() * 15)) // random score 5–20
                     .totalQuestions(5 + (i % 3) * 5) // 5, 10, 15 questions
                     .correctAnswers((int) (Math.random() * 5)) // 0–4 correct
-                    .difficulty(difficulties.get(i))
-                    .genreId((long) (i + 1))
-                    .genreName(genres.get(i))
+                    // .difficulty(difficulties.get(i))
+                    // .genreId((long) (i + 1))
+                    // .genreName(genres.get(i))
                     .build();
 
             kafkaProducerService.sendScoreEvent(event);

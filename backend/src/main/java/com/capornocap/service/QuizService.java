@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
+import com.capornocap.dto.AchievementDTO;
 import com.capornocap.dto.QuizAnswer;
 import com.capornocap.dto.QuizSubmitRequest;
 import com.capornocap.dto.QuizSubmitResponse;
@@ -92,7 +93,12 @@ public class QuizService {
         QuizSubmitResponse response = QuizSubmitResponse.builder()
                 .score(score.get())
                 .totalQuestions(answers.size())
-                .achievement(updAchievement)
+                .achievement(updAchievement == null ? null
+                        : AchievementDTO.builder()
+                                .title(updAchievement.getTitle())
+                                .description(updAchievement.getDescription())
+                                .build())
+                .answers(answers)
                 .build();
 
         log.info("Quiz submission response: {}", response);
