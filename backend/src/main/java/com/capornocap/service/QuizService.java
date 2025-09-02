@@ -10,6 +10,8 @@ import com.capornocap.dto.AchievementDTO;
 import com.capornocap.dto.QuizAnswer;
 import com.capornocap.dto.QuizSubmitRequest;
 import com.capornocap.dto.QuizSubmitResponse;
+import com.capornocap.kafka.KafkaProducerService;
+import com.capornocap.kafka.event.ScoreEvent;
 import com.capornocap.model.Answer;
 import com.capornocap.model.Player;
 import com.capornocap.model.Question;
@@ -26,12 +28,14 @@ public class QuizService {
     private final QuizRepository quizRepository;
     private final PlayerRepository playerRepository;
     private final QuestionService questionService;
+    private final KafkaProducerService kafkaProducerService;
 
     public QuizService(QuizRepository quizRepository, PlayerRepository playerRepository,
-            QuestionService questionService) {
+            QuestionService questionService, KafkaProducerService kafkaProducerService) {
         this.playerRepository = playerRepository;
         this.quizRepository = quizRepository;
         this.questionService = questionService;
+        this.kafkaProducerService = kafkaProducerService;
     }
 
     public QuizSubmitResponse submitQuiz(QuizSubmitRequest request) {
@@ -75,7 +79,7 @@ public class QuizService {
                 .score(score.get())
                 .build();
         log.info("Saving quiz attempt with score: {}", score.get());
-        this.quizRepository.save(quiz);
+        Quiz q = this.quizRepository.save(quiz);
 
         int updatedXp = player.getXp() + score.get();
         log.info("Updating player XP: {} -> {}", player.getXp(), updatedXp);
@@ -102,6 +106,19 @@ public class QuizService {
                 .build();
 
         log.info("Quiz submission response: {}", response);
+
+        ScoreEvent event = ScoreEvent.builder()
+                .playerId(request.getPlayerId())
+                .quizSessionId(q.getId())
+                .score(response.getScore())
+                .totalQuestions(response.getTotalQuestions())
+                .correctAnswers(response.getScore())
+                .difficulty(request.getDifficulty())
+                .genreName(request.getGenre())
+                .build();
+
+        kafkaProducerService.sendScoreEvent(event);
+
         return response;
     }
 
