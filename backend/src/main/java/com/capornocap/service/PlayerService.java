@@ -6,8 +6,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
-import com.capornocap.dto.Leaderboard;
-import com.capornocap.model.Player;
+import com.capornocap.entity.Player;
+import com.capornocap.model.Leaderboard;
 import com.capornocap.repository.PlayerRepository;
 
 @Service

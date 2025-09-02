@@ -1,4 +1,4 @@
-package com.capornocap.model;
+package com.capornocap.entity;
 
 import java.time.Instant;
 import java.util.List;

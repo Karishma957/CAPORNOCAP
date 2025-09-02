@@ -3,8 +3,8 @@ package com.capornocap.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.capornocap.dto.AuthRequest;
-import com.capornocap.dto.AuthResponse;
+import com.capornocap.model.AuthRequest;
+import com.capornocap.model.AuthResponse;
 import com.capornocap.service.AuthService;
 
 import java.util.Map;

@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import org.springframework.stereotype.Service;
 
 import com.capornocap.dto.QuestionDTO;
-import com.capornocap.model.Question;
+import com.capornocap.entity.Question;
 import com.capornocap.repository.QuestionRepository;
 import com.capornocap.utils.Difficulty;
 import com.capornocap.utils.Genre;

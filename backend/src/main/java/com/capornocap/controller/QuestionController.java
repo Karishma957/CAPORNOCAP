@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.capornocap.dto.QuestionDTO;
-import com.capornocap.model.Question;
+import com.capornocap.entity.Question;
 import com.capornocap.service.QuestionService;
 import com.capornocap.utils.Difficulty;
 import com.capornocap.utils.Genre;

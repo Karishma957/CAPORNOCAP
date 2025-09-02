@@ -8,8 +8,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import com.capornocap.dto.Leaderboard;
-import com.capornocap.model.Player;
+import com.capornocap.entity.Player;
+import com.capornocap.model.Leaderboard;
 
 @Repository
 public interface PlayerRepository extends JpaRepository<Player, Long> {

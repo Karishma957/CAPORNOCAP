@@ -5,7 +5,6 @@ public enum UserActivityType {
     LOGOUT,
     QUIZ_STARTED,
     QUIZ_ENDED,
-    PROFILE_UPDATED,
     ACHIEVEMENT_UNLOCKED,
     RECOMMENDATION_ACCEPTED
 }

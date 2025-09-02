@@ -1,4 +1,4 @@
-package com.capornocap.model;
+package com.capornocap.entity;
 
 import com.capornocap.utils.Difficulty;
 import com.capornocap.utils.Genre;

@@ -1,8 +1,9 @@
-package com.capornocap.dto;
+package com.capornocap.model;
 
 import java.util.List;
 
-import com.capornocap.model.Answer;
+import com.capornocap.dto.AchievementDTO;
+import com.capornocap.entity.Answer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

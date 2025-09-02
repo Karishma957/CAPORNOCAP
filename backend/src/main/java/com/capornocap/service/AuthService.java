@@ -11,8 +11,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.capornocap.dto.AuthResponse;
-import com.capornocap.model.Player;
+import com.capornocap.entity.Player;
+import com.capornocap.model.AuthResponse;
 import com.capornocap.repository.PlayerRepository;
 import com.capornocap.utils.Achievement;
 import com.capornocap.utils.JwtUtil;

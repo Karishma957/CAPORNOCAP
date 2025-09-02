@@ -1,7 +1,8 @@
 package com.capornocap.dto;
 
-import java.time.LocalDateTime;
 import java.util.List;
+
+import com.capornocap.model.Leaderboard;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -12,8 +13,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class AIRecommendationResponseEvent {
-    private Long playerId;
-    private List<RecommendationItem> recommendations;
-    private LocalDateTime generatedAt;
+public class LeaderboardDto {
+    private List<Leaderboard> players;
+    private long totalCount;
+    private int totalPages;
+    private int currentPage;
 }

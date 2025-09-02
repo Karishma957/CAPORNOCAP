@@ -3,8 +3,8 @@ package com.capornocap.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.capornocap.dto.QuizSubmitRequest;
-import com.capornocap.dto.QuizSubmitResponse;
+import com.capornocap.model.QuizSubmitRequest;
+import com.capornocap.model.QuizSubmitResponse;
 import com.capornocap.service.QuizService;
 
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.capornocap.dto;
+package com.capornocap.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

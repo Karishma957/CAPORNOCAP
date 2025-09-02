@@ -8,9 +8,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.capornocap.dto.AIRecommendationRequestEvent;
-import com.capornocap.dto.AIRecommendationResponseEvent;
-import com.capornocap.dto.RecommendationItem;
+import com.capornocap.model.AIRecommendationRequestEvent;
+import com.capornocap.model.AIRecommendationResponseEvent;
+import com.capornocap.model.RecommendationItem;
 import com.capornocap.utils.Difficulty;
 import com.capornocap.utils.Genre;
 
@@ -44,7 +44,7 @@ public class RecommendationController {
                     .build();
             AIRecommendationResponseEvent response = restTemplate.postForObject(recommendApiUrl, request,
                     AIRecommendationResponseEvent.class);
-            if (response == null || response.getRecommendations().size() == 0) {
+            if (response != null && response.getRecommendations().size() == 0) {
                 response.setRecommendations(
                         List.of(
                                 RecommendationItem.builder().genreName(Genre.GENERAL_KNOWLEDGE)

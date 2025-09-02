@@ -12,10 +12,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.capornocap.dto.AchievementDTO;
-import com.capornocap.dto.Leaderboard;
-import com.capornocap.dto.LeaderboardResponse;
+import com.capornocap.dto.LeaderboardDto;
 import com.capornocap.dto.PlayerDTO;
-import com.capornocap.model.Player;
+import com.capornocap.entity.Player;
+import com.capornocap.model.Leaderboard;
 import com.capornocap.service.PlayerService;
 
 import lombok.extern.slf4j.Slf4j;
@@ -32,11 +32,11 @@ public class PlayerController {
     }
 
     @GetMapping("/leaderboard")
-    public ResponseEntity<LeaderboardResponse> getLeaderboard(
+    public ResponseEntity<LeaderboardDto> getLeaderboard(
             @RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "10") int size) {
         try {
             Page<Leaderboard> leaderboard = this.playerService.getLeaderboard(page, size);
-            LeaderboardResponse response = LeaderboardResponse.builder()
+            LeaderboardDto response = LeaderboardDto.builder()
                     .players(leaderboard.getContent())
                     .totalCount(leaderboard.getTotalElements())
                     .totalPages(leaderboard.getTotalPages())
