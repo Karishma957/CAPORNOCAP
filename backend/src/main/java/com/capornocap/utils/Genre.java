@@ -13,5 +13,14 @@ public enum Genre {
     MUSIC,
     SCIENCE,
     SPORTS,
-    TECHNOLOGY
+    TECHNOLOGY;
+
+    public static Genre fromString(String genre) {
+        for (Genre g : Genre.values()) {
+            if (g.name().equalsIgnoreCase(genre)) {
+                return g;
+            }
+        }
+        throw new IllegalArgumentException("No enum constant for genre: " + genre);
+    }
 }

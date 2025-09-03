@@ -1,3 +1,6 @@
+networks:
+  capnet:
+
 services:
   zookeeper:
     image: confluentinc/cp-zookeeper:7.2.1
@@ -6,6 +9,8 @@ services:
       - "2181:2181"
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
+    networks:
+      - capnet
 
   kafka:
     image: confluentinc/cp-kafka:7.2.1
@@ -23,6 +28,8 @@ services:
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+    networks:
+      - capnet
 
   mysql:
     image: mysql:8.0
@@ -36,6 +43,8 @@ services:
       test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
       interval: 10s
       retries: 5
+    networks:
+      - capnet
 
   backend:
     container_name: backend
@@ -51,6 +60,8 @@ services:
         condition: service_started
       recommender-service:
         condition: service_started
+    networks:
+      - capnet
 
   recommender-service:
     container_name: recommender_service
@@ -59,3 +70,5 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8000:8000"
+    networks:
+      - capnet

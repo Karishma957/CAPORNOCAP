@@ -39,4 +39,13 @@ public enum Achievement {
         }
         return result;
     }
+
+    public static Achievement getAchievementFromTitle(String title) {
+        for (Achievement ach : Achievement.values()) {
+            if (ach.getTitle().equalsIgnoreCase(title)) {
+                return ach;
+            }
+        }
+        throw new IllegalArgumentException("No achievement found for title: " + title);
+    }
 }

@@ -17,6 +17,6 @@ public interface PlayerRepository extends JpaRepository<Player, Long> {
 
     boolean existsByUsername(String username);
 
-    @Query("SELECT new com.capornocap.dto.Leaderboard(p.username, p.xp, p.avatarUrl) FROM Player p ORDER BY p.xp DESC")
+    @Query("SELECT new com.capornocap.model.Leaderboard(p.username, p.xp, p.avatarUrl) FROM Player p ORDER BY p.xp DESC")
     Page<Leaderboard> getLeaderboard(Pageable pageable);
 }

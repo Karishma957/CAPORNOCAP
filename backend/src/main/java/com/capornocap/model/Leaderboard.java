@@ -1,16 +1,16 @@
 package com.capornocap.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor
-@AllArgsConstructor
-@Builder
 public class Leaderboard {
     private String username;
     private Integer xp;
     private String avatarUrl;
+
+    public Leaderboard(String username, Integer xp, String avatarUrl) {
+        this.username = username;
+        this.xp = xp;
+        this.avatarUrl = avatarUrl;
+    }
 }

@@ -1,4 +1,4 @@
-package com.capornocap.kafka.event;
+package com.capornocap.model;
 
 import com.capornocap.utils.UserActivityType;
 
@@ -13,9 +13,6 @@ import lombok.NoArgsConstructor;
 @Builder
 public class PlayerActivityEvent {
     private Long playerId;
-    private Long quizSessionId;
     private UserActivityType userActivityType;
-    private String fieldName;
-    private String beforeValue;
-    private String afterValue;
+    private String achievement;
 }

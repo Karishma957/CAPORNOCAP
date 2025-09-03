@@ -1,0 +1,82 @@
+:host {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.dev-console {
+    padding: 20px;
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.dev-console::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background: url("/devConsolebg.jpeg") center center / cover no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+    filter: brightness(0.5);
+}
+
+.charts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+}
+
+.chart-section {
+    background: rgba(0, 0, 0, 0.55);
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 18px rgba(255, 204, 102, 0.15);
+    text-align: center;
+}
+
+.chart-section h3 {
+    font-size: 0.85rem;
+    margin-bottom: 14px;
+    color: #33c37e;
+    text-shadow: 0 0 4px rgba(51, 195, 126, 0.6);
+}
+
+.chart-section canvas {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 300px;
+}
+
+.top-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.top-cards .card {
+    flex: 1;
+    min-width: 160px;
+    background: rgba(255, 255, 255, 0.08);
+    padding: 14px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #ffcc66;
+    text-shadow: 0 0 3px rgba(255, 204, 102, 0.6);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.top-cards .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1000px) {
+    .charts-grid {
+        grid-template-columns: 1fr;
+    }
+}

@@ -44,3 +44,15 @@ user-activity-events       | Sends info when a player starts or finishes a quiz 
 score-events               | Publishes the final score after quiz submission	 | ScoreService (Backend)	                | AnalyticsService, LeaderboardService, AIService
 ai-recommendation-requests | Triggers a recommendation for a user	             | RecommendationService	                | AIService
 ai-recommendation-responses| Returns recommended genres/difficulties for a user	 | AIService → KafkaProducer	            | Frontend via RecommendationService
+
+Live metrics (counters):
+Online/Logged-in count (current active sessions)
+Logged-out count (cumulative or last X mins)
+Quiz started (current active quiz sessions)
+Achievements unlocked (per achievement)
+Recommendations accepted (count + frequency)
+Charts:
+Time series: logins/logouts/quiz-started per minute (rolling window)
+Bar charts: scores grouped by (genre × difficulty)
+Top N: most played (genre × difficulty)
+Pie/Donut: achievement distribution, recommendation acceptance ratio

@@ -3,8 +3,8 @@ package com.capornocap.kafka;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
-import com.capornocap.kafka.event.PlayerActivityEvent;
-import com.capornocap.kafka.event.ScoreEvent;
+import com.capornocap.model.PlayerActivityEvent;
+import com.capornocap.model.ScoreEvent;
 
 import lombok.RequiredArgsConstructor;
 

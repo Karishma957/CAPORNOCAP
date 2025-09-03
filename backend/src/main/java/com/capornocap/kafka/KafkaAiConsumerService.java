@@ -4,7 +4,8 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
-import com.capornocap.kafka.event.ScoreEvent;
+
+import com.capornocap.model.ScoreEvent;
 
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
