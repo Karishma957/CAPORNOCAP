@@ -10,7 +10,6 @@ export interface DeveloperConsoleState {
     totalRecommendationsAccepted: number;
 
     timeSeriesByMinute: TimeSeriesByMinute[];
-    achievementCount: { [key: string]: number } | null;
     mostPlayed: MostPlayed[];
     scoresByCombo: ScoresCombo[];
 }

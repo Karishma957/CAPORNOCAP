@@ -18,6 +18,7 @@ import { Leaderboard } from '../model/Leaderboard';
 import { Profile } from '../model/Profile';
 import { ApiService } from '../services/api.service';
 import { AuthenticationService } from '../services/authentication-service';
+import { PlayerActivityEvent } from '../model/PlayerActivityEvent';
 
 @Component({
   selector: 'app-game-screen',
@@ -34,6 +35,7 @@ export class GameScreenComponent implements OnInit {
   profile!: Profile;
   currentPage: number = 0;
   totalPages: number = 0;
+  playerId: number | null = null;
 
   private accentPalette: string[] = [
     "#88C999", // soft mint green
@@ -69,12 +71,12 @@ export class GameScreenComponent implements OnInit {
   }
 
   private loadRecommended(): void {
-    const playerId = this.authenticationService.getPlayerId();
-    if (playerId == null) {
+    this.playerId = this.authenticationService.getPlayerId();
+    if (this.playerId == null) {
       this.authenticationService.clearAuth();
       return;
     }
-    this.apiService.getRecommendations(playerId).subscribe({
+    this.apiService.getRecommendations(this.playerId).subscribe({
       next: (success) => {
         this.recommended = success.recommendations.map(
           (item: { genreName: string, difficulty: string, confidenceScore: number }, i: number) => this.mapRecommended(item, i));
@@ -110,6 +112,12 @@ export class GameScreenComponent implements OnInit {
 
   closePopup() {
     this.selectedGenre = null;
+  }
+
+  recommendationSelected(genreName: string, difficulty: string) {
+    const activityEvent: PlayerActivityEvent = { playerId: this.playerId!, userActivityType: 'RECOMMENDATION_ACCEPTED', achievement: '' };
+    this.apiService.sendPlayerActivityEvent(activityEvent).subscribe();
+    this.goToPlayScreen(genreName, difficulty);
   }
 
   goToPlayScreen(genreName: string, difficulty: string) {

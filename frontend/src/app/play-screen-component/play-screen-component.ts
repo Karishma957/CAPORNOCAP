@@ -7,6 +7,7 @@ import { AuthenticationService } from '../services/authentication-service';
 import { NgFor, NgIf } from '@angular/common';
 import { ApiService } from '../services/api.service';
 import { ReviewAnswer } from '../model/ReviewAnswer';
+import { PlayerActivityEvent } from '../model/PlayerActivityEvent';
 
 
 @Component({
@@ -88,6 +89,9 @@ export class PlayScreenComponent implements OnInit {
         this.startTimer();
       });
 
+    const activityEvent: PlayerActivityEvent = { playerId: this.playerId!, userActivityType: 'QUIZ_STARTED', achievement: '' };
+    this.apiService.sendPlayerActivityEvent(activityEvent).subscribe();
+
     this.questions = [
       { id: 1, questionText: 'The Earth is flat?' },
       { id: 2, questionText: 'The Sun rises in the East?' },
@@ -153,6 +157,9 @@ export class PlayScreenComponent implements OnInit {
           this.quizCompleted = true;
         }
       });
+
+    const activityEvent: PlayerActivityEvent = { playerId: this.playerId!, userActivityType: 'QUIZ_ENDED', achievement: '' };
+    this.apiService.sendPlayerActivityEvent(activityEvent).subscribe();
   }
 
   getRandomBackground(): string {

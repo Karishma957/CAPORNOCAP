@@ -1,4 +1,6 @@
 import { Injectable } from '@angular/core';
+import { PlayerActivityEvent } from '../model/PlayerActivityEvent';
+import { ApiService } from './api.service';
 
 const TOKEN_KEY = 'capnocap_auth_token';
 const PLAYER_ID = 'capnocap_playerid';
@@ -15,7 +17,7 @@ export class AuthenticationService {
   loggedIn: boolean = false;
   loginErrorMessage: string = "";
 
-  constructor() {
+  constructor(private apiService: ApiService) {
     this.token = localStorage.getItem(TOKEN_KEY);
     this.username = localStorage.getItem(USERNAME);
     this.playerId = Number(localStorage.getItem(PLAYER_ID));
@@ -50,6 +52,8 @@ export class AuthenticationService {
   }
 
   clearAuth(): void {
+    const activityEvent: PlayerActivityEvent = { playerId: this.playerId!, userActivityType: 'LOGOUT', achievement: '' };
+    this.apiService.sendPlayerActivityEvent(activityEvent).subscribe();
     localStorage.removeItem(TOKEN_KEY);
     localStorage.removeItem(PLAYER_ID);
     localStorage.removeItem(USERNAME);

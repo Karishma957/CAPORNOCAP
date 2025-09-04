@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 import com.capornocap.model.PlayerActivityEvent;
 import com.capornocap.model.ScoreEvent;
 import com.capornocap.service.DeveloperConsoleService;
-import com.capornocap.utils.Achievement;
 import com.capornocap.utils.UserActivityType;
 
 import lombok.RequiredArgsConstructor;
@@ -37,10 +36,6 @@ public class KafkaAnalyticsConsumerService {
                 break;
             case QUIZ_ENDED:
                 developerConsoleService.onQuizEnded(message.getPlayerId());
-                break;
-            case ACHIEVEMENT_UNLOCKED:
-                Achievement achievement = Achievement.getAchievementFromTitle(message.getAchievement());
-                developerConsoleService.onAchievementUnlocked(achievement);
                 break;
             case RECOMMENDATION_ACCEPTED:
                 developerConsoleService.onRecommendationAccepted();

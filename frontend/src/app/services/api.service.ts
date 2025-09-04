@@ -2,6 +2,7 @@ import { Injectable } from "@angular/core";
 import { Observable } from "rxjs";
 import { environment } from "../../environments";
 import { HttpClient } from "@angular/common/http";
+import { PlayerActivityEvent } from "../model/PlayerActivityEvent";
 
 @Injectable({
     providedIn: 'root'
@@ -38,5 +39,10 @@ export class ApiService {
 
     submitQuiz(payload: any): Observable<any> {
         return this.http.post(`${this.baseUrl}/submitQuiz`, payload);
+    }
+
+    sendPlayerActivityEvent(payload: PlayerActivityEvent) {
+        console.log("sending player activity event: {}", payload);
+        return this.http.post(`${this.baseUrl}/playerActivity`, payload);
     }
 }

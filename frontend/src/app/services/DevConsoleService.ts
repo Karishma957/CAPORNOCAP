@@ -16,7 +16,6 @@ export class DevConsoleService {
     start() {
         console.log("[DevConsoleService] Starting service…");
 
-        // --- Snapshot fetch ---
         const snapshotUrl = `${environment.backendBaseUrl}/dev-console/snapshot`;
         console.log("[DevConsoleService] Fetching snapshot from:", snapshotUrl);
 
@@ -31,7 +30,6 @@ export class DevConsoleService {
             })
             .catch(err => console.error("[DevConsoleService] Snapshot error:", err));
 
-        // --- SSE connection ---
         const streamUrl = `${environment.backendBaseUrl}/dev-console/stream`;
         console.log("[DevConsoleService] Opening EventSource to:", streamUrl);
 

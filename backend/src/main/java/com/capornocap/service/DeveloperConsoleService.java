@@ -5,7 +5,6 @@ import java.time.temporal.ChronoUnit;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -21,7 +20,6 @@ import com.capornocap.dto.DeveloperConsoleState;
 import com.capornocap.model.MostPlayed;
 import com.capornocap.model.ScoresCombo;
 import com.capornocap.model.TimeSeriesByMinute;
-import com.capornocap.utils.Achievement;
 import com.capornocap.utils.Difficulty;
 import com.capornocap.utils.Genre;
 
@@ -39,7 +37,6 @@ public class DeveloperConsoleService {
     private final RollingCounter logouts = new RollingCounter(WINDOW);
     private final RollingCounter quizStarted = new RollingCounter(WINDOW);
 
-    private final Map<Achievement, AtomicLong> achievements = new ConcurrentHashMap<>();
     private final Map<String, AtomicLong> genreDifficultyCount = new ConcurrentHashMap<>();
     private final Map<String, Score> genreDifficultyTotalScore = new ConcurrentHashMap<>();
 
@@ -105,10 +102,6 @@ public class DeveloperConsoleService {
                     .averageScore(v.average())
                     .build());
         });
-
-        Map<Achievement, Long> achievementCountMap = new HashMap<>();
-        achievements.forEach((k, v) -> achievementCountMap.put(k, v.get()));
-
         return DeveloperConsoleState.builder()
                 .onlinePlayers((long) onlinePlayers.size())
                 .activeQuizzes((long) activeQuizzes.size())
@@ -116,7 +109,6 @@ public class DeveloperConsoleService {
                 .totalQuizzesPlayed(totalQuizzesPlayed.get())
                 .totalRecommendationsAccepted(recommendationsAccepted.get())
                 .timeSeriesByMinute(ts)
-                .achievementCount(achievementCountMap)
                 .mostPlayed(mostPlayeds)
                 .scoresByCombo(scoresCombos)
                 .build();
@@ -158,13 +150,13 @@ public class DeveloperConsoleService {
         pushToEmitters();
     }
 
-    public void onAchievementUnlocked(Achievement achievement) {
-        achievements.computeIfAbsent(achievement, k -> new AtomicLong(0)).incrementAndGet();
+    public void onRecommendationAccepted() {
+        recommendationsAccepted.incrementAndGet();
         pushToEmitters();
     }
 
-    public void onRecommendationAccepted() {
-        recommendationsAccepted.incrementAndGet();
+    public void incrementTotalPlayer() {
+        totalPlayers.incrementAndGet();
         pushToEmitters();
     }
 

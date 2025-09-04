@@ -16,7 +16,6 @@ export class DevelopersConsoleComponent implements OnInit {
 
   lineData: ChartConfiguration<'line'>['data'] = { labels: [], datasets: [] };
   radarData: ChartConfiguration<'radar'>['data'] = { labels: [], datasets: [] };
-  pieData: ChartConfiguration<'doughnut'>['data'] = { labels: [], datasets: [] };
   barData: ChartConfiguration<'bar'>['data'] = { labels: [], datasets: [] };
 
   constructor(private devConsoleService: DevConsoleService) { }
@@ -64,15 +63,6 @@ export class DevelopersConsoleComponent implements OnInit {
           data: data.scoresByCombo.map(c => c.averageScore)
         }
       ]
-    }
-
-    if (data.achievementCount) {
-      this.pieData = {
-        labels: Object.keys(data.achievementCount),
-        datasets: [{
-          data: Object.values(data.achievementCount)
-        }]
-      }
     }
 
     this.barData = {

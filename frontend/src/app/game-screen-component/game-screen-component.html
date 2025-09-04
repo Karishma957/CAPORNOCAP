@@ -27,7 +27,7 @@
 
         <div class="rec-row">
             <article class="rec-card" *ngFor="let r of recommended;" [style.--accent]="r.accent"
-                (click)="goToPlayScreen(r.genre, r.difficulty)">
+                (click)="recommendationSelected(r.genre, r.difficulty)">
                 <div>
                     <div class="rec-play">▶</div>
                     <div class="rec-diff">{{ r.difficulty }}</div>

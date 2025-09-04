@@ -24,11 +24,14 @@ public class AuthService {
     private final PlayerRepository playerRepository;
     private final PasswordEncoder passwordEncoder;
     private final JwtUtil jwtUtil;
+    private final DeveloperConsoleService developerConsoleService;
 
-    public AuthService(PlayerRepository playerRepository, PasswordEncoder passwordEncoder, JwtUtil jwtUtil) {
+    public AuthService(PlayerRepository playerRepository, PasswordEncoder passwordEncoder, JwtUtil jwtUtil,
+            DeveloperConsoleService developerConsoleService) {
         this.playerRepository = playerRepository;
         this.passwordEncoder = passwordEncoder;
         this.jwtUtil = jwtUtil;
+        this.developerConsoleService = developerConsoleService;
     }
 
     public AuthResponse registerOrLogin(String username, String password) {
@@ -55,6 +58,8 @@ public class AuthService {
 
             String token = jwtUtil.generateToken(newPlayer.getUsername(), newPlayer.getId());
             log.info("Generated JWT for new player: {}", username);
+
+            developerConsoleService.incrementTotalPlayer();
 
             return new AuthResponse(newPlayer.getId(), newPlayer.getUsername(), token);
 

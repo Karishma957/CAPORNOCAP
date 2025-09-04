@@ -4,6 +4,7 @@ import { AuthenticationService } from '../services/authentication-service';
 import { FormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { ApiService } from '../services/api.service';
+import { PlayerActivityEvent } from '../model/PlayerActivityEvent';
 
 @Component({
   selector: 'app-starter-page',
@@ -43,6 +44,9 @@ export class StarterPage {
         this.loginErrorPresent = false;
         this.authenticationService.setAuth(success.playerId, success.username, success.token);
         this.router.navigate(['/main']);
+
+        const activityEvent: PlayerActivityEvent = { playerId: success.playerId!, userActivityType: 'LOGIN', achievement: '' };
+        this.apiService.sendPlayerActivityEvent(activityEvent).subscribe();
       },
       error: (error) => {
         console.log("yaaaaar");

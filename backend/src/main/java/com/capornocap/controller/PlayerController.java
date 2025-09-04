@@ -15,10 +15,14 @@ import com.capornocap.dto.AchievementDTO;
 import com.capornocap.dto.LeaderboardDto;
 import com.capornocap.dto.PlayerDTO;
 import com.capornocap.entity.Player;
+import com.capornocap.kafka.KafkaProducerService;
 import com.capornocap.model.Leaderboard;
+import com.capornocap.model.PlayerActivityEvent;
 import com.capornocap.service.PlayerService;
 
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
 @RequestMapping("/api")
@@ -26,9 +30,11 @@ import lombok.extern.slf4j.Slf4j;
 public class PlayerController {
 
     private final PlayerService playerService;
+    private final KafkaProducerService kafkaProducerService;
 
-    public PlayerController(PlayerService playerService) {
+    public PlayerController(PlayerService playerService, KafkaProducerService kafkaProducerService) {
         this.playerService = playerService;
+        this.kafkaProducerService = kafkaProducerService;
     }
 
     @GetMapping("/leaderboard")
@@ -74,5 +80,11 @@ public class PlayerController {
         } catch (Exception e) {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(null);
         }
+    }
+
+    @PostMapping("/playerActivity")
+    public void sendPlayerActivity(@RequestBody PlayerActivityEvent playerActivityEvent) {
+        log.info("Player activity event received: {}", playerActivityEvent);
+        this.kafkaProducerService.sendPlayerActivityEvent(playerActivityEvent);
     }
 }
