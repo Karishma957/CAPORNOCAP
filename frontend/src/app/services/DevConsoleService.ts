@@ -10,13 +10,14 @@ export class DevConsoleService {
     private _data$ = new BehaviorSubject<DeveloperConsoleState | null>(null);
     data$ = this._data$.asObservable();
     private es?: EventSource;
+    private baseUrl = environment.production ? '/api' : environment.backendBaseUrl;
 
     constructor(private zone: NgZone) { }
 
     start() {
         console.log("[DevConsoleService] Starting service…");
 
-        const snapshotUrl = `${environment.backendBaseUrl}/dev-console/snapshot`;
+        const snapshotUrl = this.baseUrl + `/dev-console/snapshot`;
         console.log("[DevConsoleService] Fetching snapshot from:", snapshotUrl);
 
         fetch(snapshotUrl)
@@ -30,7 +31,7 @@ export class DevConsoleService {
             })
             .catch(err => console.error("[DevConsoleService] Snapshot error:", err));
 
-        const streamUrl = `${environment.backendBaseUrl}/dev-console/stream`;
+        const streamUrl = this.baseUrl + `/dev-console/stream`;
         console.log("[DevConsoleService] Opening EventSource to:", streamUrl);
 
         this.es = new EventSource(streamUrl);

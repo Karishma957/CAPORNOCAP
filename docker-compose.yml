@@ -72,3 +72,15 @@ services:
       - "8000:8000"
     networks:
       - capnet
+
+  frontend:
+    container_name: frontend
+    depends_on:
+      - backend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "4200:80"
+    networks:
+      - capnet

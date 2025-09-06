@@ -9,7 +9,7 @@ import { PlayerActivityEvent } from "../model/PlayerActivityEvent";
 })
 export class ApiService {
 
-    private baseUrl = environment.backendBaseUrl;
+    private baseUrl = environment.production ? '/api' : environment.backendBaseUrl;
 
     constructor(private http: HttpClient) { }
 

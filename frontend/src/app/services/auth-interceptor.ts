@@ -6,6 +6,10 @@ export const authInterceptor: HttpInterceptorFn = (req, next) => {
   const token = localStorage.getItem('capnocap_auth_token');
   console.log("Interceptor token:", token);
 
+  if (req.url.includes('/auth/')) {
+    return next(req);
+  }
+
   if (token) {
     const cloned = req.clone({
       setHeaders: { Authorization: `Bearer ${token}` }

@@ -10,6 +10,6 @@ public class BackendApplication {
 		SpringApplication.run(BackendApplication.class, args);
 		System.out.println("Backend application started successfully.");
 		System.out.println(
-				"Visit http://localhost:8080/swagger-ui/index.html#/ to access the swagger for the application.");
+				"Visit http://backend:8080/swagger-ui/index.html#/ to access the swagger for the application.");
 	}
 }
