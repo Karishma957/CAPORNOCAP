@@ -14,7 +14,7 @@ export class ApiService {
     constructor(private http: HttpClient) { }
 
     register(username: string, password: string): Observable<any> {
-        return this.http.post(`${this.baseUrl}/register`, { username, password });
+        return this.http.post(`${this.baseUrl}/auth/register`, { username, password });
     }
 
     getRecommendations(playerId: number): Observable<any> {

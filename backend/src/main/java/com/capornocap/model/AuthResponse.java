@@ -9,5 +9,4 @@ public class AuthResponse {
     private Long playerId;
     private String username;
     private String token;
-
 }

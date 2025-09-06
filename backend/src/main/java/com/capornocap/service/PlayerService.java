@@ -25,4 +25,9 @@ public class PlayerService {
     public Page<Leaderboard> getLeaderboard(int page, int size) {
         return this.playerRepository.getLeaderboard(PageRequest.of(page, size));
     }
+
+    public Player loadByUsername(String username) {
+        return playerRepository.findByUsername(username)
+                .orElseThrow(() -> new RuntimeException("User not found"));
+    }
 }

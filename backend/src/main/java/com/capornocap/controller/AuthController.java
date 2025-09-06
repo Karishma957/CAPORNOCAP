@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/auth")
 public class AuthController {
     private final AuthService authService;
 
@@ -33,5 +33,4 @@ public class AuthController {
             return ResponseEntity.status(500).body(Map.of("error", "Internal Server Error"));
         }
     }
-
 }
