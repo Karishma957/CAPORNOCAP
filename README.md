@@ -5,7 +5,7 @@
 ## 🎥 Live Demo
 
 Watch the full demo on YouTube:  
-👉 [CapOrNoCap – Accessibility in Action](https://youtu.be/DeBlgr1dnYI?feature=shared)
+👉 [CapOrNoCap – Quiz Platform](https://youtu.be/DeBlgr1dnYI?feature=shared)
 
 ---
 
