@@ -1,5 +1,14 @@
 # CapOrNoCap – Multiplayer Quiz
 
+---
+
+## 🎥 Live Demo
+
+Watch the full demo on YouTube:  
+👉 [CapOrNoCap – Accessibility in Action](https://youtu.be/DeBlgr1dnYI?feature=shared)
+
+---
+
 ## Overview
 
 **CapOrNoCap** is a multiplayer quiz platform where players choose genres and difficulty levels to play quiz rounds.
